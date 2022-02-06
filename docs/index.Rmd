@@ -57,9 +57,9 @@ Main effects and interactions were determined by carrying out nested model compa
 
 `Region*poa` - 2-way interaction (X(`r nmc$Df[8]`) = `r nmc$Chisq[8] %>% round(digits = 2)`; p < `r nmc$p_val [8] %>% round(digits = 3)`) - The effect of Point of Articulation (the difference in RI in dental, bilibial and velar points of articulation) depended on/differed by Region. 
 
-`Region*stress*sonority` - 2-way interaction (X(`r nmc$Df[10]`) = `r nmc$Chisq[10] %>% round(digits = 2)`; p < `r nmc$p_val [10] %>% round(digits = 3)`) - The difference in RI between stressed and unstressed positions varied by whether the consonant was voiced or voiceless and by Region.  
+`Region*stress*sonority` - 3-way interaction (X(`r nmc$Df[10]`) = `r nmc$Chisq[10] %>% round(digits = 2)`; p < `r nmc$p_val [10] %>% round(digits = 3)`) - The difference in RI between stressed and unstressed positions varied by whether the consonant was voiced or voiceless and by Region.  
 
-`Region*poa*sonority` - 2-way interaction (X(`r nmc$Df[11]`) = `r nmc$Chisq[11] %>% round(digits = 2)`; p < `r nmc$p_val [11] %>% round(digits = 3)`) - The difference in the effect of RI between each point of articulation depended upon whether the consonant was voiced or voiceless and by Region.  
+`Region*poa*sonority` - 3-way interaction (X(`r nmc$Df[11]`) = `r nmc$Chisq[11] %>% round(digits = 2)`; p < `r nmc$p_val [11] %>% round(digits = 3)`) - The difference in the effect of RI between each point of articulation depended upon whether the consonant was voiced or voiceless and by Region.  
 
 **2-way Region x Sonority interaction**
 
