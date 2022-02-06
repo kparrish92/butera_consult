@@ -1,0 +1,2521 @@
+Speaker,Region,Phoneme,Sonority,Point of articulation,Vowel,Horizontal position,Vertical Position,Stress,Relative intensity
+CA,Colombia,b,voiced,bilabial,a,central,low,stressed,6.8
+CA,Colombia,b,voiced,bilabial,a,central,low,stressed,13.3
+CA,Colombia,b,voiced,bilabial,a,central,low,unstressed,13.6
+CA,Colombia,b,voiced,bilabial,a,central,low,unstressed,21.2
+CA,Colombia,b,voiced,bilabial,e,anterior,mid,stressed,11.4
+CA,Colombia,b,voiced,bilabial,e,anterior,mid,stressed,6.2
+CA,Colombia,b,voiced,bilabial,e,anterior,mid,unstressed,1.6
+CA,Colombia,b,voiced,bilabial,e,anterior,mid,unstressed,10.3
+CA,Colombia,b,voiced,bilabial,i,anterior,high,stressed,14.7
+CA,Colombia,b,voiced,bilabial,i,anterior,high,stressed,10.9
+CA,Colombia,b,voiced,bilabial,i,anterior,high,unstressed,7.1
+CA,Colombia,b,voiced,bilabial,i,anterior,high,unstressed,8
+CA,Colombia,b,voiced,bilabial,o,posterior,mid,stressed,15.1
+CA,Colombia,b,voiced,bilabial,o,posterior,mid,stressed,7.5
+CA,Colombia,b,voiced,bilabial,o,posterior,mid,unstressed,11.9
+CA,Colombia,b,voiced,bilabial,o,posterior,mid,unstressed,8
+CA,Colombia,b,voiced,bilabial,u,posterior,high,stressed,9.9
+CA,Colombia,b,voiced,bilabial,u,posterior,high,stressed,7.8
+CA,Colombia,b,voiced,bilabial,u,posterior,high,unstressed,8
+CA,Colombia,b,voiced,bilabial,u,posterior,high,unstressed,11
+CA,Colombia,k,voiceless,velar,a,central,low,stressed,35.5
+CA,Colombia,k,voiceless,velar,a,central,low,stressed,28.1
+CA,Colombia,k,voiceless,velar,a,central,low,unstressed,26
+CA,Colombia,k,voiceless,velar,a,central,low,unstressed,27.2
+CA,Colombia,k,voiceless,velar,o,posterior,mid,stressed,31
+CA,Colombia,k,voiceless,velar,o,posterior,mid,stressed,32.2
+CA,Colombia,k,voiceless,velar,o,posterior,mid,unstressed,28.6
+CA,Colombia,k,voiceless,velar,o,posterior,mid,unstressed,28.6
+CA,Colombia,k,voiceless,velar,u,posterior,high,stressed,25.5
+CA,Colombia,k,voiceless,velar,u,posterior,high,stressed,29.9
+CA,Colombia,k,voiceless,velar,u,posterior,high,unstressed,29.6
+CA,Colombia,k,voiceless,velar,u,posterior,high,unstressed,26.7
+CA,Colombia,d,voiced,dental,a,central,low,stressed,17.4
+CA,Colombia,d,voiced,dental,a,central,low,stressed,10.9
+CA,Colombia,d,voiced,dental,a,central,low,unstressed,1.2
+CA,Colombia,d,voiced,dental,a,central,low,unstressed,11.4
+CA,Colombia,d,voiced,dental,e,anterior,mid,stressed,7.3
+CA,Colombia,d,voiced,dental,e,anterior,mid,stressed,13
+CA,Colombia,d,voiced,dental,e,anterior,mid,unstressed,1.9
+CA,Colombia,d,voiced,dental,e,anterior,mid,unstressed,2.3
+CA,Colombia,d,voiced,dental,i,anterior,high,stressed,5.3
+CA,Colombia,d,voiced,dental,i,anterior,high,stressed,4
+CA,Colombia,d,voiced,dental,i,anterior,high,unstressed,0.6
+CA,Colombia,d,voiced,dental,i,anterior,high,unstressed,8.7
+CA,Colombia,d,voiced,dental,o,posterior,mid,stressed,16.4
+CA,Colombia,d,voiced,dental,o,posterior,mid,stressed,8.9
+CA,Colombia,d,voiced,dental,o,posterior,mid,unstressed,8.6
+CA,Colombia,d,voiced,dental,o,posterior,mid,unstressed,7.4
+CA,Colombia,d,voiced,dental,u,posterior,high,stressed,12.8
+CA,Colombia,d,voiced,dental,u,posterior,high,stressed,14.3
+CA,Colombia,d,voiced,dental,u,posterior,high,unstressed,2.7
+CA,Colombia,d,voiced,dental,u,posterior,high,unstressed,8.5
+CA,Colombia,g,voiced,velar,a,central,low,stressed,26.4
+CA,Colombia,g,voiced,velar,a,central,low,stressed,23.1
+CA,Colombia,g,voiced,velar,a,central,low,unstressed,14.9
+CA,Colombia,g,voiced,velar,a,central,low,unstressed,16.8
+CA,Colombia,g,voiced,velar,o,posterior,mid,stressed,20.4
+CA,Colombia,g,voiced,velar,o,posterior,mid,stressed,24.6
+CA,Colombia,g,voiced,velar,o,posterior,mid,unstressed,17.3
+CA,Colombia,g,voiced,velar,o,posterior,mid,unstressed,21
+CA,Colombia,g,voiced,velar,e,anterior,mid,stressed,17.5
+CA,Colombia,g,voiced,velar,e,anterior,mid,stressed,18.5
+CA,Colombia,g,voiced,velar,e,anterior,mid,unstressed,19.4
+CA,Colombia,g,voiced,velar,e,anterior,mid,unstressed,16.6
+CA,Colombia,g,voiced,velar,i,anterior,high,stressed,11.7
+CA,Colombia,g,voiced,velar,i,anterior,high,stressed,11.5
+CA,Colombia,g,voiced,velar,i,anterior,high,unstressed,6.6
+CA,Colombia,g,voiced,velar,i,anterior,high,unstressed,5.6
+CA,Colombia,g,voiced,velar,u,posterior,high,stressed,15.9
+CA,Colombia,g,voiced,velar,u,posterior,high,stressed,10.1
+CA,Colombia,g,voiced,velar,u,posterior,high,unstressed,8.9
+CA,Colombia,g,voiced,velar,u,posterior,high,unstressed,16.2
+CA,Colombia,p,voiceless,bilabial,a,central,low,stressed,35.3
+CA,Colombia,p,voiceless,bilabial,a,central,low,stressed,38.1
+CA,Colombia,p,voiceless,bilabial,a,central,low,unstressed,32
+CA,Colombia,p,voiceless,bilabial,a,central,low,unstressed,29.4
+CA,Colombia,p,voiceless,bilabial,e,anterior,mid,stressed,38.7
+CA,Colombia,p,voiceless,bilabial,e,anterior,mid,stressed,32.1
+CA,Colombia,p,voiceless,bilabial,e,anterior,mid,unstressed,28
+CA,Colombia,p,voiceless,bilabial,e,anterior,mid,unstressed,27.7
+CA,Colombia,p,voiceless,bilabial,i,anterior,high,stressed,23.8
+CA,Colombia,p,voiceless,bilabial,i,anterior,high,stressed,27.1
+CA,Colombia,p,voiceless,bilabial,i,anterior,high,unstressed,27.2
+CA,Colombia,p,voiceless,bilabial,i,anterior,high,unstressed,23.3
+CA,Colombia,p,voiceless,bilabial,o,posterior,mid,stressed,38
+CA,Colombia,p,voiceless,bilabial,o,posterior,mid,stressed,31.9
+CA,Colombia,p,voiceless,bilabial,o,posterior,mid,unstressed,28.3
+CA,Colombia,p,voiceless,bilabial,o,posterior,mid,unstressed,26
+CA,Colombia,p,voiceless,bilabial,u,posterior,high,stressed,31.2
+CA,Colombia,p,voiceless,bilabial,u,posterior,high,stressed,29
+CA,Colombia,p,voiceless,bilabial,u,posterior,high,unstressed,30.7
+CA,Colombia,p,voiceless,bilabial,u,posterior,high,unstressed,28.4
+CA,Colombia,k,voiceless,velar,e,anterior,mid,stressed,28.8
+CA,Colombia,k,voiceless,velar,e,anterior,mid,stressed,31.6
+CA,Colombia,k,voiceless,velar,e,anterior,mid,unstressed,28.4
+CA,Colombia,k,voiceless,velar,e,anterior,mid,unstressed,26.4
+CA,Colombia,k,voiceless,velar,i,anterior,high,stressed,29.7
+CA,Colombia,k,voiceless,velar,i,anterior,high,stressed,27.4
+CA,Colombia,k,voiceless,velar,i,anterior,high,unstressed,24.6
+CA,Colombia,k,voiceless,velar,i,anterior,high,unstressed,21.1
+CA,Colombia,t,voiceless,dental,a,central,low,stressed,39.6
+CA,Colombia,t,voiceless,dental,a,central,low,stressed,29.3
+CA,Colombia,t,voiceless,dental,a,central,low,unstressed,34.6
+CA,Colombia,t,voiceless,dental,a,central,low,unstressed,29.8
+CA,Colombia,t,voiceless,dental,e,anterior,mid,stressed,32
+CA,Colombia,t,voiceless,dental,e,anterior,mid,stressed,30.5
+CA,Colombia,t,voiceless,dental,e,anterior,mid,unstressed,30.3
+CA,Colombia,t,voiceless,dental,e,anterior,mid,unstressed,27.8
+CA,Colombia,t,voiceless,dental,i,anterior,high,stressed,29.9
+CA,Colombia,t,voiceless,dental,i,anterior,high,stressed,26.5
+CA,Colombia,t,voiceless,dental,i,anterior,high,unstressed,22.4
+CA,Colombia,t,voiceless,dental,i,anterior,high,unstressed,26
+CA,Colombia,t,voiceless,dental,o,posterior,mid,stressed,31.1
+CA,Colombia,t,voiceless,dental,o,posterior,mid,stressed,30.8
+CA,Colombia,t,voiceless,dental,o,posterior,mid,unstressed,21.4
+CA,Colombia,t,voiceless,dental,o,posterior,mid,unstressed,23.8
+CA,Colombia,t,voiceless,dental,u,posterior,high,stressed,25.4
+CA,Colombia,t,voiceless,dental,u,posterior,high,stressed,22.7
+CA,Colombia,t,voiceless,dental,u,posterior,high,unstressed,22.2
+CA,Colombia,t,voiceless,dental,u,posterior,high,unstressed,24
+CB,Colombia,b,voiced,bilabial,a,central,low,stressed,19.3
+CB,Colombia,b,voiced,bilabial,a,central,low,stressed,15.8
+CB,Colombia,b,voiced,bilabial,a,central,low,unstressed,14.3
+CB,Colombia,b,voiced,bilabial,a,central,low,unstressed,15.2
+CB,Colombia,b,voiced,bilabial,e,anterior,mid,stressed,16.5
+CB,Colombia,b,voiced,bilabial,e,anterior,mid,stressed,19.9
+CB,Colombia,b,voiced,bilabial,e,anterior,mid,unstressed,14.1
+CB,Colombia,b,voiced,bilabial,e,anterior,mid,unstressed,14.6
+CB,Colombia,b,voiced,bilabial,i,anterior,high,stressed,20.1
+CB,Colombia,b,voiced,bilabial,i,anterior,high,stressed,21.4
+CB,Colombia,b,voiced,bilabial,i,anterior,high,unstressed,22.4
+CB,Colombia,b,voiced,bilabial,i,anterior,high,unstressed,16.8
+CB,Colombia,b,voiced,bilabial,o,posterior,mid,stressed,16.9
+CB,Colombia,b,voiced,bilabial,o,posterior,mid,stressed,17.6
+CB,Colombia,b,voiced,bilabial,o,posterior,mid,unstressed,12.6
+CB,Colombia,b,voiced,bilabial,o,posterior,mid,unstressed,13.2
+CB,Colombia,b,voiced,bilabial,u,posterior,high,stressed,9.4
+CB,Colombia,b,voiced,bilabial,u,posterior,high,stressed,26.3
+CB,Colombia,b,voiced,bilabial,u,posterior,high,unstressed,10.8
+CB,Colombia,b,voiced,bilabial,u,posterior,high,unstressed,14.9
+CB,Colombia,k,voiceless,velar,a,central,low,stressed,25.8
+CB,Colombia,k,voiceless,velar,a,central,low,stressed,24.6
+CB,Colombia,k,voiceless,velar,a,central,low,unstressed,19.7
+CB,Colombia,k,voiceless,velar,a,central,low,unstressed,25.9
+CB,Colombia,k,voiceless,velar,o,posterior,mid,stressed,32
+CB,Colombia,k,voiceless,velar,o,posterior,mid,stressed,31
+CB,Colombia,k,voiceless,velar,o,posterior,mid,unstressed,27.6
+CB,Colombia,k,voiceless,velar,o,posterior,mid,unstressed,27.6
+CB,Colombia,k,voiceless,velar,u,posterior,high,stressed,25
+CB,Colombia,k,voiceless,velar,u,posterior,high,stressed,26.3
+CB,Colombia,k,voiceless,velar,u,posterior,high,unstressed,26.2
+CB,Colombia,k,voiceless,velar,u,posterior,high,unstressed,27.5
+CB,Colombia,d,voiced,dental,a,central,low,stressed,17
+CB,Colombia,d,voiced,dental,a,central,low,stressed,15.2
+CB,Colombia,d,voiced,dental,a,central,low,unstressed,15.7
+CB,Colombia,d,voiced,dental,a,central,low,unstressed,22.5
+CB,Colombia,d,voiced,dental,e,anterior,mid,stressed,23.8
+CB,Colombia,d,voiced,dental,e,anterior,mid,stressed,29.3
+CB,Colombia,d,voiced,dental,e,anterior,mid,unstressed,31.9
+CB,Colombia,d,voiced,dental,e,anterior,mid,unstressed,16.5
+CB,Colombia,d,voiced,dental,i,anterior,high,stressed,24.6
+CB,Colombia,d,voiced,dental,i,anterior,high,stressed,15.1
+CB,Colombia,d,voiced,dental,i,anterior,high,unstressed,15.9
+CB,Colombia,d,voiced,dental,i,anterior,high,unstressed,25.6
+CB,Colombia,d,voiced,dental,o,posterior,mid,stressed,18.8
+CB,Colombia,d,voiced,dental,o,posterior,mid,stressed,17.9
+CB,Colombia,d,voiced,dental,o,posterior,mid,unstressed,19.8
+CB,Colombia,d,voiced,dental,o,posterior,mid,unstressed,28.6
+CB,Colombia,d,voiced,dental,u,posterior,high,stressed,14.4
+CB,Colombia,d,voiced,dental,u,posterior,high,stressed,24.4
+CB,Colombia,d,voiced,dental,u,posterior,high,unstressed,17
+CB,Colombia,d,voiced,dental,u,posterior,high,unstressed,28.2
+CB,Colombia,g,voiced,velar,a,central,low,stressed,21.5
+CB,Colombia,g,voiced,velar,a,central,low,stressed,21.7
+CB,Colombia,g,voiced,velar,a,central,low,unstressed,17.5
+CB,Colombia,g,voiced,velar,a,central,low,unstressed,29.2
+CB,Colombia,g,voiced,velar,o,posterior,mid,stressed,17.7
+CB,Colombia,g,voiced,velar,o,posterior,mid,stressed,20.9
+CB,Colombia,g,voiced,velar,o,posterior,mid,unstressed,19.9
+CB,Colombia,g,voiced,velar,o,posterior,mid,unstressed,20.9
+CB,Colombia,g,voiced,velar,e,anterior,mid,stressed,18.5
+CB,Colombia,g,voiced,velar,e,anterior,mid,stressed,19.3
+CB,Colombia,g,voiced,velar,e,anterior,mid,unstressed,19.4
+CB,Colombia,g,voiced,velar,e,anterior,mid,unstressed,23.9
+CB,Colombia,g,voiced,velar,i,anterior,high,stressed,12.4
+CB,Colombia,g,voiced,velar,i,anterior,high,stressed,12.7
+CB,Colombia,g,voiced,velar,i,anterior,high,unstressed,8
+CB,Colombia,g,voiced,velar,i,anterior,high,unstressed,8.6
+CB,Colombia,g,voiced,velar,u,posterior,high,stressed,16.5
+CB,Colombia,g,voiced,velar,u,posterior,high,stressed,15.7
+CB,Colombia,g,voiced,velar,u,posterior,high,unstressed,3.9
+CB,Colombia,g,voiced,velar,u,posterior,high,unstressed,13.4
+CB,Colombia,p,voiceless,bilabial,a,central,low,stressed,28
+CB,Colombia,p,voiceless,bilabial,a,central,low,stressed,22.3
+CB,Colombia,p,voiceless,bilabial,a,central,low,unstressed,24.3
+CB,Colombia,p,voiceless,bilabial,a,central,low,unstressed,22.4
+CB,Colombia,p,voiceless,bilabial,e,anterior,mid,stressed,39.2
+CB,Colombia,p,voiceless,bilabial,e,anterior,mid,stressed,28.4
+CB,Colombia,p,voiceless,bilabial,e,anterior,mid,unstressed,27.9
+CB,Colombia,p,voiceless,bilabial,e,anterior,mid,unstressed,28.4
+CB,Colombia,p,voiceless,bilabial,i,anterior,high,stressed,21.2
+CB,Colombia,p,voiceless,bilabial,i,anterior,high,stressed,23.9
+CB,Colombia,p,voiceless,bilabial,i,anterior,high,unstressed,23.5
+CB,Colombia,p,voiceless,bilabial,i,anterior,high,unstressed,18.5
+CB,Colombia,p,voiceless,bilabial,o,posterior,mid,stressed,31.8
+CB,Colombia,p,voiceless,bilabial,o,posterior,mid,stressed,32.1
+CB,Colombia,p,voiceless,bilabial,o,posterior,mid,unstressed,26.3
+CB,Colombia,p,voiceless,bilabial,o,posterior,mid,unstressed,27.1
+CB,Colombia,p,voiceless,bilabial,u,posterior,high,stressed,30.6
+CB,Colombia,p,voiceless,bilabial,u,posterior,high,stressed,29.1
+CB,Colombia,p,voiceless,bilabial,u,posterior,high,unstressed,28.6
+CB,Colombia,p,voiceless,bilabial,u,posterior,high,unstressed,28.1
+CB,Colombia,k,voiceless,velar,e,anterior,mid,stressed,30.1
+CB,Colombia,k,voiceless,velar,e,anterior,mid,stressed,26.1
+CB,Colombia,k,voiceless,velar,e,anterior,mid,unstressed,26.1
+CB,Colombia,k,voiceless,velar,e,anterior,mid,unstressed,25
+CB,Colombia,k,voiceless,velar,i,anterior,high,stressed,22.1
+CB,Colombia,k,voiceless,velar,i,anterior,high,stressed,22.1
+CB,Colombia,k,voiceless,velar,i,anterior,high,unstressed,17.5
+CB,Colombia,k,voiceless,velar,i,anterior,high,unstressed,16.5
+CB,Colombia,t,voiceless,dental,a,central,low,stressed,31.7
+CB,Colombia,t,voiceless,dental,a,central,low,stressed,29.3
+CB,Colombia,t,voiceless,dental,a,central,low,unstressed,25.4
+CB,Colombia,t,voiceless,dental,a,central,low,unstressed,32.5
+CB,Colombia,t,voiceless,dental,e,anterior,mid,stressed,29.4
+CB,Colombia,t,voiceless,dental,e,anterior,mid,stressed,24.4
+CB,Colombia,t,voiceless,dental,e,anterior,mid,unstressed,32.5
+CB,Colombia,t,voiceless,dental,e,anterior,mid,unstressed,30.7
+CB,Colombia,t,voiceless,dental,i,anterior,high,stressed,31.2
+CB,Colombia,t,voiceless,dental,i,anterior,high,stressed,26.9
+CB,Colombia,t,voiceless,dental,i,anterior,high,unstressed,25.2
+CB,Colombia,t,voiceless,dental,i,anterior,high,unstressed,29.9
+CB,Colombia,t,voiceless,dental,o,posterior,mid,stressed,32.1
+CB,Colombia,t,voiceless,dental,o,posterior,mid,stressed,29.3
+CB,Colombia,t,voiceless,dental,o,posterior,mid,unstressed,27.1
+CB,Colombia,t,voiceless,dental,o,posterior,mid,unstressed,24.8
+CB,Colombia,t,voiceless,dental,u,posterior,high,stressed,29.8
+CB,Colombia,t,voiceless,dental,u,posterior,high,stressed,31.6
+CB,Colombia,t,voiceless,dental,u,posterior,high,unstressed,25
+CB,Colombia,t,voiceless,dental,u,posterior,high,unstressed,27.8
+CC,Colombia,b,voiced,bilabial,a,central,low,stressed,12.5
+CC,Colombia,b,voiced,bilabial,a,central,low,stressed,17.2
+CC,Colombia,b,voiced,bilabial,a,central,low,unstressed,11
+CC,Colombia,b,voiced,bilabial,a,central,low,unstressed,10.9
+CC,Colombia,b,voiced,bilabial,e,anterior,mid,stressed,10
+CC,Colombia,b,voiced,bilabial,e,anterior,mid,stressed,12.1
+CC,Colombia,b,voiced,bilabial,e,anterior,mid,unstressed,9.4
+CC,Colombia,b,voiced,bilabial,e,anterior,mid,unstressed,7.6
+CC,Colombia,b,voiced,bilabial,i,anterior,high,stressed,12.4
+CC,Colombia,b,voiced,bilabial,i,anterior,high,stressed,16.8
+CC,Colombia,b,voiced,bilabial,i,anterior,high,unstressed,12.6
+CC,Colombia,b,voiced,bilabial,i,anterior,high,unstressed,7
+CC,Colombia,b,voiced,bilabial,o,posterior,mid,stressed,13.8
+CC,Colombia,b,voiced,bilabial,o,posterior,mid,stressed,9.4
+CC,Colombia,b,voiced,bilabial,o,posterior,mid,unstressed,6.8
+CC,Colombia,b,voiced,bilabial,o,posterior,mid,unstressed,6
+CC,Colombia,b,voiced,bilabial,u,posterior,high,stressed,10.4
+CC,Colombia,b,voiced,bilabial,u,posterior,high,stressed,8.5
+CC,Colombia,b,voiced,bilabial,u,posterior,high,unstressed,2.8
+CC,Colombia,b,voiced,bilabial,u,posterior,high,unstressed,9.2
+CC,Colombia,k,voiceless,velar,a,central,low,stressed,25.4
+CC,Colombia,k,voiceless,velar,a,central,low,stressed,27.8
+CC,Colombia,k,voiceless,velar,a,central,low,unstressed,17.1
+CC,Colombia,k,voiceless,velar,a,central,low,unstressed,21.3
+CC,Colombia,k,voiceless,velar,o,posterior,mid,stressed,33.5
+CC,Colombia,k,voiceless,velar,o,posterior,mid,stressed,29.7
+CC,Colombia,k,voiceless,velar,o,posterior,mid,unstressed,24.7
+CC,Colombia,k,voiceless,velar,o,posterior,mid,unstressed,25.4
+CC,Colombia,k,voiceless,velar,u,posterior,high,stressed,28.9
+CC,Colombia,k,voiceless,velar,u,posterior,high,stressed,29.5
+CC,Colombia,k,voiceless,velar,u,posterior,high,unstressed,24.1
+CC,Colombia,k,voiceless,velar,u,posterior,high,unstressed,25.7
+CC,Colombia,d,voiced,dental,a,central,low,stressed,13
+CC,Colombia,d,voiced,dental,a,central,low,stressed,13
+CC,Colombia,d,voiced,dental,a,central,low,unstressed,11.2
+CC,Colombia,d,voiced,dental,a,central,low,unstressed,12.4
+CC,Colombia,d,voiced,dental,e,anterior,mid,stressed,11.7
+CC,Colombia,d,voiced,dental,e,anterior,mid,stressed,14.5
+CC,Colombia,d,voiced,dental,e,anterior,mid,unstressed,6.6
+CC,Colombia,d,voiced,dental,e,anterior,mid,unstressed,7.6
+CC,Colombia,d,voiced,dental,i,anterior,high,stressed,9.9
+CC,Colombia,d,voiced,dental,i,anterior,high,stressed,9.9
+CC,Colombia,d,voiced,dental,i,anterior,high,unstressed,9.1
+CC,Colombia,d,voiced,dental,i,anterior,high,unstressed,13.9
+CC,Colombia,d,voiced,dental,o,posterior,mid,stressed,15.9
+CC,Colombia,d,voiced,dental,o,posterior,mid,stressed,17.6
+CC,Colombia,d,voiced,dental,o,posterior,mid,unstressed,8.8
+CC,Colombia,d,voiced,dental,o,posterior,mid,unstressed,13.7
+CC,Colombia,d,voiced,dental,u,posterior,high,stressed,13.3
+CC,Colombia,d,voiced,dental,u,posterior,high,stressed,20.5
+CC,Colombia,d,voiced,dental,u,posterior,high,unstressed,15
+CC,Colombia,d,voiced,dental,u,posterior,high,unstressed,20.5
+CC,Colombia,g,voiced,velar,a,central,low,stressed,12.9
+CC,Colombia,g,voiced,velar,a,central,low,stressed,16.3
+CC,Colombia,g,voiced,velar,a,central,low,unstressed,11.1
+CC,Colombia,g,voiced,velar,a,central,low,unstressed,16.1
+CC,Colombia,g,voiced,velar,o,posterior,mid,stressed,14.3
+CC,Colombia,g,voiced,velar,o,posterior,mid,stressed,17
+CC,Colombia,g,voiced,velar,o,posterior,mid,unstressed,6.2
+CC,Colombia,g,voiced,velar,o,posterior,mid,unstressed,10.9
+CC,Colombia,g,voiced,velar,e,anterior,mid,stressed,10.2
+CC,Colombia,g,voiced,velar,e,anterior,mid,stressed,21.5
+CC,Colombia,g,voiced,velar,e,anterior,mid,unstressed,12.8
+CC,Colombia,g,voiced,velar,e,anterior,mid,unstressed,13.1
+CC,Colombia,g,voiced,velar,i,anterior,high,stressed,11.9
+CC,Colombia,g,voiced,velar,i,anterior,high,stressed,20.4
+CC,Colombia,g,voiced,velar,i,anterior,high,unstressed,5.7
+CC,Colombia,g,voiced,velar,i,anterior,high,unstressed,15
+CC,Colombia,g,voiced,velar,u,posterior,high,stressed,19.8
+CC,Colombia,g,voiced,velar,u,posterior,high,stressed,20.1
+CC,Colombia,g,voiced,velar,u,posterior,high,unstressed,8.1
+CC,Colombia,g,voiced,velar,u,posterior,high,unstressed,12
+CC,Colombia,p,voiceless,bilabial,a,central,low,stressed,23.3
+CC,Colombia,p,voiceless,bilabial,a,central,low,stressed,27.3
+CC,Colombia,p,voiceless,bilabial,a,central,low,unstressed,18
+CC,Colombia,p,voiceless,bilabial,a,central,low,unstressed,27.6
+CC,Colombia,p,voiceless,bilabial,e,anterior,mid,stressed,26.3
+CC,Colombia,p,voiceless,bilabial,e,anterior,mid,stressed,27.3
+CC,Colombia,p,voiceless,bilabial,e,anterior,mid,unstressed,20.2
+CC,Colombia,p,voiceless,bilabial,e,anterior,mid,unstressed,25.7
+CC,Colombia,p,voiceless,bilabial,i,anterior,high,stressed,23.8
+CC,Colombia,p,voiceless,bilabial,i,anterior,high,stressed,28.9
+CC,Colombia,p,voiceless,bilabial,i,anterior,high,unstressed,22.6
+CC,Colombia,p,voiceless,bilabial,i,anterior,high,unstressed,24
+CC,Colombia,p,voiceless,bilabial,o,posterior,mid,stressed,32
+CC,Colombia,p,voiceless,bilabial,o,posterior,mid,stressed,32.7
+CC,Colombia,p,voiceless,bilabial,o,posterior,mid,unstressed,28.1
+CC,Colombia,p,voiceless,bilabial,o,posterior,mid,unstressed,25.4
+CC,Colombia,p,voiceless,bilabial,u,posterior,high,stressed,28.6
+CC,Colombia,p,voiceless,bilabial,u,posterior,high,stressed,29.3
+CC,Colombia,p,voiceless,bilabial,u,posterior,high,unstressed,21.1
+CC,Colombia,p,voiceless,bilabial,u,posterior,high,unstressed,21.8
+CC,Colombia,k,voiceless,velar,e,anterior,mid,stressed,28
+CC,Colombia,k,voiceless,velar,e,anterior,mid,stressed,28.9
+CC,Colombia,k,voiceless,velar,e,anterior,mid,unstressed,25.1
+CC,Colombia,k,voiceless,velar,e,anterior,mid,unstressed,23.4
+CC,Colombia,k,voiceless,velar,i,anterior,high,stressed,23.8
+CC,Colombia,k,voiceless,velar,i,anterior,high,stressed,23.4
+CC,Colombia,k,voiceless,velar,i,anterior,high,unstressed,20.8
+CC,Colombia,k,voiceless,velar,i,anterior,high,unstressed,22.3
+CC,Colombia,t,voiceless,dental,a,central,low,stressed,27.6
+CC,Colombia,t,voiceless,dental,a,central,low,stressed,28.5
+CC,Colombia,t,voiceless,dental,a,central,low,unstressed,22
+CC,Colombia,t,voiceless,dental,a,central,low,unstressed,25.4
+CC,Colombia,t,voiceless,dental,e,anterior,mid,stressed,25.1
+CC,Colombia,t,voiceless,dental,e,anterior,mid,stressed,28
+CC,Colombia,t,voiceless,dental,e,anterior,mid,unstressed,23.5
+CC,Colombia,t,voiceless,dental,e,anterior,mid,unstressed,21.8
+CC,Colombia,t,voiceless,dental,i,anterior,high,stressed,27.3
+CC,Colombia,t,voiceless,dental,i,anterior,high,stressed,26.9
+CC,Colombia,t,voiceless,dental,i,anterior,high,unstressed,23.1
+CC,Colombia,t,voiceless,dental,i,anterior,high,unstressed,25.8
+CC,Colombia,t,voiceless,dental,o,posterior,mid,stressed,27.7
+CC,Colombia,t,voiceless,dental,o,posterior,mid,stressed,30.6
+CC,Colombia,t,voiceless,dental,o,posterior,mid,unstressed,19.6
+CC,Colombia,t,voiceless,dental,o,posterior,mid,unstressed,17.3
+CC,Colombia,t,voiceless,dental,u,posterior,high,stressed,25.5
+CC,Colombia,t,voiceless,dental,u,posterior,high,stressed,22.1
+CC,Colombia,t,voiceless,dental,u,posterior,high,unstressed,18.4
+CC,Colombia,t,voiceless,dental,u,posterior,high,unstressed,21.7
+PA,Peru,b,voiced,bilabial,a,central,low,stressed,17.9
+PA,Peru,b,voiced,bilabial,a,central,low,stressed,24
+PA,Peru,b,voiced,bilabial,a,central,low,unstressed,15.1
+PA,Peru,b,voiced,bilabial,a,central,low,unstressed,15.2
+PA,Peru,b,voiced,bilabial,e,anterior,mid,stressed,18.6
+PA,Peru,b,voiced,bilabial,e,anterior,mid,stressed,17.5
+PA,Peru,b,voiced,bilabial,e,anterior,mid,unstressed,11.4
+PA,Peru,b,voiced,bilabial,e,anterior,mid,unstressed,9.7
+PA,Peru,b,voiced,bilabial,i,anterior,high,stressed,9.5
+PA,Peru,b,voiced,bilabial,i,anterior,high,stressed,10.2
+PA,Peru,b,voiced,bilabial,i,anterior,high,unstressed,4.9
+PA,Peru,b,voiced,bilabial,i,anterior,high,unstressed,8.8
+PA,Peru,b,voiced,bilabial,o,posterior,mid,stressed,18.7
+PA,Peru,b,voiced,bilabial,o,posterior,mid,stressed,20.6
+PA,Peru,b,voiced,bilabial,o,posterior,mid,unstressed,13.9
+PA,Peru,b,voiced,bilabial,o,posterior,mid,unstressed,17.3
+PA,Peru,b,voiced,bilabial,u,posterior,high,stressed,14.9
+PA,Peru,b,voiced,bilabial,u,posterior,high,stressed,16.1
+PA,Peru,b,voiced,bilabial,u,posterior,high,unstressed,11.8
+PA,Peru,b,voiced,bilabial,u,posterior,high,unstressed,3.9
+PA,Peru,k,voiceless,velar,a,central,low,stressed,29.2
+PA,Peru,k,voiceless,velar,a,central,low,stressed,33.4
+PA,Peru,k,voiceless,velar,a,central,low,unstressed,28.7
+PA,Peru,k,voiceless,velar,a,central,low,unstressed,21.2
+PA,Peru,k,voiceless,velar,o,posterior,mid,stressed,32.4
+PA,Peru,k,voiceless,velar,o,posterior,mid,stressed,29.3
+PA,Peru,k,voiceless,velar,o,posterior,mid,unstressed,28.5
+PA,Peru,k,voiceless,velar,o,posterior,mid,unstressed,27.3
+PA,Peru,k,voiceless,velar,u,posterior,high,stressed,27.6
+PA,Peru,k,voiceless,velar,u,posterior,high,stressed,28.3
+PA,Peru,k,voiceless,velar,u,posterior,high,unstressed,22.4
+PA,Peru,k,voiceless,velar,u,posterior,high,unstressed,27.9
+PA,Peru,d,voiced,dental,a,central,low,stressed,16.8
+PA,Peru,d,voiced,dental,a,central,low,stressed,15.8
+PA,Peru,d,voiced,dental,a,central,low,unstressed,17.7
+PA,Peru,d,voiced,dental,a,central,low,unstressed,17.4
+PA,Peru,d,voiced,dental,e,anterior,mid,stressed,15
+PA,Peru,d,voiced,dental,e,anterior,mid,stressed,20.1
+PA,Peru,d,voiced,dental,e,anterior,mid,unstressed,11.9
+PA,Peru,d,voiced,dental,e,anterior,mid,unstressed,0.8
+PA,Peru,d,voiced,dental,i,anterior,high,stressed,13.3
+PA,Peru,d,voiced,dental,i,anterior,high,stressed,17.1
+PA,Peru,d,voiced,dental,i,anterior,high,unstressed,10
+PA,Peru,d,voiced,dental,i,anterior,high,unstressed,11.7
+PA,Peru,d,voiced,dental,o,posterior,mid,stressed,16.1
+PA,Peru,d,voiced,dental,o,posterior,mid,stressed,14.3
+PA,Peru,d,voiced,dental,o,posterior,mid,unstressed,15.7
+PA,Peru,d,voiced,dental,o,posterior,mid,unstressed,13.1
+PA,Peru,d,voiced,dental,u,posterior,high,stressed,17.3
+PA,Peru,d,voiced,dental,u,posterior,high,stressed,14.6
+PA,Peru,d,voiced,dental,u,posterior,high,unstressed,12.7
+PA,Peru,d,voiced,dental,u,posterior,high,unstressed,10.1
+PA,Peru,g,voiced,velar,a,central,low,stressed,14.6
+PA,Peru,g,voiced,velar,a,central,low,stressed,11.6
+PA,Peru,g,voiced,velar,a,central,low,unstressed,8.5
+PA,Peru,g,voiced,velar,a,central,low,unstressed,26.8
+PA,Peru,g,voiced,velar,o,posterior,mid,stressed,23
+PA,Peru,g,voiced,velar,o,posterior,mid,stressed,26.4
+PA,Peru,g,voiced,velar,o,posterior,mid,unstressed,19.2
+PA,Peru,g,voiced,velar,o,posterior,mid,unstressed,20.2
+PA,Peru,g,voiced,velar,e,anterior,mid,stressed,18.9
+PA,Peru,g,voiced,velar,e,anterior,mid,stressed,25.7
+PA,Peru,g,voiced,velar,e,anterior,mid,unstressed,8.4
+PA,Peru,g,voiced,velar,e,anterior,mid,unstressed,5.9
+PA,Peru,g,voiced,velar,i,anterior,high,stressed,7
+PA,Peru,g,voiced,velar,i,anterior,high,stressed,10.6
+PA,Peru,g,voiced,velar,i,anterior,high,unstressed,5.2
+PA,Peru,g,voiced,velar,i,anterior,high,unstressed,10.5
+PA,Peru,g,voiced,velar,u,posterior,high,stressed,29.4
+PA,Peru,g,voiced,velar,u,posterior,high,stressed,26.3
+PA,Peru,g,voiced,velar,u,posterior,high,unstressed,14.4
+PA,Peru,g,voiced,velar,u,posterior,high,unstressed,5
+PA,Peru,p,voiceless,bilabial,a,central,low,stressed,37
+PA,Peru,p,voiceless,bilabial,a,central,low,stressed,36.4
+PA,Peru,p,voiceless,bilabial,a,central,low,unstressed,30.8
+PA,Peru,p,voiceless,bilabial,a,central,low,unstressed,26.3
+PA,Peru,p,voiceless,bilabial,e,anterior,mid,stressed,30.5
+PA,Peru,p,voiceless,bilabial,e,anterior,mid,stressed,30.6
+PA,Peru,p,voiceless,bilabial,e,anterior,mid,unstressed,27.2
+PA,Peru,p,voiceless,bilabial,e,anterior,mid,unstressed,28
+PA,Peru,p,voiceless,bilabial,i,anterior,high,stressed,27.2
+PA,Peru,p,voiceless,bilabial,i,anterior,high,stressed,27.7
+PA,Peru,p,voiceless,bilabial,i,anterior,high,unstressed,24.1
+PA,Peru,p,voiceless,bilabial,i,anterior,high,unstressed,22
+PA,Peru,p,voiceless,bilabial,o,posterior,mid,stressed,34.7
+PA,Peru,p,voiceless,bilabial,o,posterior,mid,stressed,33.4
+PA,Peru,p,voiceless,bilabial,o,posterior,mid,unstressed,29.1
+PA,Peru,p,voiceless,bilabial,o,posterior,mid,unstressed,28.7
+PA,Peru,p,voiceless,bilabial,u,posterior,high,stressed,23.9
+PA,Peru,p,voiceless,bilabial,u,posterior,high,stressed,24.1
+PA,Peru,p,voiceless,bilabial,u,posterior,high,unstressed,33.1
+PA,Peru,p,voiceless,bilabial,u,posterior,high,unstressed,26.9
+PA,Peru,k,voiceless,velar,e,anterior,mid,stressed,30.8
+PA,Peru,k,voiceless,velar,e,anterior,mid,stressed,28.1
+PA,Peru,k,voiceless,velar,e,anterior,mid,unstressed,24.9
+PA,Peru,k,voiceless,velar,e,anterior,mid,unstressed,24.9
+PA,Peru,k,voiceless,velar,i,anterior,high,stressed,22.4
+PA,Peru,k,voiceless,velar,i,anterior,high,stressed,23.7
+PA,Peru,k,voiceless,velar,i,anterior,high,unstressed,20.5
+PA,Peru,k,voiceless,velar,i,anterior,high,unstressed,24.3
+PA,Peru,t,voiceless,dental,a,central,low,stressed,29.9
+PA,Peru,t,voiceless,dental,a,central,low,stressed,30.4
+PA,Peru,t,voiceless,dental,a,central,low,unstressed,30.6
+PA,Peru,t,voiceless,dental,a,central,low,unstressed,27.8
+PA,Peru,t,voiceless,dental,e,anterior,mid,stressed,31.7
+PA,Peru,t,voiceless,dental,e,anterior,mid,stressed,30.1
+PA,Peru,t,voiceless,dental,e,anterior,mid,unstressed,25.5
+PA,Peru,t,voiceless,dental,e,anterior,mid,unstressed,25.4
+PA,Peru,t,voiceless,dental,i,anterior,high,stressed,24.9
+PA,Peru,t,voiceless,dental,i,anterior,high,stressed,27.5
+PA,Peru,t,voiceless,dental,i,anterior,high,unstressed,25.6
+PA,Peru,t,voiceless,dental,i,anterior,high,unstressed,24.3
+PA,Peru,t,voiceless,dental,o,posterior,mid,stressed,27
+PA,Peru,t,voiceless,dental,o,posterior,mid,stressed,29.4
+PA,Peru,t,voiceless,dental,o,posterior,mid,unstressed,20.4
+PA,Peru,t,voiceless,dental,o,posterior,mid,unstressed,35.4
+PA,Peru,t,voiceless,dental,u,posterior,high,stressed,29.2
+PA,Peru,t,voiceless,dental,u,posterior,high,stressed,26.3
+PA,Peru,t,voiceless,dental,u,posterior,high,unstressed,23.7
+PA,Peru,t,voiceless,dental,u,posterior,high,unstressed,25.6
+PC,Peru,b,voiced,bilabial,a,central,low,stressed,21.6
+PC,Peru,b,voiced,bilabial,a,central,low,stressed,11.4
+PC,Peru,b,voiced,bilabial,a,central,low,unstressed,9.7
+PC,Peru,b,voiced,bilabial,a,central,low,unstressed,15.3
+PC,Peru,b,voiced,bilabial,e,anterior,mid,stressed,14.4
+PC,Peru,b,voiced,bilabial,e,anterior,mid,stressed,15.9
+PC,Peru,b,voiced,bilabial,e,anterior,mid,unstressed,16.4
+PC,Peru,b,voiced,bilabial,e,anterior,mid,unstressed,14.9
+PC,Peru,b,voiced,bilabial,i,anterior,high,stressed,17.4
+PC,Peru,b,voiced,bilabial,i,anterior,high,stressed,18
+PC,Peru,b,voiced,bilabial,i,anterior,high,unstressed,18.3
+PC,Peru,b,voiced,bilabial,i,anterior,high,stressed,24.3
+PC,Peru,b,voiced,bilabial,o,posterior,mid,unstressed,16.3
+PC,Peru,b,voiced,bilabial,o,posterior,mid,stressed,20.9
+PC,Peru,b,voiced,bilabial,o,posterior,mid,unstressed,11.3
+PC,Peru,b,voiced,bilabial,o,posterior,mid,unstressed,18.1
+PC,Peru,b,voiced,bilabial,u,posterior,high,stressed,18.6
+PC,Peru,b,voiced,bilabial,u,posterior,high,stressed,19.1
+PC,Peru,b,voiced,bilabial,u,posterior,high,unstressed,14.7
+PC,Peru,b,voiced,bilabial,u,posterior,high,unstressed,12.8
+PC,Peru,k,voiceless,velar,a,central,low,stressed,20.2
+PC,Peru,k,voiceless,velar,a,central,low,stressed,21.1
+PC,Peru,k,voiceless,velar,a,central,low,unstressed,16
+PC,Peru,k,voiceless,velar,a,central,low,unstressed,11
+PC,Peru,k,voiceless,velar,o,posterior,mid,stressed,17.7
+PC,Peru,k,voiceless,velar,o,posterior,mid,stressed,19.2
+PC,Peru,k,voiceless,velar,o,posterior,mid,unstressed,15.8
+PC,Peru,k,voiceless,velar,o,posterior,mid,unstressed,15
+PC,Peru,k,voiceless,velar,u,posterior,high,stressed,16.2
+PC,Peru,k,voiceless,velar,u,posterior,high,stressed,20.7
+PC,Peru,k,voiceless,velar,u,posterior,high,unstressed,17.4
+PC,Peru,k,voiceless,velar,u,posterior,high,unstressed,15.7
+PC,Peru,d,voiced,dental,a,central,low,stressed,12.8
+PC,Peru,d,voiced,dental,a,central,low,stressed,17
+PC,Peru,d,voiced,dental,a,central,low,unstressed,14.4
+PC,Peru,d,voiced,dental,a,central,low,unstressed,4.1
+PC,Peru,d,voiced,dental,e,anterior,mid,stressed,7
+PC,Peru,d,voiced,dental,e,anterior,mid,stressed,16.2
+PC,Peru,d,voiced,dental,e,anterior,mid,unstressed,18.3
+PC,Peru,d,voiced,dental,e,anterior,mid,unstressed,15
+PC,Peru,d,voiced,dental,i,anterior,high,stressed,16.8
+PC,Peru,d,voiced,dental,i,anterior,high,stressed,19.6
+PC,Peru,d,voiced,dental,i,anterior,high,unstressed,13
+PC,Peru,d,voiced,dental,i,anterior,high,unstressed,9.9
+PC,Peru,d,voiced,dental,o,posterior,mid,stressed,13.3
+PC,Peru,d,voiced,dental,o,posterior,mid,stressed,13.3
+PC,Peru,d,voiced,dental,o,posterior,mid,unstressed,18.1
+PC,Peru,d,voiced,dental,o,posterior,mid,unstressed,10.8
+PC,Peru,d,voiced,dental,u,posterior,high,stressed,20.7
+PC,Peru,d,voiced,dental,u,posterior,high,stressed,19.6
+PC,Peru,d,voiced,dental,u,posterior,high,unstressed,14.3
+PC,Peru,d,voiced,dental,u,posterior,high,unstressed,16.2
+PC,Peru,g,voiced,velar,a,central,low,stressed,16.1
+PC,Peru,g,voiced,velar,a,central,low,stressed,16.2
+PC,Peru,g,voiced,velar,a,central,low,unstressed,17.9
+PC,Peru,g,voiced,velar,a,central,low,unstressed,13.1
+PC,Peru,g,voiced,velar,o,posterior,mid,stressed,18.8
+PC,Peru,g,voiced,velar,o,posterior,mid,stressed,15.3
+PC,Peru,g,voiced,velar,o,posterior,mid,unstressed,13.4
+PC,Peru,g,voiced,velar,o,posterior,mid,unstressed,11.1
+PC,Peru,g,voiced,velar,e,anterior,mid,stressed,13.3
+PC,Peru,g,voiced,velar,e,anterior,mid,stressed,23.5
+PC,Peru,g,voiced,velar,e,anterior,mid,unstressed,17.6
+PC,Peru,g,voiced,velar,e,anterior,mid,unstressed,19.6
+PC,Peru,g,voiced,velar,i,anterior,high,stressed,13.9
+PC,Peru,g,voiced,velar,i,anterior,high,stressed,18.1
+PC,Peru,g,voiced,velar,i,anterior,high,unstressed,10.7
+PC,Peru,g,voiced,velar,i,anterior,high,unstressed,8.5
+PC,Peru,g,voiced,velar,u,posterior,high,stressed,18.1
+PC,Peru,g,voiced,velar,u,posterior,high,stressed,15.6
+PC,Peru,g,voiced,velar,u,posterior,high,unstressed,17
+PC,Peru,g,voiced,velar,u,posterior,high,unstressed,21.2
+PC,Peru,p,voiceless,bilabial,a,central,low,stressed,18.9
+PC,Peru,p,voiceless,bilabial,a,central,low,stressed,17.5
+PC,Peru,p,voiceless,bilabial,a,central,low,unstressed,19.4
+PC,Peru,p,voiceless,bilabial,a,central,low,unstressed,18.5
+PC,Peru,p,voiceless,bilabial,e,anterior,mid,stressed,20.6
+PC,Peru,p,voiceless,bilabial,e,anterior,mid,stressed,17.9
+PC,Peru,p,voiceless,bilabial,e,anterior,mid,unstressed,20.7
+PC,Peru,p,voiceless,bilabial,e,anterior,mid,unstressed,18.2
+PC,Peru,p,voiceless,bilabial,i,anterior,high,stressed,20.8
+PC,Peru,p,voiceless,bilabial,i,anterior,high,stressed,18.4
+PC,Peru,p,voiceless,bilabial,i,anterior,high,unstressed,16.4
+PC,Peru,p,voiceless,bilabial,i,anterior,high,unstressed,20.8
+PC,Peru,p,voiceless,bilabial,o,posterior,mid,stressed,18.8
+PC,Peru,p,voiceless,bilabial,o,posterior,mid,stressed,18.6
+PC,Peru,p,voiceless,bilabial,o,posterior,mid,unstressed,19
+PC,Peru,p,voiceless,bilabial,o,posterior,mid,unstressed,17.5
+PC,Peru,p,voiceless,bilabial,u,posterior,high,stressed,21.4
+PC,Peru,p,voiceless,bilabial,u,posterior,high,stressed,19.9
+PC,Peru,p,voiceless,bilabial,u,posterior,high,unstressed,21
+PC,Peru,p,voiceless,bilabial,u,posterior,high,unstressed,19.7
+PC,Peru,k,voiceless,velar,e,anterior,mid,stressed,20
+PC,Peru,k,voiceless,velar,e,anterior,mid,stressed,17.2
+PC,Peru,k,voiceless,velar,e,anterior,mid,unstressed,13.8
+PC,Peru,k,voiceless,velar,e,anterior,mid,unstressed,15.9
+PC,Peru,k,voiceless,velar,i,anterior,high,stressed,16.5
+PC,Peru,k,voiceless,velar,i,anterior,high,stressed,15.8
+PC,Peru,k,voiceless,velar,i,anterior,high,unstressed,14.6
+PC,Peru,k,voiceless,velar,i,anterior,high,unstressed,12.4
+PC,Peru,t,voiceless,dental,a,central,low,stressed,18.6
+PC,Peru,t,voiceless,dental,a,central,low,stressed,15
+PC,Peru,t,voiceless,dental,a,central,low,unstressed,16.9
+PC,Peru,t,voiceless,dental,a,central,low,unstressed,11.3
+PC,Peru,t,voiceless,dental,e,anterior,mid,stressed,18.2
+PC,Peru,t,voiceless,dental,e,anterior,mid,stressed,19.5
+PC,Peru,t,voiceless,dental,e,anterior,mid,unstressed,19
+PC,Peru,t,voiceless,dental,e,anterior,mid,unstressed,16.7
+PC,Peru,t,voiceless,dental,i,anterior,high,stressed,18.2
+PC,Peru,t,voiceless,dental,i,anterior,high,stressed,16.2
+PC,Peru,t,voiceless,dental,i,anterior,high,unstressed,18.9
+PC,Peru,t,voiceless,dental,i,anterior,high,unstressed,19.9
+PC,Peru,t,voiceless,dental,o,posterior,mid,stressed,17.8
+PC,Peru,t,voiceless,dental,o,posterior,mid,stressed,17.7
+PC,Peru,t,voiceless,dental,o,posterior,mid,unstressed,16.5
+PC,Peru,t,voiceless,dental,o,posterior,mid,unstressed,12.6
+PC,Peru,t,voiceless,dental,u,posterior,high,stressed,13
+PC,Peru,t,voiceless,dental,u,posterior,high,stressed,15.9
+PC,Peru,t,voiceless,dental,u,posterior,high,unstressed,14.8
+PC,Peru,t,voiceless,dental,u,posterior,high,unstressed,12
+MA,Mexico,b,voiced,bilabial,a,central,low,stressed,23.1
+MA,Mexico,b,voiced,bilabial,a,central,low,stressed,20.9
+MA,Mexico,b,voiced,bilabial,a,central,low,unstressed,12.1
+MA,Mexico,b,voiced,bilabial,a,central,low,unstressed,12.8
+MA,Mexico,b,voiced,bilabial,e,anterior,mid,stressed,22.1
+MA,Mexico,b,voiced,bilabial,e,anterior,mid,stressed,16.3
+MA,Mexico,b,voiced,bilabial,e,anterior,mid,unstressed,11.4
+MA,Mexico,b,voiced,bilabial,e,anterior,mid,unstressed,12.8
+MA,Mexico,b,voiced,bilabial,i,anterior,high,stressed,16.3
+MA,Mexico,b,voiced,bilabial,i,anterior,high,stressed,20.4
+MA,Mexico,b,voiced,bilabial,i,anterior,high,unstressed,11.2
+MA,Mexico,b,voiced,bilabial,i,anterior,high,unstressed,16.3
+MA,Mexico,b,voiced,bilabial,o,posterior,mid,stressed,16.5
+MA,Mexico,b,voiced,bilabial,o,posterior,mid,stressed,24.1
+MA,Mexico,b,voiced,bilabial,o,posterior,mid,unstressed,9.8
+MA,Mexico,b,voiced,bilabial,o,posterior,mid,unstressed,15.2
+MA,Mexico,b,voiced,bilabial,u,posterior,high,stressed,17.7
+MA,Mexico,b,voiced,bilabial,u,posterior,high,stressed,15.2
+MA,Mexico,b,voiced,bilabial,u,posterior,high,unstressed,15.7
+MA,Mexico,b,voiced,bilabial,u,posterior,high,unstressed,17.7
+MA,Mexico,k,voiceless,velar,a,central,low,stressed,26.8
+MA,Mexico,k,voiceless,velar,a,central,low,stressed,27.2
+MA,Mexico,k,voiceless,velar,a,central,low,unstressed,15.9
+MA,Mexico,k,voiceless,velar,a,central,low,unstressed,16.1
+MA,Mexico,k,voiceless,velar,o,posterior,mid,stressed,26.8
+MA,Mexico,k,voiceless,velar,o,posterior,mid,stressed,26.2
+MA,Mexico,k,voiceless,velar,o,posterior,mid,unstressed,24.9
+MA,Mexico,k,voiceless,velar,o,posterior,mid,unstressed,21.6
+MA,Mexico,k,voiceless,velar,u,posterior,high,stressed,26.9
+MA,Mexico,k,voiceless,velar,u,posterior,high,stressed,27.1
+MA,Mexico,k,voiceless,velar,u,posterior,high,unstressed,19.3
+MA,Mexico,k,voiceless,velar,u,posterior,high,unstressed,20.1
+MA,Mexico,d,voiced,dental,a,central,low,stressed,23
+MA,Mexico,d,voiced,dental,a,central,low,stressed,22.8
+MA,Mexico,d,voiced,dental,a,central,low,unstressed,13
+MA,Mexico,d,voiced,dental,a,central,low,unstressed,14.4
+MA,Mexico,d,voiced,dental,e,anterior,mid,stressed,16
+MA,Mexico,d,voiced,dental,e,anterior,mid,stressed,7.5
+MA,Mexico,d,voiced,dental,e,anterior,mid,unstressed,11.2
+MA,Mexico,d,voiced,dental,e,anterior,mid,unstressed,8.5
+MA,Mexico,d,voiced,dental,i,anterior,high,stressed,10.7
+MA,Mexico,d,voiced,dental,i,anterior,high,stressed,15.1
+MA,Mexico,d,voiced,dental,i,anterior,high,unstressed,15.2
+MA,Mexico,d,voiced,dental,i,anterior,high,unstressed,7.9
+MA,Mexico,d,voiced,dental,o,posterior,mid,stressed,18.3
+MA,Mexico,d,voiced,dental,o,posterior,mid,stressed,19.7
+MA,Mexico,d,voiced,dental,o,posterior,mid,unstressed,14.7
+MA,Mexico,d,voiced,dental,o,posterior,mid,unstressed,16.9
+MA,Mexico,d,voiced,dental,u,posterior,high,stressed,15.4
+MA,Mexico,d,voiced,dental,u,posterior,high,stressed,27.5
+MA,Mexico,d,voiced,dental,u,posterior,high,unstressed,12.8
+MA,Mexico,d,voiced,dental,u,posterior,high,unstressed,10.2
+MA,Mexico,g,voiced,velar,a,central,low,stressed,19.1
+MA,Mexico,g,voiced,velar,a,central,low,stressed,21.9
+MA,Mexico,g,voiced,velar,a,central,low,unstressed,14.6
+MA,Mexico,g,voiced,velar,a,central,low,unstressed,16.5
+MA,Mexico,g,voiced,velar,o,posterior,mid,stressed,15.9
+MA,Mexico,g,voiced,velar,o,posterior,mid,stressed,19.9
+MA,Mexico,g,voiced,velar,o,posterior,mid,unstressed,23.3
+MA,Mexico,g,voiced,velar,o,posterior,mid,unstressed,18.8
+MA,Mexico,g,voiced,velar,e,anterior,mid,stressed,24.3
+MA,Mexico,g,voiced,velar,e,anterior,mid,stressed,17.6
+MA,Mexico,g,voiced,velar,e,anterior,mid,unstressed,17.6
+MA,Mexico,g,voiced,velar,e,anterior,mid,unstressed,18.7
+MA,Mexico,g,voiced,velar,i,anterior,high,stressed,17.8
+MA,Mexico,g,voiced,velar,i,anterior,high,stressed,14.1
+MA,Mexico,g,voiced,velar,i,anterior,high,unstressed,15.4
+MA,Mexico,g,voiced,velar,i,anterior,high,unstressed,10.6
+MA,Mexico,g,voiced,velar,u,posterior,high,stressed,25.4
+MA,Mexico,g,voiced,velar,u,posterior,high,stressed,13.4
+MA,Mexico,g,voiced,velar,u,posterior,high,unstressed,16.5
+MA,Mexico,g,voiced,velar,u,posterior,high,unstressed,18.4
+MA,Mexico,p,voiceless,bilabial,a,central,low,stressed,27
+MA,Mexico,p,voiceless,bilabial,a,central,low,stressed,28.9
+MA,Mexico,p,voiceless,bilabial,a,central,low,unstressed,18.4
+MA,Mexico,p,voiceless,bilabial,a,central,low,unstressed,18.4
+MA,Mexico,p,voiceless,bilabial,e,anterior,mid,stressed,28.5
+MA,Mexico,p,voiceless,bilabial,e,anterior,mid,stressed,25.8
+MA,Mexico,p,voiceless,bilabial,e,anterior,mid,unstressed,20.3
+MA,Mexico,p,voiceless,bilabial,e,anterior,mid,unstressed,20.4
+MA,Mexico,p,voiceless,bilabial,i,anterior,high,stressed,23.7
+MA,Mexico,p,voiceless,bilabial,i,anterior,high,stressed,15.3
+MA,Mexico,p,voiceless,bilabial,i,anterior,high,unstressed,17.9
+MA,Mexico,p,voiceless,bilabial,i,anterior,high,unstressed,18.1
+MA,Mexico,p,voiceless,bilabial,o,posterior,mid,stressed,32.2
+MA,Mexico,p,voiceless,bilabial,o,posterior,mid,stressed,28.7
+MA,Mexico,p,voiceless,bilabial,o,posterior,mid,unstressed,23.2
+MA,Mexico,p,voiceless,bilabial,o,posterior,mid,unstressed,18.6
+MA,Mexico,p,voiceless,bilabial,u,posterior,high,stressed,25.9
+MA,Mexico,p,voiceless,bilabial,u,posterior,high,stressed,24
+MA,Mexico,p,voiceless,bilabial,u,posterior,high,unstressed,21.2
+MA,Mexico,p,voiceless,bilabial,u,posterior,high,unstressed,20.4
+MA,Mexico,k,voiceless,velar,e,anterior,mid,stressed,27.1
+MA,Mexico,k,voiceless,velar,e,anterior,mid,stressed,25
+MA,Mexico,k,voiceless,velar,e,anterior,mid,unstressed,26.7
+MA,Mexico,k,voiceless,velar,e,anterior,mid,unstressed,23.5
+MA,Mexico,k,voiceless,velar,i,anterior,high,stressed,19.6
+MA,Mexico,k,voiceless,velar,i,anterior,high,stressed,21.6
+MA,Mexico,k,voiceless,velar,i,anterior,high,unstressed,15.7
+MA,Mexico,k,voiceless,velar,i,anterior,high,unstressed,14
+MA,Mexico,t,voiceless,dental,a,central,low,stressed,29.2
+MA,Mexico,t,voiceless,dental,a,central,low,stressed,32.9
+MA,Mexico,t,voiceless,dental,a,central,low,unstressed,20.3
+MA,Mexico,t,voiceless,dental,a,central,low,unstressed,22.4
+MA,Mexico,t,voiceless,dental,e,anterior,mid,stressed,25.8
+MA,Mexico,t,voiceless,dental,e,anterior,mid,stressed,24.4
+MA,Mexico,t,voiceless,dental,e,anterior,mid,unstressed,22.5
+MA,Mexico,t,voiceless,dental,e,anterior,mid,unstressed,22.4
+MA,Mexico,t,voiceless,dental,i,anterior,high,stressed,22.7
+MA,Mexico,t,voiceless,dental,i,anterior,high,stressed,23
+MA,Mexico,t,voiceless,dental,i,anterior,high,unstressed,17.4
+MA,Mexico,t,voiceless,dental,i,anterior,high,unstressed,17.4
+MA,Mexico,t,voiceless,dental,o,posterior,mid,stressed,23.8
+MA,Mexico,t,voiceless,dental,o,posterior,mid,stressed,24.3
+MA,Mexico,t,voiceless,dental,o,posterior,mid,unstressed,21.3
+MA,Mexico,t,voiceless,dental,o,posterior,mid,unstressed,18.1
+MA,Mexico,t,voiceless,dental,u,posterior,high,stressed,23.3
+MA,Mexico,t,voiceless,dental,u,posterior,high,stressed,27.1
+MA,Mexico,t,voiceless,dental,u,posterior,high,unstressed,23.3
+MA,Mexico,t,voiceless,dental,u,posterior,high,unstressed,17
+SF,Northcentral Spain,b,voiced,bilabial,a,central,low,stressed,22.3
+SF,Northcentral Spain,b,voiced,bilabial,a,central,low,stressed,21.5
+SF,Northcentral Spain,b,voiced,bilabial,a,central,low,unstressed,15.5
+SF,Northcentral Spain,b,voiced,bilabial,a,central,low,unstressed,13.6
+SF,Northcentral Spain,b,voiced,bilabial,e,anterior,mid,stressed,13
+SF,Northcentral Spain,b,voiced,bilabial,e,anterior,mid,stressed,16.9
+SF,Northcentral Spain,b,voiced,bilabial,e,anterior,mid,unstressed,9.1
+SF,Northcentral Spain,b,voiced,bilabial,e,anterior,mid,unstressed,10.2
+SF,Northcentral Spain,b,voiced,bilabial,i,anterior,high,stressed,14.7
+SF,Northcentral Spain,b,voiced,bilabial,i,anterior,high,stressed,17.1
+SF,Northcentral Spain,b,voiced,bilabial,i,anterior,high,unstressed,12.4
+SF,Northcentral Spain,b,voiced,bilabial,i,anterior,high,unstressed,11.8
+SF,Northcentral Spain,b,voiced,bilabial,o,posterior,mid,stressed,16
+SF,Northcentral Spain,b,voiced,bilabial,o,posterior,mid,stressed,17.1
+SF,Northcentral Spain,b,voiced,bilabial,o,posterior,mid,unstressed,7.6
+SF,Northcentral Spain,b,voiced,bilabial,o,posterior,mid,unstressed,8.2
+SF,Northcentral Spain,b,voiced,bilabial,u,posterior,high,stressed,13.9
+SF,Northcentral Spain,b,voiced,bilabial,u,posterior,high,stressed,16.4
+SF,Northcentral Spain,b,voiced,bilabial,u,posterior,high,unstressed,10.4
+SF,Northcentral Spain,b,voiced,bilabial,u,posterior,high,unstressed,11.9
+SF,Northcentral Spain,k,voiceless,velar,a,central,low,stressed,32.9
+SF,Northcentral Spain,k,voiceless,velar,a,central,low,stressed,28.6
+SF,Northcentral Spain,k,voiceless,velar,a,central,low,unstressed,24.8
+SF,Northcentral Spain,k,voiceless,velar,a,central,low,unstressed,24.9
+SF,Northcentral Spain,k,voiceless,velar,o,posterior,mid,stressed,32.4
+SF,Northcentral Spain,k,voiceless,velar,o,posterior,mid,stressed,30.5
+SF,Northcentral Spain,k,voiceless,velar,o,posterior,mid,unstressed,25.9
+SF,Northcentral Spain,k,voiceless,velar,o,posterior,mid,unstressed,24.6
+SF,Northcentral Spain,k,voiceless,velar,u,posterior,high,stressed,29.2
+SF,Northcentral Spain,k,voiceless,velar,u,posterior,high,stressed,25.2
+SF,Northcentral Spain,k,voiceless,velar,u,posterior,high,unstressed,22.6
+SF,Northcentral Spain,k,voiceless,velar,u,posterior,high,unstressed,25.3
+SF,Northcentral Spain,d,voiced,dental,a,central,low,stressed,9.8
+SF,Northcentral Spain,d,voiced,dental,a,central,low,stressed,12
+SF,Northcentral Spain,d,voiced,dental,a,central,low,unstressed,8.2
+SF,Northcentral Spain,d,voiced,dental,a,central,low,unstressed,4.7
+SF,Northcentral Spain,d,voiced,dental,e,anterior,mid,stressed,17.6
+SF,Northcentral Spain,d,voiced,dental,e,anterior,mid,stressed,18.3
+SF,Northcentral Spain,d,voiced,dental,e,anterior,mid,unstressed,10.8
+SF,Northcentral Spain,d,voiced,dental,e,anterior,mid,unstressed,9.1
+SF,Northcentral Spain,d,voiced,dental,i,anterior,high,stressed,8.5
+SF,Northcentral Spain,d,voiced,dental,i,anterior,high,stressed,11.1
+SF,Northcentral Spain,d,voiced,dental,i,anterior,high,unstressed,4.7
+SF,Northcentral Spain,d,voiced,dental,i,anterior,high,unstressed,12.2
+SF,Northcentral Spain,d,voiced,dental,o,posterior,mid,stressed,17.1
+SF,Northcentral Spain,d,voiced,dental,o,posterior,mid,stressed,20.5
+SF,Northcentral Spain,d,voiced,dental,o,posterior,mid,unstressed,11.4
+SF,Northcentral Spain,d,voiced,dental,o,posterior,mid,unstressed,12.3
+SF,Northcentral Spain,d,voiced,dental,u,posterior,high,stressed,11.1
+SF,Northcentral Spain,d,voiced,dental,u,posterior,high,stressed,3.4
+SF,Northcentral Spain,d,voiced,dental,u,posterior,high,unstressed,5.7
+SF,Northcentral Spain,d,voiced,dental,u,posterior,high,unstressed,11.2
+SF,Northcentral Spain,g,voiced,velar,a,central,low,stressed,22.9
+SF,Northcentral Spain,g,voiced,velar,a,central,low,stressed,21.2
+SF,Northcentral Spain,g,voiced,velar,a,central,low,unstressed,14.3
+SF,Northcentral Spain,g,voiced,velar,a,central,low,unstressed,10.9
+SF,Northcentral Spain,g,voiced,velar,o,posterior,mid,stressed,16.8
+SF,Northcentral Spain,g,voiced,velar,o,posterior,mid,stressed,21.9
+SF,Northcentral Spain,g,voiced,velar,o,posterior,mid,unstressed,14.4
+SF,Northcentral Spain,g,voiced,velar,o,posterior,mid,unstressed,10.4
+SF,Northcentral Spain,g,voiced,velar,e,anterior,mid,stressed,15.5
+SF,Northcentral Spain,g,voiced,velar,e,anterior,mid,stressed,14.4
+SF,Northcentral Spain,g,voiced,velar,e,anterior,mid,unstressed,12.5
+SF,Northcentral Spain,g,voiced,velar,e,anterior,mid,unstressed,11.2
+SF,Northcentral Spain,g,voiced,velar,i,anterior,high,stressed,15.9
+SF,Northcentral Spain,g,voiced,velar,i,anterior,high,stressed,10.9
+SF,Northcentral Spain,g,voiced,velar,i,anterior,high,unstressed,6
+SF,Northcentral Spain,g,voiced,velar,i,anterior,high,unstressed,7
+SF,Northcentral Spain,g,voiced,velar,u,posterior,high,stressed,12.5
+SF,Northcentral Spain,g,voiced,velar,u,posterior,high,stressed,7.5
+SF,Northcentral Spain,g,voiced,velar,u,posterior,high,unstressed,7.1
+SF,Northcentral Spain,g,voiced,velar,u,posterior,high,unstressed,10.5
+SF,Northcentral Spain,p,voiceless,bilabial,a,central,low,stressed,39.6
+SF,Northcentral Spain,p,voiceless,bilabial,a,central,low,stressed,35.4
+SF,Northcentral Spain,p,voiceless,bilabial,a,central,low,unstressed,28.7
+SF,Northcentral Spain,p,voiceless,bilabial,a,central,low,unstressed,27
+SF,Northcentral Spain,p,voiceless,bilabial,e,anterior,mid,stressed,31.3
+SF,Northcentral Spain,p,voiceless,bilabial,e,anterior,mid,stressed,28.3
+SF,Northcentral Spain,p,voiceless,bilabial,e,anterior,mid,unstressed,26.4
+SF,Northcentral Spain,p,voiceless,bilabial,e,anterior,mid,unstressed,21.6
+SF,Northcentral Spain,p,voiceless,bilabial,i,anterior,high,stressed,28.3
+SF,Northcentral Spain,p,voiceless,bilabial,i,anterior,high,stressed,26.5
+SF,Northcentral Spain,p,voiceless,bilabial,i,anterior,high,unstressed,18.1
+SF,Northcentral Spain,p,voiceless,bilabial,i,anterior,high,unstressed,24.3
+SF,Northcentral Spain,p,voiceless,bilabial,o,posterior,mid,stressed,33.7
+SF,Northcentral Spain,p,voiceless,bilabial,o,posterior,mid,stressed,29.1
+SF,Northcentral Spain,p,voiceless,bilabial,o,posterior,mid,unstressed,26
+SF,Northcentral Spain,p,voiceless,bilabial,o,posterior,mid,unstressed,23
+SF,Northcentral Spain,p,voiceless,bilabial,u,posterior,high,stressed,36
+SF,Northcentral Spain,p,voiceless,bilabial,u,posterior,high,stressed,26.5
+SF,Northcentral Spain,p,voiceless,bilabial,u,posterior,high,unstressed,23.7
+SF,Northcentral Spain,p,voiceless,bilabial,u,posterior,high,unstressed,21.7
+SF,Northcentral Spain,k,voiceless,velar,e,anterior,mid,stressed,21.9
+SF,Northcentral Spain,k,voiceless,velar,e,anterior,mid,stressed,26.8
+SF,Northcentral Spain,k,voiceless,velar,e,anterior,mid,unstressed,24.7
+SF,Northcentral Spain,k,voiceless,velar,e,anterior,mid,unstressed,21.7
+SF,Northcentral Spain,k,voiceless,velar,i,anterior,high,stressed,25.9
+SF,Northcentral Spain,k,voiceless,velar,i,anterior,high,stressed,26.1
+SF,Northcentral Spain,k,voiceless,velar,i,anterior,high,unstressed,16.7
+SF,Northcentral Spain,k,voiceless,velar,i,anterior,high,unstressed,18.6
+SF,Northcentral Spain,t,voiceless,dental,a,central,low,stressed,33.8
+SF,Northcentral Spain,t,voiceless,dental,a,central,low,stressed,34
+SF,Northcentral Spain,t,voiceless,dental,a,central,low,unstressed,27
+SF,Northcentral Spain,t,voiceless,dental,a,central,low,unstressed,26.2
+SF,Northcentral Spain,t,voiceless,dental,e,anterior,mid,stressed,27.9
+SF,Northcentral Spain,t,voiceless,dental,e,anterior,mid,stressed,24.9
+SF,Northcentral Spain,t,voiceless,dental,e,anterior,mid,unstressed,25.2
+SF,Northcentral Spain,t,voiceless,dental,e,anterior,mid,unstressed,21.9
+SF,Northcentral Spain,t,voiceless,dental,i,anterior,high,stressed,26.8
+SF,Northcentral Spain,t,voiceless,dental,i,anterior,high,stressed,24
+SF,Northcentral Spain,t,voiceless,dental,i,anterior,high,unstressed,18.8
+SF,Northcentral Spain,t,voiceless,dental,i,anterior,high,unstressed,23
+SF,Northcentral Spain,t,voiceless,dental,o,posterior,mid,stressed,31.4
+SF,Northcentral Spain,t,voiceless,dental,o,posterior,mid,stressed,28.9
+SF,Northcentral Spain,t,voiceless,dental,o,posterior,mid,unstressed,24
+SF,Northcentral Spain,t,voiceless,dental,o,posterior,mid,unstressed,24.3
+SF,Northcentral Spain,t,voiceless,dental,u,posterior,high,stressed,31.8
+SF,Northcentral Spain,t,voiceless,dental,u,posterior,high,stressed,27.4
+SF,Northcentral Spain,t,voiceless,dental,u,posterior,high,unstressed,26.6
+SF,Northcentral Spain,t,voiceless,dental,u,posterior,high,unstressed,21
+SG,Northcentral Spain,b,voiced,bilabial,a,central,low,stressed,10.8
+SG,Northcentral Spain,b,voiced,bilabial,a,central,low,stressed,27.1
+SG,Northcentral Spain,b,voiced,bilabial,a,central,low,unstressed,20
+SG,Northcentral Spain,b,voiced,bilabial,a,central,low,unstressed,22.2
+SG,Northcentral Spain,b,voiced,bilabial,e,anterior,mid,stressed,22.7
+SG,Northcentral Spain,b,voiced,bilabial,e,anterior,mid,stressed,17.4
+SG,Northcentral Spain,b,voiced,bilabial,e,anterior,mid,unstressed,7.6
+SG,Northcentral Spain,b,voiced,bilabial,e,anterior,mid,unstressed,5.4
+SG,Northcentral Spain,b,voiced,bilabial,i,anterior,high,stressed,14.1
+SG,Northcentral Spain,b,voiced,bilabial,i,anterior,high,stressed,13.7
+SG,Northcentral Spain,b,voiced,bilabial,i,anterior,high,unstressed,23.4
+SG,Northcentral Spain,b,voiced,bilabial,i,anterior,high,unstressed,28.1
+SG,Northcentral Spain,b,voiced,bilabial,o,posterior,mid,stressed,11.7
+SG,Northcentral Spain,b,voiced,bilabial,o,posterior,mid,stressed,14.9
+SG,Northcentral Spain,b,voiced,bilabial,o,posterior,mid,unstressed,11.3
+SG,Northcentral Spain,b,voiced,bilabial,o,posterior,mid,unstressed,5.6
+SG,Northcentral Spain,b,voiced,bilabial,u,posterior,high,stressed,28.4
+SG,Northcentral Spain,b,voiced,bilabial,u,posterior,high,stressed,10.9
+SG,Northcentral Spain,b,voiced,bilabial,u,posterior,high,unstressed,6.2
+SG,Northcentral Spain,b,voiced,bilabial,u,posterior,high,unstressed,3
+SG,Northcentral Spain,k,voiceless,velar,a,central,low,stressed,24
+SG,Northcentral Spain,k,voiceless,velar,a,central,low,stressed,23.7
+SG,Northcentral Spain,k,voiceless,velar,a,central,low,unstressed,25.7
+SG,Northcentral Spain,k,voiceless,velar,a,central,low,unstressed,14.6
+SG,Northcentral Spain,k,voiceless,velar,o,posterior,mid,stressed,21.8
+SG,Northcentral Spain,k,voiceless,velar,o,posterior,mid,stressed,24.3
+SG,Northcentral Spain,k,voiceless,velar,o,posterior,mid,unstressed,22.9
+SG,Northcentral Spain,k,voiceless,velar,o,posterior,mid,unstressed,16.4
+SG,Northcentral Spain,k,voiceless,velar,u,posterior,high,stressed,22.7
+SG,Northcentral Spain,k,voiceless,velar,u,posterior,high,stressed,25.9
+SG,Northcentral Spain,k,voiceless,velar,u,posterior,high,unstressed,30.7
+SG,Northcentral Spain,k,voiceless,velar,u,posterior,high,unstressed,18
+SG,Northcentral Spain,d,voiced,dental,a,central,low,stressed,11
+SG,Northcentral Spain,d,voiced,dental,a,central,low,stressed,35.1
+SG,Northcentral Spain,d,voiced,dental,a,central,low,unstressed,18.3
+SG,Northcentral Spain,d,voiced,dental,a,central,low,unstressed,11.8
+SG,Northcentral Spain,d,voiced,dental,e,anterior,mid,stressed,12.3
+SG,Northcentral Spain,d,voiced,dental,e,anterior,mid,stressed,11.3
+SG,Northcentral Spain,d,voiced,dental,e,anterior,mid,unstressed,4.9
+SG,Northcentral Spain,d,voiced,dental,e,anterior,mid,unstressed,7.3
+SG,Northcentral Spain,d,voiced,dental,i,anterior,high,stressed,12.3
+SG,Northcentral Spain,d,voiced,dental,i,anterior,high,stressed,7.9
+SG,Northcentral Spain,d,voiced,dental,i,anterior,high,unstressed,24.6
+SG,Northcentral Spain,d,voiced,dental,i,anterior,high,unstressed,31.9
+SG,Northcentral Spain,d,voiced,dental,o,posterior,mid,stressed,14.8
+SG,Northcentral Spain,d,voiced,dental,o,posterior,mid,stressed,22.6
+SG,Northcentral Spain,d,voiced,dental,o,posterior,mid,unstressed,10.2
+SG,Northcentral Spain,d,voiced,dental,o,posterior,mid,unstressed,7.2
+SG,Northcentral Spain,d,voiced,dental,u,posterior,high,stressed,27.5
+SG,Northcentral Spain,d,voiced,dental,u,posterior,high,stressed,21
+SG,Northcentral Spain,d,voiced,dental,u,posterior,high,unstressed,26.8
+SG,Northcentral Spain,d,voiced,dental,u,posterior,high,unstressed,18.6
+SG,Northcentral Spain,g,voiced,velar,a,central,low,stressed,10.6
+SG,Northcentral Spain,g,voiced,velar,a,central,low,stressed,18.1
+SG,Northcentral Spain,g,voiced,velar,a,central,low,unstressed,7.1
+SG,Northcentral Spain,g,voiced,velar,a,central,low,unstressed,6.2
+SG,Northcentral Spain,g,voiced,velar,o,posterior,mid,stressed,16.7
+SG,Northcentral Spain,g,voiced,velar,o,posterior,mid,stressed,15.6
+SG,Northcentral Spain,g,voiced,velar,o,posterior,mid,unstressed,10.8
+SG,Northcentral Spain,g,voiced,velar,o,posterior,mid,unstressed,4.5
+SG,Northcentral Spain,g,voiced,velar,e,anterior,mid,stressed,14.1
+SG,Northcentral Spain,g,voiced,velar,e,anterior,mid,stressed,15
+SG,Northcentral Spain,g,voiced,velar,e,anterior,mid,unstressed,4.3
+SG,Northcentral Spain,g,voiced,velar,e,anterior,mid,unstressed,5.4
+SG,Northcentral Spain,g,voiced,velar,i,anterior,high,stressed,18.3
+SG,Northcentral Spain,g,voiced,velar,i,anterior,high,stressed,20.4
+SG,Northcentral Spain,g,voiced,velar,i,anterior,high,unstressed,11.3
+SG,Northcentral Spain,g,voiced,velar,i,anterior,high,unstressed,14.9
+SG,Northcentral Spain,g,voiced,velar,u,posterior,high,stressed,28.7
+SG,Northcentral Spain,g,voiced,velar,u,posterior,high,stressed,27.3
+SG,Northcentral Spain,g,voiced,velar,u,posterior,high,unstressed,24.1
+SG,Northcentral Spain,g,voiced,velar,u,posterior,high,unstressed,2.2
+SG,Northcentral Spain,p,voiceless,bilabial,a,central,low,stressed,30.4
+SG,Northcentral Spain,p,voiceless,bilabial,a,central,low,stressed,22.9
+SG,Northcentral Spain,p,voiceless,bilabial,a,central,low,unstressed,30.4
+SG,Northcentral Spain,p,voiceless,bilabial,a,central,low,unstressed,18.6
+SG,Northcentral Spain,p,voiceless,bilabial,e,anterior,mid,stressed,24.5
+SG,Northcentral Spain,p,voiceless,bilabial,e,anterior,mid,stressed,22.5
+SG,Northcentral Spain,p,voiceless,bilabial,e,anterior,mid,unstressed,22.1
+SG,Northcentral Spain,p,voiceless,bilabial,e,anterior,mid,unstressed,23.6
+SG,Northcentral Spain,p,voiceless,bilabial,i,anterior,high,stressed,14.6
+SG,Northcentral Spain,p,voiceless,bilabial,i,anterior,high,stressed,17.2
+SG,Northcentral Spain,p,voiceless,bilabial,i,anterior,high,unstressed,20.4
+SG,Northcentral Spain,p,voiceless,bilabial,i,anterior,high,unstressed,19.3
+SG,Northcentral Spain,p,voiceless,bilabial,o,posterior,mid,stressed,25.2
+SG,Northcentral Spain,p,voiceless,bilabial,o,posterior,mid,stressed,23.5
+SG,Northcentral Spain,p,voiceless,bilabial,o,posterior,mid,unstressed,29.1
+SG,Northcentral Spain,p,voiceless,bilabial,o,posterior,mid,unstressed,27.8
+SG,Northcentral Spain,p,voiceless,bilabial,u,posterior,high,stressed,22.1
+SG,Northcentral Spain,p,voiceless,bilabial,u,posterior,high,stressed,25.7
+SG,Northcentral Spain,p,voiceless,bilabial,u,posterior,high,unstressed,13.8
+SG,Northcentral Spain,p,voiceless,bilabial,u,posterior,high,unstressed,18.3
+SG,Northcentral Spain,k,voiceless,velar,e,anterior,mid,stressed,22.4
+SG,Northcentral Spain,k,voiceless,velar,e,anterior,mid,stressed,26.2
+SG,Northcentral Spain,k,voiceless,velar,e,anterior,mid,unstressed,19.4
+SG,Northcentral Spain,k,voiceless,velar,e,anterior,mid,unstressed,15.8
+SG,Northcentral Spain,k,voiceless,velar,i,anterior,high,stressed,17.7
+SG,Northcentral Spain,k,voiceless,velar,i,anterior,high,stressed,20
+SG,Northcentral Spain,k,voiceless,velar,i,anterior,high,unstressed,17.5
+SG,Northcentral Spain,k,voiceless,velar,i,anterior,high,unstressed,16.5
+SG,Northcentral Spain,t,voiceless,dental,a,central,low,stressed,26.4
+SG,Northcentral Spain,t,voiceless,dental,a,central,low,stressed,34.1
+SG,Northcentral Spain,t,voiceless,dental,a,central,low,unstressed,23.8
+SG,Northcentral Spain,t,voiceless,dental,a,central,low,unstressed,12.7
+SG,Northcentral Spain,t,voiceless,dental,e,anterior,mid,stressed,19.9
+SG,Northcentral Spain,t,voiceless,dental,e,anterior,mid,stressed,27.9
+SG,Northcentral Spain,t,voiceless,dental,e,anterior,mid,unstressed,17.4
+SG,Northcentral Spain,t,voiceless,dental,e,anterior,mid,unstressed,11.5
+SG,Northcentral Spain,t,voiceless,dental,i,anterior,high,stressed,15
+SG,Northcentral Spain,t,voiceless,dental,i,anterior,high,stressed,26.6
+SG,Northcentral Spain,t,voiceless,dental,i,anterior,high,unstressed,32.2
+SG,Northcentral Spain,t,voiceless,dental,i,anterior,high,unstressed,22.3
+SG,Northcentral Spain,t,voiceless,dental,o,posterior,mid,stressed,23.8
+SG,Northcentral Spain,t,voiceless,dental,o,posterior,mid,stressed,26.4
+SG,Northcentral Spain,t,voiceless,dental,o,posterior,mid,unstressed,19.1
+SG,Northcentral Spain,t,voiceless,dental,o,posterior,mid,unstressed,14.8
+SG,Northcentral Spain,t,voiceless,dental,u,posterior,high,stressed,22.7
+SG,Northcentral Spain,t,voiceless,dental,u,posterior,high,stressed,14.4
+SG,Northcentral Spain,t,voiceless,dental,u,posterior,high,unstressed,13.5
+SG,Northcentral Spain,t,voiceless,dental,u,posterior,high,unstressed,12.7
+SE,Northcentral Spain,b,voiced,bilabial,a,central,low,stressed,10.2
+SE,Northcentral Spain,b,voiced,bilabial,a,central,low,stressed,13.8
+SE,Northcentral Spain,b,voiced,bilabial,a,central,low,unstressed,9.9
+SE,Northcentral Spain,b,voiced,bilabial,a,central,low,unstressed,6.4
+SE,Northcentral Spain,b,voiced,bilabial,e,anterior,mid,stressed,8.9
+SE,Northcentral Spain,b,voiced,bilabial,e,anterior,mid,stressed,7.2
+SE,Northcentral Spain,b,voiced,bilabial,e,anterior,mid,unstressed,10
+SE,Northcentral Spain,b,voiced,bilabial,e,anterior,mid,unstressed,4.3
+SE,Northcentral Spain,b,voiced,bilabial,i,anterior,high,stressed,20
+SE,Northcentral Spain,b,voiced,bilabial,i,anterior,high,stressed,20.5
+SE,Northcentral Spain,b,voiced,bilabial,i,anterior,high,unstressed,11.4
+SE,Northcentral Spain,b,voiced,bilabial,i,anterior,high,unstressed,8.8
+SE,Northcentral Spain,b,voiced,bilabial,o,posterior,mid,stressed,11.9
+SE,Northcentral Spain,b,voiced,bilabial,o,posterior,mid,stressed,11.7
+SE,Northcentral Spain,b,voiced,bilabial,o,posterior,mid,unstressed,12.8
+SE,Northcentral Spain,b,voiced,bilabial,o,posterior,mid,unstressed,5.3
+SE,Northcentral Spain,b,voiced,bilabial,u,posterior,high,stressed,11.9
+SE,Northcentral Spain,b,voiced,bilabial,u,posterior,high,stressed,13.2
+SE,Northcentral Spain,b,voiced,bilabial,u,posterior,high,unstressed,5.3
+SE,Northcentral Spain,b,voiced,bilabial,u,posterior,high,unstressed,5.1
+SE,Northcentral Spain,k,voiceless,velar,a,central,low,stressed,23.1
+SE,Northcentral Spain,k,voiceless,velar,a,central,low,stressed,19.1
+SE,Northcentral Spain,k,voiceless,velar,a,central,low,unstressed,18
+SE,Northcentral Spain,k,voiceless,velar,a,central,low,unstressed,18
+SE,Northcentral Spain,k,voiceless,velar,o,posterior,mid,stressed,25.7
+SE,Northcentral Spain,k,voiceless,velar,o,posterior,mid,stressed,26.2
+SE,Northcentral Spain,k,voiceless,velar,o,posterior,mid,unstressed,23.8
+SE,Northcentral Spain,k,voiceless,velar,o,posterior,mid,unstressed,23.6
+SE,Northcentral Spain,k,voiceless,velar,u,posterior,high,stressed,28.1
+SE,Northcentral Spain,k,voiceless,velar,u,posterior,high,stressed,24.7
+SE,Northcentral Spain,k,voiceless,velar,u,posterior,high,unstressed,26.6
+SE,Northcentral Spain,k,voiceless,velar,u,posterior,high,unstressed,3.6
+SE,Northcentral Spain,d,voiced,dental,a,central,low,stressed,11.5
+SE,Northcentral Spain,d,voiced,dental,a,central,low,stressed,16.9
+SE,Northcentral Spain,d,voiced,dental,a,central,low,unstressed,3.1
+SE,Northcentral Spain,d,voiced,dental,a,central,low,unstressed,10.6
+SE,Northcentral Spain,d,voiced,dental,e,anterior,mid,stressed,7.5
+SE,Northcentral Spain,d,voiced,dental,e,anterior,mid,stressed,10.9
+SE,Northcentral Spain,d,voiced,dental,e,anterior,mid,unstressed,7.1
+SE,Northcentral Spain,d,voiced,dental,e,anterior,mid,unstressed,12.7
+SE,Northcentral Spain,d,voiced,dental,i,anterior,high,stressed,9
+SE,Northcentral Spain,d,voiced,dental,i,anterior,high,stressed,9.7
+SE,Northcentral Spain,d,voiced,dental,i,anterior,high,unstressed,8.7
+SE,Northcentral Spain,d,voiced,dental,i,anterior,high,unstressed,3.6
+SE,Northcentral Spain,d,voiced,dental,o,posterior,mid,stressed,11.5
+SE,Northcentral Spain,d,voiced,dental,o,posterior,mid,stressed,13
+SE,Northcentral Spain,d,voiced,dental,o,posterior,mid,unstressed,7.1
+SE,Northcentral Spain,d,voiced,dental,o,posterior,mid,unstressed,6.9
+SE,Northcentral Spain,d,voiced,dental,u,posterior,high,stressed,10.9
+SE,Northcentral Spain,d,voiced,dental,u,posterior,high,stressed,23.4
+SE,Northcentral Spain,d,voiced,dental,u,posterior,high,unstressed,9.6
+SE,Northcentral Spain,d,voiced,dental,u,posterior,high,unstressed,9
+SE,Northcentral Spain,g,voiced,velar,a,central,low,stressed,17.9
+SE,Northcentral Spain,g,voiced,velar,a,central,low,stressed,8.9
+SE,Northcentral Spain,g,voiced,velar,a,central,low,unstressed,10.8
+SE,Northcentral Spain,g,voiced,velar,a,central,low,unstressed,5.4
+SE,Northcentral Spain,g,voiced,velar,o,posterior,mid,stressed,18.5
+SE,Northcentral Spain,g,voiced,velar,o,posterior,mid,stressed,20.2
+SE,Northcentral Spain,g,voiced,velar,o,posterior,mid,unstressed,12.3
+SE,Northcentral Spain,g,voiced,velar,o,posterior,mid,unstressed,14.5
+SE,Northcentral Spain,g,voiced,velar,e,anterior,mid,stressed,18.1
+SE,Northcentral Spain,g,voiced,velar,e,anterior,mid,stressed,14.6
+SE,Northcentral Spain,g,voiced,velar,e,anterior,mid,unstressed,28.2
+SE,Northcentral Spain,g,voiced,velar,e,anterior,mid,unstressed,18.8
+SE,Northcentral Spain,g,voiced,velar,i,anterior,high,stressed,6.3
+SE,Northcentral Spain,g,voiced,velar,i,anterior,high,stressed,7.1
+SE,Northcentral Spain,g,voiced,velar,i,anterior,high,unstressed,7.6
+SE,Northcentral Spain,g,voiced,velar,i,anterior,high,unstressed,7.5
+SE,Northcentral Spain,g,voiced,velar,u,posterior,high,stressed,18.8
+SE,Northcentral Spain,g,voiced,velar,u,posterior,high,stressed,18.7
+SE,Northcentral Spain,g,voiced,velar,u,posterior,high,unstressed,10.4
+SE,Northcentral Spain,g,voiced,velar,u,posterior,high,unstressed,0
+SE,Northcentral Spain,p,voiceless,bilabial,a,central,low,stressed,20.6
+SE,Northcentral Spain,p,voiceless,bilabial,a,central,low,stressed,21.5
+SE,Northcentral Spain,p,voiceless,bilabial,a,central,low,unstressed,18.8
+SE,Northcentral Spain,p,voiceless,bilabial,a,central,low,unstressed,20.6
+SE,Northcentral Spain,p,voiceless,bilabial,e,anterior,mid,stressed,29.4
+SE,Northcentral Spain,p,voiceless,bilabial,e,anterior,mid,stressed,20
+SE,Northcentral Spain,p,voiceless,bilabial,e,anterior,mid,unstressed,21.3
+SE,Northcentral Spain,p,voiceless,bilabial,e,anterior,mid,unstressed,19.5
+SE,Northcentral Spain,p,voiceless,bilabial,i,anterior,high,stressed,8.5
+SE,Northcentral Spain,p,voiceless,bilabial,i,anterior,high,stressed,23.9
+SE,Northcentral Spain,p,voiceless,bilabial,i,anterior,high,unstressed,17.8
+SE,Northcentral Spain,p,voiceless,bilabial,i,anterior,high,unstressed,17.2
+SE,Northcentral Spain,p,voiceless,bilabial,o,posterior,mid,stressed,23.9
+SE,Northcentral Spain,p,voiceless,bilabial,o,posterior,mid,stressed,26.1
+SE,Northcentral Spain,p,voiceless,bilabial,o,posterior,mid,unstressed,22.4
+SE,Northcentral Spain,p,voiceless,bilabial,o,posterior,mid,unstressed,16.8
+SE,Northcentral Spain,p,voiceless,bilabial,u,posterior,high,stressed,19.2
+SE,Northcentral Spain,p,voiceless,bilabial,u,posterior,high,stressed,22
+SE,Northcentral Spain,p,voiceless,bilabial,u,posterior,high,unstressed,18.4
+SE,Northcentral Spain,p,voiceless,bilabial,u,posterior,high,unstressed,17.5
+SE,Northcentral Spain,k,voiceless,velar,e,anterior,mid,stressed,24
+SE,Northcentral Spain,k,voiceless,velar,e,anterior,mid,stressed,19.7
+SE,Northcentral Spain,k,voiceless,velar,e,anterior,mid,unstressed,19.6
+SE,Northcentral Spain,k,voiceless,velar,e,anterior,mid,unstressed,18.3
+SE,Northcentral Spain,k,voiceless,velar,i,anterior,high,stressed,17
+SE,Northcentral Spain,k,voiceless,velar,i,anterior,high,stressed,16.2
+SE,Northcentral Spain,k,voiceless,velar,i,anterior,high,unstressed,18
+SE,Northcentral Spain,k,voiceless,velar,i,anterior,high,unstressed,17.9
+SE,Northcentral Spain,t,voiceless,dental,a,central,low,stressed,27.1
+SE,Northcentral Spain,t,voiceless,dental,a,central,low,stressed,22.7
+SE,Northcentral Spain,t,voiceless,dental,a,central,low,unstressed,22.4
+SE,Northcentral Spain,t,voiceless,dental,a,central,low,unstressed,23.2
+SE,Northcentral Spain,t,voiceless,dental,e,anterior,mid,stressed,25.1
+SE,Northcentral Spain,t,voiceless,dental,e,anterior,mid,stressed,24
+SE,Northcentral Spain,t,voiceless,dental,e,anterior,mid,unstressed,21.7
+SE,Northcentral Spain,t,voiceless,dental,e,anterior,mid,unstressed,23.8
+SE,Northcentral Spain,t,voiceless,dental,i,anterior,high,stressed,22.4
+SE,Northcentral Spain,t,voiceless,dental,i,anterior,high,stressed,26.2
+SE,Northcentral Spain,t,voiceless,dental,i,anterior,high,unstressed,16.6
+SE,Northcentral Spain,t,voiceless,dental,i,anterior,high,unstressed,20.4
+SE,Northcentral Spain,t,voiceless,dental,o,posterior,mid,stressed,20.9
+SE,Northcentral Spain,t,voiceless,dental,o,posterior,mid,stressed,24.7
+SE,Northcentral Spain,t,voiceless,dental,o,posterior,mid,unstressed,21.4
+SE,Northcentral Spain,t,voiceless,dental,o,posterior,mid,unstressed,19
+SE,Northcentral Spain,t,voiceless,dental,u,posterior,high,stressed,24.4
+SE,Northcentral Spain,t,voiceless,dental,u,posterior,high,stressed,26.1
+SE,Northcentral Spain,t,voiceless,dental,u,posterior,high,unstressed,18.4
+SE,Northcentral Spain,t,voiceless,dental,u,posterior,high,unstressed,20
+SD,Northcentral Spain,b,voiced,bilabial,a,central,low,stressed,17.8
+SD,Northcentral Spain,b,voiced,bilabial,a,central,low,stressed,24.1
+SD,Northcentral Spain,b,voiced,bilabial,a,central,low,unstressed,10.7
+SD,Northcentral Spain,b,voiced,bilabial,a,central,low,unstressed,10
+SD,Northcentral Spain,b,voiced,bilabial,e,anterior,mid,stressed,24
+SD,Northcentral Spain,b,voiced,bilabial,e,anterior,mid,stressed,26.6
+SD,Northcentral Spain,b,voiced,bilabial,e,anterior,mid,unstressed,17.5
+SD,Northcentral Spain,b,voiced,bilabial,e,anterior,mid,unstressed,13.6
+SD,Northcentral Spain,b,voiced,bilabial,i,anterior,high,stressed,32
+SD,Northcentral Spain,b,voiced,bilabial,i,anterior,high,stressed,32.3
+SD,Northcentral Spain,b,voiced,bilabial,i,anterior,high,unstressed,18.2
+SD,Northcentral Spain,b,voiced,bilabial,i,anterior,high,unstressed,22.8
+SD,Northcentral Spain,b,voiced,bilabial,o,posterior,mid,stressed,19.5
+SD,Northcentral Spain,b,voiced,bilabial,o,posterior,mid,stressed,16.7
+SD,Northcentral Spain,b,voiced,bilabial,o,posterior,mid,unstressed,26.9
+SD,Northcentral Spain,b,voiced,bilabial,o,posterior,mid,unstressed,8.3
+SD,Northcentral Spain,b,voiced,bilabial,u,posterior,high,stressed,16.7
+SD,Northcentral Spain,b,voiced,bilabial,u,posterior,high,stressed,13.8
+SD,Northcentral Spain,b,voiced,bilabial,u,posterior,high,unstressed,29.3
+SD,Northcentral Spain,b,voiced,bilabial,u,posterior,high,unstressed,11.1
+SD,Northcentral Spain,k,voiceless,velar,a,central,low,stressed,20.8
+SD,Northcentral Spain,k,voiceless,velar,a,central,low,stressed,25.9
+SD,Northcentral Spain,k,voiceless,velar,a,central,low,unstressed,19.2
+SD,Northcentral Spain,k,voiceless,velar,a,central,low,unstressed,23.4
+SD,Northcentral Spain,k,voiceless,velar,o,posterior,mid,stressed,33.2
+SD,Northcentral Spain,k,voiceless,velar,o,posterior,mid,stressed,31.1
+SD,Northcentral Spain,k,voiceless,velar,o,posterior,mid,unstressed,25.4
+SD,Northcentral Spain,k,voiceless,velar,o,posterior,mid,unstressed,24.8
+SD,Northcentral Spain,k,voiceless,velar,u,posterior,high,stressed,25.7
+SD,Northcentral Spain,k,voiceless,velar,u,posterior,high,stressed,24.5
+SD,Northcentral Spain,k,voiceless,velar,u,posterior,high,unstressed,19.4
+SD,Northcentral Spain,k,voiceless,velar,u,posterior,high,unstressed,19.1
+SD,Northcentral Spain,d,voiced,dental,a,central,low,stressed,16.2
+SD,Northcentral Spain,d,voiced,dental,a,central,low,stressed,25.2
+SD,Northcentral Spain,d,voiced,dental,a,central,low,unstressed,10.4
+SD,Northcentral Spain,d,voiced,dental,a,central,low,unstressed,20.6
+SD,Northcentral Spain,d,voiced,dental,e,anterior,mid,stressed,31.4
+SD,Northcentral Spain,d,voiced,dental,e,anterior,mid,stressed,29.4
+SD,Northcentral Spain,d,voiced,dental,e,anterior,mid,unstressed,17.3
+SD,Northcentral Spain,d,voiced,dental,e,anterior,mid,unstressed,6.5
+SD,Northcentral Spain,d,voiced,dental,i,anterior,high,stressed,19.7
+SD,Northcentral Spain,d,voiced,dental,i,anterior,high,stressed,25.8
+SD,Northcentral Spain,d,voiced,dental,i,anterior,high,unstressed,6.6
+SD,Northcentral Spain,d,voiced,dental,i,anterior,high,unstressed,25
+SD,Northcentral Spain,d,voiced,dental,o,posterior,mid,stressed,29.9
+SD,Northcentral Spain,d,voiced,dental,o,posterior,mid,stressed,28.5
+SD,Northcentral Spain,d,voiced,dental,o,posterior,mid,unstressed,19.3
+SD,Northcentral Spain,d,voiced,dental,o,posterior,mid,unstressed,8.1
+SD,Northcentral Spain,d,voiced,dental,u,posterior,high,stressed,26.4
+SD,Northcentral Spain,d,voiced,dental,u,posterior,high,stressed,23.1
+SD,Northcentral Spain,d,voiced,dental,u,posterior,high,unstressed,27.4
+SD,Northcentral Spain,d,voiced,dental,u,posterior,high,unstressed,20
+SD,Northcentral Spain,g,voiced,velar,a,central,low,stressed,22
+SD,Northcentral Spain,g,voiced,velar,a,central,low,stressed,20.2
+SD,Northcentral Spain,g,voiced,velar,a,central,low,unstressed,23.3
+SD,Northcentral Spain,g,voiced,velar,a,central,low,unstressed,16.6
+SD,Northcentral Spain,g,voiced,velar,o,posterior,mid,stressed,22.1
+SD,Northcentral Spain,g,voiced,velar,o,posterior,mid,stressed,24
+SD,Northcentral Spain,g,voiced,velar,o,posterior,mid,unstressed,18.2
+SD,Northcentral Spain,g,voiced,velar,o,posterior,mid,unstressed,18.7
+SD,Northcentral Spain,g,voiced,velar,e,anterior,mid,stressed,21.5
+SD,Northcentral Spain,g,voiced,velar,e,anterior,mid,stressed,19.9
+SD,Northcentral Spain,g,voiced,velar,e,anterior,mid,unstressed,33.1
+SD,Northcentral Spain,g,voiced,velar,e,anterior,mid,unstressed,15.7
+SD,Northcentral Spain,g,voiced,velar,i,anterior,high,stressed,16.5
+SD,Northcentral Spain,g,voiced,velar,i,anterior,high,stressed,14.5
+SD,Northcentral Spain,g,voiced,velar,i,anterior,high,unstressed,4.8
+SD,Northcentral Spain,g,voiced,velar,i,anterior,high,unstressed,4.6
+SD,Northcentral Spain,g,voiced,velar,u,posterior,high,stressed,23.8
+SD,Northcentral Spain,g,voiced,velar,u,posterior,high,stressed,24.7
+SD,Northcentral Spain,g,voiced,velar,u,posterior,high,unstressed,11.4
+SD,Northcentral Spain,g,voiced,velar,u,posterior,high,unstressed,7.4
+SD,Northcentral Spain,p,voiceless,bilabial,a,central,low,stressed,29.1
+SD,Northcentral Spain,p,voiceless,bilabial,a,central,low,stressed,24.2
+SD,Northcentral Spain,p,voiceless,bilabial,a,central,low,unstressed,16.7
+SD,Northcentral Spain,p,voiceless,bilabial,a,central,low,unstressed,19.8
+SD,Northcentral Spain,p,voiceless,bilabial,e,anterior,mid,stressed,29.8
+SD,Northcentral Spain,p,voiceless,bilabial,e,anterior,mid,stressed,32.4
+SD,Northcentral Spain,p,voiceless,bilabial,e,anterior,mid,unstressed,23.7
+SD,Northcentral Spain,p,voiceless,bilabial,e,anterior,mid,unstressed,25.9
+SD,Northcentral Spain,p,voiceless,bilabial,i,anterior,high,stressed,26.9
+SD,Northcentral Spain,p,voiceless,bilabial,i,anterior,high,stressed,24.7
+SD,Northcentral Spain,p,voiceless,bilabial,i,anterior,high,unstressed,24.1
+SD,Northcentral Spain,p,voiceless,bilabial,i,anterior,high,unstressed,21.3
+SD,Northcentral Spain,p,voiceless,bilabial,o,posterior,mid,stressed,33.9
+SD,Northcentral Spain,p,voiceless,bilabial,o,posterior,mid,stressed,32.5
+SD,Northcentral Spain,p,voiceless,bilabial,o,posterior,mid,unstressed,29.7
+SD,Northcentral Spain,p,voiceless,bilabial,o,posterior,mid,unstressed,30.6
+SD,Northcentral Spain,p,voiceless,bilabial,u,posterior,high,stressed,25.3
+SD,Northcentral Spain,p,voiceless,bilabial,u,posterior,high,stressed,19.4
+SD,Northcentral Spain,p,voiceless,bilabial,u,posterior,high,unstressed,23.4
+SD,Northcentral Spain,p,voiceless,bilabial,u,posterior,high,unstressed,16.1
+SD,Northcentral Spain,k,voiceless,velar,e,anterior,mid,stressed,32
+SD,Northcentral Spain,k,voiceless,velar,e,anterior,mid,stressed,32.4
+SD,Northcentral Spain,k,voiceless,velar,e,anterior,mid,unstressed,26.3
+SD,Northcentral Spain,k,voiceless,velar,e,anterior,mid,unstressed,26.8
+SD,Northcentral Spain,k,voiceless,velar,i,anterior,high,stressed,24
+SD,Northcentral Spain,k,voiceless,velar,i,anterior,high,stressed,21.7
+SD,Northcentral Spain,k,voiceless,velar,i,anterior,high,unstressed,23.9
+SD,Northcentral Spain,k,voiceless,velar,i,anterior,high,unstressed,17.1
+SD,Northcentral Spain,t,voiceless,dental,a,central,low,stressed,36.7
+SD,Northcentral Spain,t,voiceless,dental,a,central,low,stressed,29.9
+SD,Northcentral Spain,t,voiceless,dental,a,central,low,unstressed,24.8
+SD,Northcentral Spain,t,voiceless,dental,a,central,low,unstressed,22
+SD,Northcentral Spain,t,voiceless,dental,e,anterior,mid,stressed,33
+SD,Northcentral Spain,t,voiceless,dental,e,anterior,mid,stressed,30
+SD,Northcentral Spain,t,voiceless,dental,e,anterior,mid,unstressed,25.9
+SD,Northcentral Spain,t,voiceless,dental,e,anterior,mid,unstressed,29.3
+SD,Northcentral Spain,t,voiceless,dental,i,anterior,high,stressed,28.7
+SD,Northcentral Spain,t,voiceless,dental,i,anterior,high,stressed,24.2
+SD,Northcentral Spain,t,voiceless,dental,i,anterior,high,unstressed,24.5
+SD,Northcentral Spain,t,voiceless,dental,i,anterior,high,unstressed,17
+SD,Northcentral Spain,t,voiceless,dental,o,posterior,mid,stressed,28.3
+SD,Northcentral Spain,t,voiceless,dental,o,posterior,mid,stressed,25.3
+SD,Northcentral Spain,t,voiceless,dental,o,posterior,mid,unstressed,18.5
+SD,Northcentral Spain,t,voiceless,dental,o,posterior,mid,unstressed,21.6
+SD,Northcentral Spain,t,voiceless,dental,u,posterior,high,stressed,29.5
+SD,Northcentral Spain,t,voiceless,dental,u,posterior,high,stressed,30.9
+SD,Northcentral Spain,t,voiceless,dental,u,posterior,high,unstressed,19.5
+SD,Northcentral Spain,t,voiceless,dental,u,posterior,high,unstressed,18.9
+SC,Northcentral Spain,b,voiced,bilabial,a,central,low,stressed,13.8
+SC,Northcentral Spain,b,voiced,bilabial,a,central,low,stressed,11
+SC,Northcentral Spain,b,voiced,bilabial,a,central,low,unstressed,7.6
+SC,Northcentral Spain,b,voiced,bilabial,a,central,low,unstressed,5.9
+SC,Northcentral Spain,b,voiced,bilabial,e,anterior,mid,stressed,13.8
+SC,Northcentral Spain,b,voiced,bilabial,e,anterior,mid,stressed,12.5
+SC,Northcentral Spain,b,voiced,bilabial,e,anterior,mid,unstressed,12.4
+SC,Northcentral Spain,b,voiced,bilabial,e,anterior,mid,unstressed,14
+SC,Northcentral Spain,b,voiced,bilabial,i,anterior,high,stressed,13.9
+SC,Northcentral Spain,b,voiced,bilabial,i,anterior,high,stressed,12.6
+SC,Northcentral Spain,b,voiced,bilabial,i,anterior,high,unstressed,12.9
+SC,Northcentral Spain,b,voiced,bilabial,i,anterior,high,unstressed,10.9
+SC,Northcentral Spain,b,voiced,bilabial,o,posterior,mid,stressed,13.8
+SC,Northcentral Spain,b,voiced,bilabial,o,posterior,mid,stressed,14.8
+SC,Northcentral Spain,b,voiced,bilabial,o,posterior,mid,unstressed,13.5
+SC,Northcentral Spain,b,voiced,bilabial,o,posterior,mid,unstressed,15.3
+SC,Northcentral Spain,b,voiced,bilabial,u,posterior,high,stressed,9.1
+SC,Northcentral Spain,b,voiced,bilabial,u,posterior,high,stressed,6.8
+SC,Northcentral Spain,b,voiced,bilabial,u,posterior,high,unstressed,8.6
+SC,Northcentral Spain,b,voiced,bilabial,u,posterior,high,unstressed,7.5
+SC,Northcentral Spain,k,voiceless,velar,a,central,low,stressed,27.3
+SC,Northcentral Spain,k,voiceless,velar,a,central,low,stressed,27.2
+SC,Northcentral Spain,k,voiceless,velar,a,central,low,unstressed,21.9
+SC,Northcentral Spain,k,voiceless,velar,a,central,low,unstressed,20
+SC,Northcentral Spain,k,voiceless,velar,o,posterior,mid,stressed,27.9
+SC,Northcentral Spain,k,voiceless,velar,o,posterior,mid,stressed,29.3
+SC,Northcentral Spain,k,voiceless,velar,o,posterior,mid,unstressed,32.9
+SC,Northcentral Spain,k,voiceless,velar,o,posterior,mid,unstressed,27.1
+SC,Northcentral Spain,k,voiceless,velar,u,posterior,high,stressed,30.2
+SC,Northcentral Spain,k,voiceless,velar,u,posterior,high,stressed,30.1
+SC,Northcentral Spain,k,voiceless,velar,u,posterior,high,unstressed,24
+SC,Northcentral Spain,k,voiceless,velar,u,posterior,high,unstressed,22.9
+SC,Northcentral Spain,d,voiced,dental,a,central,low,stressed,20.8
+SC,Northcentral Spain,d,voiced,dental,a,central,low,stressed,16.9
+SC,Northcentral Spain,d,voiced,dental,a,central,low,unstressed,7.8
+SC,Northcentral Spain,d,voiced,dental,a,central,low,unstressed,8
+SC,Northcentral Spain,d,voiced,dental,e,anterior,mid,stressed,11.3
+SC,Northcentral Spain,d,voiced,dental,e,anterior,mid,stressed,13.2
+SC,Northcentral Spain,d,voiced,dental,e,anterior,mid,unstressed,10.9
+SC,Northcentral Spain,d,voiced,dental,e,anterior,mid,unstressed,9.2
+SC,Northcentral Spain,d,voiced,dental,i,anterior,high,stressed,10.7
+SC,Northcentral Spain,d,voiced,dental,i,anterior,high,stressed,8.9
+SC,Northcentral Spain,d,voiced,dental,i,anterior,high,unstressed,12.2
+SC,Northcentral Spain,d,voiced,dental,i,anterior,high,unstressed,8.6
+SC,Northcentral Spain,d,voiced,dental,o,posterior,mid,stressed,16.1
+SC,Northcentral Spain,d,voiced,dental,o,posterior,mid,stressed,14.6
+SC,Northcentral Spain,d,voiced,dental,o,posterior,mid,unstressed,12.7
+SC,Northcentral Spain,d,voiced,dental,o,posterior,mid,unstressed,11.5
+SC,Northcentral Spain,d,voiced,dental,u,posterior,high,stressed,13.1
+SC,Northcentral Spain,d,voiced,dental,u,posterior,high,stressed,10.6
+SC,Northcentral Spain,d,voiced,dental,u,posterior,high,unstressed,13.3
+SC,Northcentral Spain,d,voiced,dental,u,posterior,high,unstressed,11
+SC,Northcentral Spain,g,voiced,velar,a,central,low,stressed,20
+SC,Northcentral Spain,g,voiced,velar,a,central,low,stressed,16.6
+SC,Northcentral Spain,g,voiced,velar,a,central,low,unstressed,14.2
+SC,Northcentral Spain,g,voiced,velar,a,central,low,unstressed,14.6
+SC,Northcentral Spain,g,voiced,velar,o,posterior,mid,stressed,13.3
+SC,Northcentral Spain,g,voiced,velar,o,posterior,mid,stressed,11
+SC,Northcentral Spain,g,voiced,velar,o,posterior,mid,unstressed,13.1
+SC,Northcentral Spain,g,voiced,velar,o,posterior,mid,unstressed,11
+SC,Northcentral Spain,g,voiced,velar,e,anterior,mid,stressed,16.5
+SC,Northcentral Spain,g,voiced,velar,e,anterior,mid,stressed,14.3
+SC,Northcentral Spain,g,voiced,velar,e,anterior,mid,unstressed,15.5
+SC,Northcentral Spain,g,voiced,velar,e,anterior,mid,unstressed,10.6
+SC,Northcentral Spain,g,voiced,velar,i,anterior,high,stressed,15.2
+SC,Northcentral Spain,g,voiced,velar,i,anterior,high,stressed,17.3
+SC,Northcentral Spain,g,voiced,velar,i,anterior,high,unstressed,14.1
+SC,Northcentral Spain,g,voiced,velar,i,anterior,high,unstressed,10
+SC,Northcentral Spain,g,voiced,velar,u,posterior,high,stressed,6.8
+SC,Northcentral Spain,g,voiced,velar,u,posterior,high,stressed,5.2
+SC,Northcentral Spain,g,voiced,velar,u,posterior,high,unstressed,10.8
+SC,Northcentral Spain,g,voiced,velar,u,posterior,high,unstressed,4.4
+SC,Northcentral Spain,p,voiceless,bilabial,a,central,low,stressed,36
+SC,Northcentral Spain,p,voiceless,bilabial,a,central,low,stressed,31.4
+SC,Northcentral Spain,p,voiceless,bilabial,a,central,low,unstressed,25.2
+SC,Northcentral Spain,p,voiceless,bilabial,a,central,low,unstressed,21.7
+SC,Northcentral Spain,p,voiceless,bilabial,e,anterior,mid,stressed,32.9
+SC,Northcentral Spain,p,voiceless,bilabial,e,anterior,mid,stressed,24.4
+SC,Northcentral Spain,p,voiceless,bilabial,e,anterior,mid,unstressed,25.6
+SC,Northcentral Spain,p,voiceless,bilabial,e,anterior,mid,unstressed,22.9
+SC,Northcentral Spain,p,voiceless,bilabial,i,anterior,high,stressed,22.1
+SC,Northcentral Spain,p,voiceless,bilabial,i,anterior,high,stressed,20.1
+SC,Northcentral Spain,p,voiceless,bilabial,i,anterior,high,unstressed,23
+SC,Northcentral Spain,p,voiceless,bilabial,i,anterior,high,unstressed,22.5
+SC,Northcentral Spain,p,voiceless,bilabial,o,posterior,mid,stressed,32
+SC,Northcentral Spain,p,voiceless,bilabial,o,posterior,mid,stressed,29.4
+SC,Northcentral Spain,p,voiceless,bilabial,o,posterior,mid,unstressed,26.4
+SC,Northcentral Spain,p,voiceless,bilabial,o,posterior,mid,unstressed,27.5
+SC,Northcentral Spain,p,voiceless,bilabial,u,posterior,high,stressed,28
+SC,Northcentral Spain,p,voiceless,bilabial,u,posterior,high,stressed,28.7
+SC,Northcentral Spain,p,voiceless,bilabial,u,posterior,high,unstressed,20
+SC,Northcentral Spain,p,voiceless,bilabial,u,posterior,high,unstressed,19.9
+SC,Northcentral Spain,k,voiceless,velar,e,anterior,mid,stressed,26.4
+SC,Northcentral Spain,k,voiceless,velar,e,anterior,mid,stressed,30.3
+SC,Northcentral Spain,k,voiceless,velar,e,anterior,mid,unstressed,25.1
+SC,Northcentral Spain,k,voiceless,velar,e,anterior,mid,unstressed,29.5
+SC,Northcentral Spain,k,voiceless,velar,i,anterior,high,stressed,21.5
+SC,Northcentral Spain,k,voiceless,velar,i,anterior,high,stressed,16.6
+SC,Northcentral Spain,k,voiceless,velar,i,anterior,high,unstressed,6.7
+SC,Northcentral Spain,k,voiceless,velar,i,anterior,high,unstressed,16.8
+SC,Northcentral Spain,t,voiceless,dental,a,central,low,stressed,31.9
+SC,Northcentral Spain,t,voiceless,dental,a,central,low,stressed,25.2
+SC,Northcentral Spain,t,voiceless,dental,a,central,low,unstressed,24.9
+SC,Northcentral Spain,t,voiceless,dental,a,central,low,unstressed,23.5
+SC,Northcentral Spain,t,voiceless,dental,e,anterior,mid,stressed,29
+SC,Northcentral Spain,t,voiceless,dental,e,anterior,mid,stressed,30.2
+SC,Northcentral Spain,t,voiceless,dental,e,anterior,mid,unstressed,24.7
+SC,Northcentral Spain,t,voiceless,dental,e,anterior,mid,unstressed,23.9
+SC,Northcentral Spain,t,voiceless,dental,i,anterior,high,stressed,27
+SC,Northcentral Spain,t,voiceless,dental,i,anterior,high,stressed,20.6
+SC,Northcentral Spain,t,voiceless,dental,i,anterior,high,unstressed,21.8
+SC,Northcentral Spain,t,voiceless,dental,i,anterior,high,unstressed,24.5
+SC,Northcentral Spain,t,voiceless,dental,o,posterior,mid,stressed,28.8
+SC,Northcentral Spain,t,voiceless,dental,o,posterior,mid,stressed,24.9
+SC,Northcentral Spain,t,voiceless,dental,o,posterior,mid,unstressed,24.3
+SC,Northcentral Spain,t,voiceless,dental,o,posterior,mid,unstressed,22.5
+SC,Northcentral Spain,t,voiceless,dental,u,posterior,high,stressed,25.6
+SC,Northcentral Spain,t,voiceless,dental,u,posterior,high,stressed,29.4
+SC,Northcentral Spain,t,voiceless,dental,u,posterior,high,unstressed,19.3
+SC,Northcentral Spain,t,voiceless,dental,u,posterior,high,unstressed,20.5
+SB,Northcentral Spain,b,voiced,bilabial,a,central,low,stressed,9.9
+SB,Northcentral Spain,b,voiced,bilabial,a,central,low,stressed,11.9
+SB,Northcentral Spain,b,voiced,bilabial,a,central,low,unstressed,1.7
+SB,Northcentral Spain,b,voiced,bilabial,a,central,low,unstressed,4.6
+SB,Northcentral Spain,b,voiced,bilabial,e,anterior,mid,stressed,17.3
+SB,Northcentral Spain,b,voiced,bilabial,e,anterior,mid,stressed,13.2
+SB,Northcentral Spain,b,voiced,bilabial,e,anterior,mid,unstressed,8.7
+SB,Northcentral Spain,b,voiced,bilabial,e,anterior,mid,unstressed,5.9
+SB,Northcentral Spain,b,voiced,bilabial,i,anterior,high,stressed,12.5
+SB,Northcentral Spain,b,voiced,bilabial,i,anterior,high,stressed,26.4
+SB,Northcentral Spain,b,voiced,bilabial,i,anterior,high,unstressed,9.3
+SB,Northcentral Spain,b,voiced,bilabial,i,anterior,high,unstressed,3.9
+SB,Northcentral Spain,b,voiced,bilabial,o,posterior,mid,stressed,20.6
+SB,Northcentral Spain,b,voiced,bilabial,o,posterior,mid,stressed,16.6
+SB,Northcentral Spain,b,voiced,bilabial,o,posterior,mid,unstressed,7.1
+SB,Northcentral Spain,b,voiced,bilabial,o,posterior,mid,unstressed,6.9
+SB,Northcentral Spain,b,voiced,bilabial,u,posterior,high,stressed,15.2
+SB,Northcentral Spain,b,voiced,bilabial,u,posterior,high,stressed,15
+SB,Northcentral Spain,b,voiced,bilabial,u,posterior,high,unstressed,7.4
+SB,Northcentral Spain,b,voiced,bilabial,u,posterior,high,unstressed,4.1
+SB,Northcentral Spain,k,voiceless,velar,a,central,low,stressed,23
+SB,Northcentral Spain,k,voiceless,velar,a,central,low,stressed,18.6
+SB,Northcentral Spain,k,voiceless,velar,a,central,low,unstressed,14.5
+SB,Northcentral Spain,k,voiceless,velar,a,central,low,unstressed,16.2
+SB,Northcentral Spain,k,voiceless,velar,o,posterior,mid,stressed,23.3
+SB,Northcentral Spain,k,voiceless,velar,o,posterior,mid,stressed,25.1
+SB,Northcentral Spain,k,voiceless,velar,o,posterior,mid,unstressed,15.7
+SB,Northcentral Spain,k,voiceless,velar,o,posterior,mid,unstressed,18.3
+SB,Northcentral Spain,k,voiceless,velar,u,posterior,high,stressed,19.6
+SB,Northcentral Spain,k,voiceless,velar,u,posterior,high,stressed,10.2
+SB,Northcentral Spain,k,voiceless,velar,u,posterior,high,unstressed,12.1
+SB,Northcentral Spain,k,voiceless,velar,u,posterior,high,unstressed,16
+SB,Northcentral Spain,d,voiced,dental,a,central,low,stressed,17.9
+SB,Northcentral Spain,d,voiced,dental,a,central,low,stressed,23.5
+SB,Northcentral Spain,d,voiced,dental,a,central,low,unstressed,17.1
+SB,Northcentral Spain,d,voiced,dental,a,central,low,unstressed,16.4
+SB,Northcentral Spain,d,voiced,dental,e,anterior,mid,stressed,18.6
+SB,Northcentral Spain,d,voiced,dental,e,anterior,mid,stressed,15.1
+SB,Northcentral Spain,d,voiced,dental,e,anterior,mid,unstressed,9.8
+SB,Northcentral Spain,d,voiced,dental,e,anterior,mid,unstressed,7.7
+SB,Northcentral Spain,d,voiced,dental,i,anterior,high,stressed,11.2
+SB,Northcentral Spain,d,voiced,dental,i,anterior,high,stressed,14.3
+SB,Northcentral Spain,d,voiced,dental,i,anterior,high,unstressed,14.8
+SB,Northcentral Spain,d,voiced,dental,i,anterior,high,unstressed,13
+SB,Northcentral Spain,d,voiced,dental,o,posterior,mid,stressed,7.5
+SB,Northcentral Spain,d,voiced,dental,o,posterior,mid,stressed,10.8
+SB,Northcentral Spain,d,voiced,dental,o,posterior,mid,unstressed,6.5
+SB,Northcentral Spain,d,voiced,dental,o,posterior,mid,unstressed,5.4
+SB,Northcentral Spain,d,voiced,dental,u,posterior,high,stressed,17.4
+SB,Northcentral Spain,d,voiced,dental,u,posterior,high,stressed,17.3
+SB,Northcentral Spain,d,voiced,dental,u,posterior,high,unstressed,7
+SB,Northcentral Spain,d,voiced,dental,u,posterior,high,unstressed,17.5
+SB,Northcentral Spain,g,voiced,velar,a,central,low,stressed,19.8
+SB,Northcentral Spain,g,voiced,velar,a,central,low,stressed,22
+SB,Northcentral Spain,g,voiced,velar,a,central,low,unstressed,17.1
+SB,Northcentral Spain,g,voiced,velar,a,central,low,unstressed,16.9
+SB,Northcentral Spain,g,voiced,velar,o,posterior,mid,stressed,13.6
+SB,Northcentral Spain,g,voiced,velar,o,posterior,mid,stressed,11.4
+SB,Northcentral Spain,g,voiced,velar,o,posterior,mid,unstressed,15.7
+SB,Northcentral Spain,g,voiced,velar,o,posterior,mid,unstressed,7.8
+SB,Northcentral Spain,g,voiced,velar,e,anterior,mid,stressed,14.6
+SB,Northcentral Spain,g,voiced,velar,e,anterior,mid,stressed,17.3
+SB,Northcentral Spain,g,voiced,velar,e,anterior,mid,unstressed,10.4
+SB,Northcentral Spain,g,voiced,velar,e,anterior,mid,unstressed,5.7
+SB,Northcentral Spain,g,voiced,velar,i,anterior,high,stressed,12.3
+SB,Northcentral Spain,g,voiced,velar,i,anterior,high,stressed,10.5
+SB,Northcentral Spain,g,voiced,velar,i,anterior,high,unstressed,10.3
+SB,Northcentral Spain,g,voiced,velar,i,anterior,high,unstressed,9.6
+SB,Northcentral Spain,g,voiced,velar,u,posterior,high,stressed,11.1
+SB,Northcentral Spain,g,voiced,velar,u,posterior,high,stressed,19.2
+SB,Northcentral Spain,g,voiced,velar,u,posterior,high,unstressed,5.5
+SB,Northcentral Spain,g,voiced,velar,u,posterior,high,unstressed,2.3
+SB,Northcentral Spain,p,voiceless,bilabial,a,central,low,stressed,18.8
+SB,Northcentral Spain,p,voiceless,bilabial,a,central,low,stressed,24
+SB,Northcentral Spain,p,voiceless,bilabial,a,central,low,unstressed,15.2
+SB,Northcentral Spain,p,voiceless,bilabial,a,central,low,unstressed,18
+SB,Northcentral Spain,p,voiceless,bilabial,e,anterior,mid,stressed,23.9
+SB,Northcentral Spain,p,voiceless,bilabial,e,anterior,mid,stressed,22.2
+SB,Northcentral Spain,p,voiceless,bilabial,e,anterior,mid,unstressed,21.6
+SB,Northcentral Spain,p,voiceless,bilabial,e,anterior,mid,unstressed,18.8
+SB,Northcentral Spain,p,voiceless,bilabial,i,anterior,high,stressed,24.2
+SB,Northcentral Spain,p,voiceless,bilabial,i,anterior,high,stressed,24.7
+SB,Northcentral Spain,p,voiceless,bilabial,i,anterior,high,unstressed,15.1
+SB,Northcentral Spain,p,voiceless,bilabial,i,anterior,high,unstressed,18.3
+SB,Northcentral Spain,p,voiceless,bilabial,o,posterior,mid,stressed,19.9
+SB,Northcentral Spain,p,voiceless,bilabial,o,posterior,mid,stressed,23.2
+SB,Northcentral Spain,p,voiceless,bilabial,o,posterior,mid,unstressed,19.4
+SB,Northcentral Spain,p,voiceless,bilabial,o,posterior,mid,unstressed,17.1
+SB,Northcentral Spain,p,voiceless,bilabial,u,posterior,high,stressed,20.8
+SB,Northcentral Spain,p,voiceless,bilabial,u,posterior,high,stressed,19.8
+SB,Northcentral Spain,p,voiceless,bilabial,u,posterior,high,unstressed,15.4
+SB,Northcentral Spain,p,voiceless,bilabial,u,posterior,high,unstressed,20.3
+SB,Northcentral Spain,k,voiceless,velar,e,anterior,mid,stressed,20
+SB,Northcentral Spain,k,voiceless,velar,e,anterior,mid,stressed,22.2
+SB,Northcentral Spain,k,voiceless,velar,e,anterior,mid,unstressed,15.4
+SB,Northcentral Spain,k,voiceless,velar,e,anterior,mid,unstressed,13.9
+SB,Northcentral Spain,k,voiceless,velar,i,anterior,high,stressed,17.4
+SB,Northcentral Spain,k,voiceless,velar,i,anterior,high,stressed,20.4
+SB,Northcentral Spain,k,voiceless,velar,i,anterior,high,unstressed,15.9
+SB,Northcentral Spain,k,voiceless,velar,i,anterior,high,unstressed,13.3
+SB,Northcentral Spain,t,voiceless,dental,a,central,low,stressed,27.5
+SB,Northcentral Spain,t,voiceless,dental,a,central,low,stressed,26.5
+SB,Northcentral Spain,t,voiceless,dental,a,central,low,unstressed,24.7
+SB,Northcentral Spain,t,voiceless,dental,a,central,low,unstressed,24.3
+SB,Northcentral Spain,t,voiceless,dental,e,anterior,mid,stressed,27.1
+SB,Northcentral Spain,t,voiceless,dental,e,anterior,mid,stressed,21.8
+SB,Northcentral Spain,t,voiceless,dental,e,anterior,mid,unstressed,15.4
+SB,Northcentral Spain,t,voiceless,dental,e,anterior,mid,unstressed,19.2
+SB,Northcentral Spain,t,voiceless,dental,i,anterior,high,stressed,19.1
+SB,Northcentral Spain,t,voiceless,dental,i,anterior,high,stressed,17.7
+SB,Northcentral Spain,t,voiceless,dental,i,anterior,high,unstressed,17.2
+SB,Northcentral Spain,t,voiceless,dental,i,anterior,high,unstressed,19.6
+SB,Northcentral Spain,t,voiceless,dental,o,posterior,mid,stressed,18.9
+SB,Northcentral Spain,t,voiceless,dental,o,posterior,mid,stressed,25.4
+SB,Northcentral Spain,t,voiceless,dental,o,posterior,mid,unstressed,18.6
+SB,Northcentral Spain,t,voiceless,dental,o,posterior,mid,unstressed,18.7
+SB,Northcentral Spain,t,voiceless,dental,u,posterior,high,stressed,23.1
+SB,Northcentral Spain,t,voiceless,dental,u,posterior,high,stressed,27.2
+SB,Northcentral Spain,t,voiceless,dental,u,posterior,high,unstressed,16.7
+SB,Northcentral Spain,t,voiceless,dental,u,posterior,high,unstressed,19.1
+PB,Peru,b,voiced,bilabial,a,central,low,stressed,26
+PB,Peru,b,voiced,bilabial,a,central,low,stressed,27.1
+PB,Peru,b,voiced,bilabial,a,central,low,unstressed,8.9
+PB,Peru,b,voiced,bilabial,a,central,low,unstressed,11.1
+PB,Peru,b,voiced,bilabial,e,anterior,mid,stressed,20.7
+PB,Peru,b,voiced,bilabial,e,anterior,mid,stressed,21.7
+PB,Peru,b,voiced,bilabial,e,anterior,mid,unstressed,12
+PB,Peru,b,voiced,bilabial,e,anterior,mid,unstressed,10.1
+PB,Peru,b,voiced,bilabial,i,anterior,high,stressed,16.2
+PB,Peru,b,voiced,bilabial,i,anterior,high,stressed,20.3
+PB,Peru,b,voiced,bilabial,i,anterior,high,unstressed,11.3
+PB,Peru,b,voiced,bilabial,i,anterior,high,unstressed,13.3
+PB,Peru,b,voiced,bilabial,o,posterior,mid,stressed,19.7
+PB,Peru,b,voiced,bilabial,o,posterior,mid,stressed,20
+PB,Peru,b,voiced,bilabial,o,posterior,mid,unstressed,13.1
+PB,Peru,b,voiced,bilabial,o,posterior,mid,unstressed,11.7
+PB,Peru,b,voiced,bilabial,u,posterior,high,stressed,6.9
+PB,Peru,b,voiced,bilabial,u,posterior,high,stressed,11.5
+PB,Peru,b,voiced,bilabial,u,posterior,high,unstressed,8.7
+PB,Peru,b,voiced,bilabial,u,posterior,high,unstressed,12.3
+PB,Peru,k,voiceless,velar,a,central,low,stressed,29.4
+PB,Peru,k,voiceless,velar,a,central,low,stressed,25.1
+PB,Peru,k,voiceless,velar,a,central,low,unstressed,20.3
+PB,Peru,k,voiceless,velar,a,central,low,unstressed,28.3
+PB,Peru,k,voiceless,velar,o,posterior,mid,stressed,29.3
+PB,Peru,k,voiceless,velar,o,posterior,mid,stressed,26.9
+PB,Peru,k,voiceless,velar,o,posterior,mid,unstressed,28.8
+PB,Peru,k,voiceless,velar,o,posterior,mid,unstressed,24.6
+PB,Peru,k,voiceless,velar,u,posterior,high,stressed,22.5
+PB,Peru,k,voiceless,velar,u,posterior,high,stressed,21.6
+PB,Peru,k,voiceless,velar,u,posterior,high,unstressed,20.9
+PB,Peru,k,voiceless,velar,u,posterior,high,unstressed,20.4
+PB,Peru,d,voiced,dental,a,central,low,stressed,17
+PB,Peru,d,voiced,dental,a,central,low,stressed,17.6
+PB,Peru,d,voiced,dental,a,central,low,unstressed,9.8
+PB,Peru,d,voiced,dental,a,central,low,unstressed,12.2
+PB,Peru,d,voiced,dental,e,anterior,mid,stressed,15.1
+PB,Peru,d,voiced,dental,e,anterior,mid,stressed,18.9
+PB,Peru,d,voiced,dental,e,anterior,mid,unstressed,7.4
+PB,Peru,d,voiced,dental,e,anterior,mid,unstressed,10
+PB,Peru,d,voiced,dental,i,anterior,high,stressed,11.3
+PB,Peru,d,voiced,dental,i,anterior,high,stressed,16
+PB,Peru,d,voiced,dental,i,anterior,high,unstressed,9.2
+PB,Peru,d,voiced,dental,i,anterior,high,unstressed,13.4
+PB,Peru,d,voiced,dental,o,posterior,mid,stressed,15.2
+PB,Peru,d,voiced,dental,o,posterior,mid,stressed,19.3
+PB,Peru,d,voiced,dental,o,posterior,mid,unstressed,13
+PB,Peru,d,voiced,dental,o,posterior,mid,unstressed,8.8
+PB,Peru,d,voiced,dental,u,posterior,high,stressed,13.8
+PB,Peru,d,voiced,dental,u,posterior,high,stressed,20.3
+PB,Peru,d,voiced,dental,u,posterior,high,unstressed,9
+PB,Peru,d,voiced,dental,u,posterior,high,unstressed,8.5
+PB,Peru,g,voiced,velar,a,central,low,stressed,20.7
+PB,Peru,g,voiced,velar,a,central,low,stressed,23.3
+PB,Peru,g,voiced,velar,a,central,low,unstressed,7.9
+PB,Peru,g,voiced,velar,a,central,low,unstressed,11.5
+PB,Peru,g,voiced,velar,o,posterior,mid,stressed,21.1
+PB,Peru,g,voiced,velar,o,posterior,mid,stressed,24.3
+PB,Peru,g,voiced,velar,o,posterior,mid,unstressed,10.7
+PB,Peru,g,voiced,velar,o,posterior,mid,unstressed,6.8
+PB,Peru,g,voiced,velar,e,anterior,mid,stressed,24.5
+PB,Peru,g,voiced,velar,e,anterior,mid,stressed,20.2
+PB,Peru,g,voiced,velar,e,anterior,mid,unstressed,14.7
+PB,Peru,g,voiced,velar,e,anterior,mid,unstressed,14.7
+PB,Peru,g,voiced,velar,i,anterior,high,stressed,17.1
+PB,Peru,g,voiced,velar,i,anterior,high,stressed,16.6
+PB,Peru,g,voiced,velar,i,anterior,high,unstressed,14.3
+PB,Peru,g,voiced,velar,i,anterior,high,unstressed,14.4
+PB,Peru,g,voiced,velar,u,posterior,high,stressed,11.8
+PB,Peru,g,voiced,velar,u,posterior,high,stressed,19.7
+PB,Peru,g,voiced,velar,u,posterior,high,unstressed,3.1
+PB,Peru,g,voiced,velar,u,posterior,high,unstressed,8.2
+PB,Peru,p,voiceless,bilabial,a,central,low,stressed,29.4
+PB,Peru,p,voiceless,bilabial,a,central,low,stressed,35.7
+PB,Peru,p,voiceless,bilabial,a,central,low,unstressed,23.2
+PB,Peru,p,voiceless,bilabial,a,central,low,unstressed,32.8
+PB,Peru,p,voiceless,bilabial,e,anterior,mid,stressed,28
+PB,Peru,p,voiceless,bilabial,e,anterior,mid,stressed,32.3
+PB,Peru,p,voiceless,bilabial,e,anterior,mid,unstressed,24.9
+PB,Peru,p,voiceless,bilabial,e,anterior,mid,unstressed,32.3
+PB,Peru,p,voiceless,bilabial,i,anterior,high,stressed,25.6
+PB,Peru,p,voiceless,bilabial,i,anterior,high,stressed,31
+PB,Peru,p,voiceless,bilabial,i,anterior,high,unstressed,17.5
+PB,Peru,p,voiceless,bilabial,i,anterior,high,unstressed,14.4
+PB,Peru,p,voiceless,bilabial,o,posterior,mid,stressed,30.8
+PB,Peru,p,voiceless,bilabial,o,posterior,mid,stressed,30.2
+PB,Peru,p,voiceless,bilabial,o,posterior,mid,unstressed,24.8
+PB,Peru,p,voiceless,bilabial,o,posterior,mid,unstressed,31.5
+PB,Peru,p,voiceless,bilabial,u,posterior,high,stressed,23.6
+PB,Peru,p,voiceless,bilabial,u,posterior,high,stressed,34.5
+PB,Peru,p,voiceless,bilabial,u,posterior,high,unstressed,22.6
+PB,Peru,p,voiceless,bilabial,u,posterior,high,unstressed,24.4
+PB,Peru,k,voiceless,velar,e,anterior,mid,stressed,42.7
+PB,Peru,k,voiceless,velar,e,anterior,mid,stressed,40.3
+PB,Peru,k,voiceless,velar,e,anterior,mid,unstressed,17.6
+PB,Peru,k,voiceless,velar,e,anterior,mid,unstressed,15.8
+PB,Peru,k,voiceless,velar,i,anterior,high,stressed,18.3
+PB,Peru,k,voiceless,velar,i,anterior,high,stressed,20.9
+PB,Peru,k,voiceless,velar,i,anterior,high,unstressed,13.4
+PB,Peru,k,voiceless,velar,i,anterior,high,unstressed,16.5
+PB,Peru,t,voiceless,dental,a,central,low,stressed,30.9
+PB,Peru,t,voiceless,dental,a,central,low,stressed,31.3
+PB,Peru,t,voiceless,dental,a,central,low,unstressed,25.6
+PB,Peru,t,voiceless,dental,a,central,low,unstressed,34.4
+PB,Peru,t,voiceless,dental,e,anterior,mid,stressed,33.1
+PB,Peru,t,voiceless,dental,e,anterior,mid,stressed,38.8
+PB,Peru,t,voiceless,dental,e,anterior,mid,unstressed,24.1
+PB,Peru,t,voiceless,dental,e,anterior,mid,unstressed,20.1
+PB,Peru,t,voiceless,dental,i,anterior,high,stressed,23.8
+PB,Peru,t,voiceless,dental,i,anterior,high,stressed,27.4
+PB,Peru,t,voiceless,dental,i,anterior,high,unstressed,15.4
+PB,Peru,t,voiceless,dental,i,anterior,high,unstressed,24.3
+PB,Peru,t,voiceless,dental,o,posterior,mid,stressed,32.4
+PB,Peru,t,voiceless,dental,o,posterior,mid,stressed,37.6
+PB,Peru,t,voiceless,dental,o,posterior,mid,unstressed,19.6
+PB,Peru,t,voiceless,dental,o,posterior,mid,unstressed,27.5
+PB,Peru,t,voiceless,dental,u,posterior,high,stressed,22.1
+PB,Peru,t,voiceless,dental,u,posterior,high,stressed,28.1
+PB,Peru,t,voiceless,dental,u,posterior,high,unstressed,19.7
+PB,Peru,t,voiceless,dental,u,posterior,high,unstressed,17.4
+SA,Northcentral Spain,b,voiced,bilabial,a,central,low,stressed,8.9
+SA,Northcentral Spain,b,voiced,bilabial,a,central,low,stressed,6.3
+SA,Northcentral Spain,b,voiced,bilabial,a,central,low,unstressed,8.8
+SA,Northcentral Spain,b,voiced,bilabial,a,central,low,unstressed,4.5
+SA,Northcentral Spain,b,voiced,bilabial,e,anterior,mid,stressed,11.1
+SA,Northcentral Spain,b,voiced,bilabial,e,anterior,mid,stressed,8.6
+SA,Northcentral Spain,b,voiced,bilabial,e,anterior,mid,unstressed,8.5
+SA,Northcentral Spain,b,voiced,bilabial,e,anterior,mid,unstressed,2.5
+SA,Northcentral Spain,b,voiced,bilabial,i,anterior,high,stressed,1.3
+SA,Northcentral Spain,b,voiced,bilabial,i,anterior,high,stressed,7.7
+SA,Northcentral Spain,b,voiced,bilabial,i,anterior,high,unstressed,5.3
+SA,Northcentral Spain,b,voiced,bilabial,i,anterior,high,unstressed,5.9
+SA,Northcentral Spain,b,voiced,bilabial,o,posterior,mid,stressed,16.7
+SA,Northcentral Spain,b,voiced,bilabial,o,posterior,mid,stressed,9.6
+SA,Northcentral Spain,b,voiced,bilabial,o,posterior,mid,unstressed,8.9
+SA,Northcentral Spain,b,voiced,bilabial,o,posterior,mid,unstressed,5
+SA,Northcentral Spain,b,voiced,bilabial,u,posterior,high,stressed,7.2
+SA,Northcentral Spain,b,voiced,bilabial,u,posterior,high,stressed,8.8
+SA,Northcentral Spain,b,voiced,bilabial,u,posterior,high,unstressed,2.6
+SA,Northcentral Spain,b,voiced,bilabial,u,posterior,high,unstressed,1.9
+SA,Northcentral Spain,k,voiceless,velar,a,central,low,stressed,19.3
+SA,Northcentral Spain,k,voiceless,velar,a,central,low,stressed,22.1
+SA,Northcentral Spain,k,voiceless,velar,a,central,low,unstressed,17.6
+SA,Northcentral Spain,k,voiceless,velar,a,central,low,unstressed,17.8
+SA,Northcentral Spain,k,voiceless,velar,o,posterior,mid,stressed,25.7
+SA,Northcentral Spain,k,voiceless,velar,o,posterior,mid,stressed,25.9
+SA,Northcentral Spain,k,voiceless,velar,o,posterior,mid,unstressed,24.4
+SA,Northcentral Spain,k,voiceless,velar,o,posterior,mid,unstressed,22.8
+SA,Northcentral Spain,k,voiceless,velar,u,posterior,high,stressed,18.7
+SA,Northcentral Spain,k,voiceless,velar,u,posterior,high,stressed,21.4
+SA,Northcentral Spain,k,voiceless,velar,u,posterior,high,unstressed,21.1
+SA,Northcentral Spain,k,voiceless,velar,u,posterior,high,unstressed,23.7
+SA,Northcentral Spain,d,voiced,dental,a,central,low,stressed,7.7
+SA,Northcentral Spain,d,voiced,dental,a,central,low,stressed,6.8
+SA,Northcentral Spain,d,voiced,dental,a,central,low,unstressed,7.9
+SA,Northcentral Spain,d,voiced,dental,a,central,low,unstressed,1.4
+SA,Northcentral Spain,d,voiced,dental,e,anterior,mid,stressed,11.7
+SA,Northcentral Spain,d,voiced,dental,e,anterior,mid,stressed,3.6
+SA,Northcentral Spain,d,voiced,dental,e,anterior,mid,unstressed,10.2
+SA,Northcentral Spain,d,voiced,dental,e,anterior,mid,unstressed,0.9
+SA,Northcentral Spain,d,voiced,dental,i,anterior,high,stressed,7.1
+SA,Northcentral Spain,d,voiced,dental,i,anterior,high,stressed,10.4
+SA,Northcentral Spain,d,voiced,dental,i,anterior,high,unstressed,13.4
+SA,Northcentral Spain,d,voiced,dental,i,anterior,high,unstressed,2.5
+SA,Northcentral Spain,d,voiced,dental,o,posterior,mid,stressed,5.2
+SA,Northcentral Spain,d,voiced,dental,o,posterior,mid,stressed,1.2
+SA,Northcentral Spain,d,voiced,dental,o,posterior,mid,unstressed,0.9
+SA,Northcentral Spain,d,voiced,dental,o,posterior,mid,unstressed,0.8
+SA,Northcentral Spain,d,voiced,dental,u,posterior,high,stressed,11.3
+SA,Northcentral Spain,d,voiced,dental,u,posterior,high,stressed,7.5
+SA,Northcentral Spain,d,voiced,dental,u,posterior,high,unstressed,8
+SA,Northcentral Spain,d,voiced,dental,u,posterior,high,unstressed,2.9
+SA,Northcentral Spain,g,voiced,velar,a,central,low,stressed,9.2
+SA,Northcentral Spain,g,voiced,velar,a,central,low,stressed,7
+SA,Northcentral Spain,g,voiced,velar,a,central,low,unstressed,3.1
+SA,Northcentral Spain,g,voiced,velar,a,central,low,unstressed,6
+SA,Northcentral Spain,g,voiced,velar,o,posterior,mid,stressed,10.8
+SA,Northcentral Spain,g,voiced,velar,o,posterior,mid,stressed,14
+SA,Northcentral Spain,g,voiced,velar,o,posterior,mid,unstressed,17.3
+SA,Northcentral Spain,g,voiced,velar,o,posterior,mid,unstressed,9.2
+SA,Northcentral Spain,g,voiced,velar,e,anterior,mid,stressed,1.6
+SA,Northcentral Spain,g,voiced,velar,e,anterior,mid,stressed,7.3
+SA,Northcentral Spain,g,voiced,velar,e,anterior,mid,unstressed,2.9
+SA,Northcentral Spain,g,voiced,velar,e,anterior,mid,unstressed,9.5
+SA,Northcentral Spain,g,voiced,velar,i,anterior,high,stressed,7
+SA,Northcentral Spain,g,voiced,velar,i,anterior,high,stressed,5.1
+SA,Northcentral Spain,g,voiced,velar,i,anterior,high,unstressed,5.5
+SA,Northcentral Spain,g,voiced,velar,i,anterior,high,unstressed,9.4
+SA,Northcentral Spain,g,voiced,velar,u,posterior,high,stressed,9.2
+SA,Northcentral Spain,g,voiced,velar,u,posterior,high,stressed,10.1
+SA,Northcentral Spain,g,voiced,velar,u,posterior,high,unstressed,3.7
+SA,Northcentral Spain,g,voiced,velar,u,posterior,high,unstressed,0.2
+SA,Northcentral Spain,p,voiceless,bilabial,a,central,low,stressed,20.8
+SA,Northcentral Spain,p,voiceless,bilabial,a,central,low,stressed,23
+SA,Northcentral Spain,p,voiceless,bilabial,a,central,low,unstressed,23.9
+SA,Northcentral Spain,p,voiceless,bilabial,a,central,low,unstressed,21.6
+SA,Northcentral Spain,p,voiceless,bilabial,e,anterior,mid,stressed,25.5
+SA,Northcentral Spain,p,voiceless,bilabial,e,anterior,mid,stressed,24.5
+SA,Northcentral Spain,p,voiceless,bilabial,e,anterior,mid,unstressed,25.5
+SA,Northcentral Spain,p,voiceless,bilabial,e,anterior,mid,unstressed,19
+SA,Northcentral Spain,p,voiceless,bilabial,i,anterior,high,stressed,21.3
+SA,Northcentral Spain,p,voiceless,bilabial,i,anterior,high,stressed,22.3
+SA,Northcentral Spain,p,voiceless,bilabial,i,anterior,high,unstressed,20.7
+SA,Northcentral Spain,p,voiceless,bilabial,i,anterior,high,unstressed,17.5
+SA,Northcentral Spain,p,voiceless,bilabial,o,posterior,mid,stressed,29.6
+SA,Northcentral Spain,p,voiceless,bilabial,o,posterior,mid,stressed,21.1
+SA,Northcentral Spain,p,voiceless,bilabial,o,posterior,mid,unstressed,25.2
+SA,Northcentral Spain,p,voiceless,bilabial,o,posterior,mid,unstressed,23.8
+SA,Northcentral Spain,p,voiceless,bilabial,u,posterior,high,stressed,22.2
+SA,Northcentral Spain,p,voiceless,bilabial,u,posterior,high,stressed,19.7
+SA,Northcentral Spain,p,voiceless,bilabial,u,posterior,high,unstressed,19.6
+SA,Northcentral Spain,p,voiceless,bilabial,u,posterior,high,unstressed,18.6
+SA,Northcentral Spain,k,voiceless,velar,e,anterior,mid,stressed,23.5
+SA,Northcentral Spain,k,voiceless,velar,e,anterior,mid,stressed,22.9
+SA,Northcentral Spain,k,voiceless,velar,e,anterior,mid,unstressed,16.7
+SA,Northcentral Spain,k,voiceless,velar,e,anterior,mid,unstressed,21.4
+SA,Northcentral Spain,k,voiceless,velar,i,anterior,high,stressed,24.9
+SA,Northcentral Spain,k,voiceless,velar,i,anterior,high,stressed,22.6
+SA,Northcentral Spain,k,voiceless,velar,i,anterior,high,unstressed,20.4
+SA,Northcentral Spain,k,voiceless,velar,i,anterior,high,unstressed,23.8
+SA,Northcentral Spain,t,voiceless,dental,a,central,low,stressed,24.3
+SA,Northcentral Spain,t,voiceless,dental,a,central,low,stressed,28.6
+SA,Northcentral Spain,t,voiceless,dental,a,central,low,unstressed,24.9
+SA,Northcentral Spain,t,voiceless,dental,a,central,low,unstressed,24.9
+SA,Northcentral Spain,t,voiceless,dental,e,anterior,mid,stressed,23.1
+SA,Northcentral Spain,t,voiceless,dental,e,anterior,mid,stressed,21.1
+SA,Northcentral Spain,t,voiceless,dental,e,anterior,mid,unstressed,21.5
+SA,Northcentral Spain,t,voiceless,dental,e,anterior,mid,unstressed,20.4
+SA,Northcentral Spain,t,voiceless,dental,i,anterior,high,stressed,19.4
+SA,Northcentral Spain,t,voiceless,dental,i,anterior,high,stressed,23.4
+SA,Northcentral Spain,t,voiceless,dental,i,anterior,high,unstressed,18.7
+SA,Northcentral Spain,t,voiceless,dental,i,anterior,high,unstressed,16.5
+SA,Northcentral Spain,t,voiceless,dental,o,posterior,mid,stressed,26.9
+SA,Northcentral Spain,t,voiceless,dental,o,posterior,mid,stressed,23.1
+SA,Northcentral Spain,t,voiceless,dental,o,posterior,mid,unstressed,25.5
+SA,Northcentral Spain,t,voiceless,dental,o,posterior,mid,unstressed,24.4
+SA,Northcentral Spain,t,voiceless,dental,u,posterior,high,stressed,29.9
+SA,Northcentral Spain,t,voiceless,dental,u,posterior,high,stressed,27
+SA,Northcentral Spain,t,voiceless,dental,u,posterior,high,unstressed,18.9
+SA,Northcentral Spain,t,voiceless,dental,u,posterior,high,unstressed,21
+IB,Southern Insular Spain,b,voiced,bilabial,a,central,low,stressed,15.4
+IB,Southern Insular Spain,b,voiced,bilabial,a,central,low,stressed,10.3
+IB,Southern Insular Spain,b,voiced,bilabial,a,central,low,unstressed,4.1
+IB,Southern Insular Spain,b,voiced,bilabial,a,central,low,unstressed,4.7
+IB,Southern Insular Spain,b,voiced,bilabial,e,anterior,mid,stressed,18
+IB,Southern Insular Spain,b,voiced,bilabial,e,anterior,mid,stressed,12.9
+IB,Southern Insular Spain,b,voiced,bilabial,e,anterior,mid,unstressed,8.5
+IB,Southern Insular Spain,b,voiced,bilabial,e,anterior,mid,unstressed,5.4
+IB,Southern Insular Spain,b,voiced,bilabial,i,anterior,high,stressed,7.8
+IB,Southern Insular Spain,b,voiced,bilabial,i,anterior,high,stressed,14.4
+IB,Southern Insular Spain,b,voiced,bilabial,i,anterior,high,unstressed,8.7
+IB,Southern Insular Spain,b,voiced,bilabial,i,anterior,high,unstressed,5.3
+IB,Southern Insular Spain,b,voiced,bilabial,o,posterior,mid,stressed,10.5
+IB,Southern Insular Spain,b,voiced,bilabial,o,posterior,mid,stressed,14.3
+IB,Southern Insular Spain,b,voiced,bilabial,o,posterior,mid,unstressed,7
+IB,Southern Insular Spain,b,voiced,bilabial,o,posterior,mid,unstressed,8
+IB,Southern Insular Spain,b,voiced,bilabial,u,posterior,high,stressed,12.6
+IB,Southern Insular Spain,b,voiced,bilabial,u,posterior,high,stressed,13.4
+IB,Southern Insular Spain,b,voiced,bilabial,u,posterior,high,unstressed,5.2
+IB,Southern Insular Spain,b,voiced,bilabial,u,posterior,high,unstressed,0.3
+IB,Southern Insular Spain,k,voiceless,velar,a,central,low,stressed,20.7
+IB,Southern Insular Spain,k,voiceless,velar,a,central,low,stressed,27.1
+IB,Southern Insular Spain,k,voiceless,velar,a,central,low,unstressed,21.7
+IB,Southern Insular Spain,k,voiceless,velar,a,central,low,unstressed,19.5
+IB,Southern Insular Spain,k,voiceless,velar,o,posterior,mid,stressed,28.2
+IB,Southern Insular Spain,k,voiceless,velar,o,posterior,mid,stressed,25.9
+IB,Southern Insular Spain,k,voiceless,velar,o,posterior,mid,unstressed,22.7
+IB,Southern Insular Spain,k,voiceless,velar,o,posterior,mid,unstressed,19.1
+IB,Southern Insular Spain,k,voiceless,velar,u,posterior,high,stressed,24.3
+IB,Southern Insular Spain,k,voiceless,velar,u,posterior,high,stressed,26.1
+IB,Southern Insular Spain,k,voiceless,velar,u,posterior,high,unstressed,22.2
+IB,Southern Insular Spain,k,voiceless,velar,u,posterior,high,unstressed,18.9
+IB,Southern Insular Spain,d,voiced,dental,a,central,low,stressed,12.3
+IB,Southern Insular Spain,d,voiced,dental,a,central,low,stressed,11.1
+IB,Southern Insular Spain,d,voiced,dental,a,central,low,unstressed,7.2
+IB,Southern Insular Spain,d,voiced,dental,a,central,low,unstressed,8.5
+IB,Southern Insular Spain,d,voiced,dental,e,anterior,mid,stressed,6.3
+IB,Southern Insular Spain,d,voiced,dental,e,anterior,mid,stressed,4.6
+IB,Southern Insular Spain,d,voiced,dental,e,anterior,mid,unstressed,3.7
+IB,Southern Insular Spain,d,voiced,dental,e,anterior,mid,unstressed,4.3
+IB,Southern Insular Spain,d,voiced,dental,i,anterior,high,stressed,9.8
+IB,Southern Insular Spain,d,voiced,dental,i,anterior,high,stressed,13.1
+IB,Southern Insular Spain,d,voiced,dental,i,anterior,high,unstressed,6.7
+IB,Southern Insular Spain,d,voiced,dental,i,anterior,high,unstressed,6.5
+IB,Southern Insular Spain,d,voiced,dental,o,posterior,mid,stressed,8.5
+IB,Southern Insular Spain,d,voiced,dental,o,posterior,mid,stressed,11.7
+IB,Southern Insular Spain,d,voiced,dental,o,posterior,mid,unstressed,5.3
+IB,Southern Insular Spain,d,voiced,dental,o,posterior,mid,unstressed,8.8
+IB,Southern Insular Spain,d,voiced,dental,u,posterior,high,stressed,10.5
+IB,Southern Insular Spain,d,voiced,dental,u,posterior,high,stressed,16.6
+IB,Southern Insular Spain,d,voiced,dental,u,posterior,high,unstressed,5.7
+IB,Southern Insular Spain,d,voiced,dental,u,posterior,high,unstressed,5.9
+IB,Southern Insular Spain,g,voiced,velar,a,central,low,stressed,10.5
+IB,Southern Insular Spain,g,voiced,velar,a,central,low,stressed,9.5
+IB,Southern Insular Spain,g,voiced,velar,a,central,low,unstressed,7.4
+IB,Southern Insular Spain,g,voiced,velar,a,central,low,unstressed,14.2
+IB,Southern Insular Spain,g,voiced,velar,o,posterior,mid,stressed,7.6
+IB,Southern Insular Spain,g,voiced,velar,o,posterior,mid,stressed,6.4
+IB,Southern Insular Spain,g,voiced,velar,o,posterior,mid,unstressed,1.3
+IB,Southern Insular Spain,g,voiced,velar,o,posterior,mid,unstressed,12.4
+IB,Southern Insular Spain,g,voiced,velar,e,anterior,mid,stressed,13.4
+IB,Southern Insular Spain,g,voiced,velar,e,anterior,mid,stressed,4.6
+IB,Southern Insular Spain,g,voiced,velar,e,anterior,mid,unstressed,8.4
+IB,Southern Insular Spain,g,voiced,velar,e,anterior,mid,unstressed,8.4
+IB,Southern Insular Spain,g,voiced,velar,i,anterior,high,stressed,13.1
+IB,Southern Insular Spain,g,voiced,velar,i,anterior,high,stressed,8.6
+IB,Southern Insular Spain,g,voiced,velar,i,anterior,high,unstressed,3.8
+IB,Southern Insular Spain,g,voiced,velar,i,anterior,high,unstressed,7.7
+IB,Southern Insular Spain,g,voiced,velar,u,posterior,high,stressed,5.2
+IB,Southern Insular Spain,g,voiced,velar,u,posterior,high,stressed,5.8
+IB,Southern Insular Spain,g,voiced,velar,u,posterior,high,unstressed,2.7
+IB,Southern Insular Spain,g,voiced,velar,u,posterior,high,unstressed,0.4
+IB,Southern Insular Spain,p,voiceless,bilabial,a,central,low,stressed,23.4
+IB,Southern Insular Spain,p,voiceless,bilabial,a,central,low,stressed,27.6
+IB,Southern Insular Spain,p,voiceless,bilabial,a,central,low,unstressed,22
+IB,Southern Insular Spain,p,voiceless,bilabial,a,central,low,unstressed,19.3
+IB,Southern Insular Spain,p,voiceless,bilabial,e,anterior,mid,stressed,25.2
+IB,Southern Insular Spain,p,voiceless,bilabial,e,anterior,mid,stressed,31.8
+IB,Southern Insular Spain,p,voiceless,bilabial,e,anterior,mid,unstressed,25
+IB,Southern Insular Spain,p,voiceless,bilabial,e,anterior,mid,unstressed,23.7
+IB,Southern Insular Spain,p,voiceless,bilabial,i,anterior,high,stressed,26.2
+IB,Southern Insular Spain,p,voiceless,bilabial,i,anterior,high,stressed,23
+IB,Southern Insular Spain,p,voiceless,bilabial,i,anterior,high,unstressed,20
+IB,Southern Insular Spain,p,voiceless,bilabial,i,anterior,high,unstressed,20.7
+IB,Southern Insular Spain,p,voiceless,bilabial,o,posterior,mid,stressed,26.6
+IB,Southern Insular Spain,p,voiceless,bilabial,o,posterior,mid,stressed,26.5
+IB,Southern Insular Spain,p,voiceless,bilabial,o,posterior,mid,unstressed,22.3
+IB,Southern Insular Spain,p,voiceless,bilabial,o,posterior,mid,unstressed,22.6
+IB,Southern Insular Spain,p,voiceless,bilabial,u,posterior,high,stressed,25.7
+IB,Southern Insular Spain,p,voiceless,bilabial,u,posterior,high,stressed,24.4
+IB,Southern Insular Spain,p,voiceless,bilabial,u,posterior,high,unstressed,22.6
+IB,Southern Insular Spain,p,voiceless,bilabial,u,posterior,high,unstressed,18.7
+IB,Southern Insular Spain,k,voiceless,velar,e,anterior,mid,stressed,22.4
+IB,Southern Insular Spain,k,voiceless,velar,e,anterior,mid,stressed,25.8
+IB,Southern Insular Spain,k,voiceless,velar,e,anterior,mid,unstressed,16.5
+IB,Southern Insular Spain,k,voiceless,velar,e,anterior,mid,unstressed,19.6
+IB,Southern Insular Spain,k,voiceless,velar,i,anterior,high,stressed,20.5
+IB,Southern Insular Spain,k,voiceless,velar,i,anterior,high,stressed,16.1
+IB,Southern Insular Spain,k,voiceless,velar,i,anterior,high,unstressed,12.6
+IB,Southern Insular Spain,k,voiceless,velar,i,anterior,high,unstressed,15.4
+IB,Southern Insular Spain,t,voiceless,dental,a,central,low,stressed,26.6
+IB,Southern Insular Spain,t,voiceless,dental,a,central,low,stressed,29
+IB,Southern Insular Spain,t,voiceless,dental,a,central,low,unstressed,22.9
+IB,Southern Insular Spain,t,voiceless,dental,a,central,low,unstressed,18.8
+IB,Southern Insular Spain,t,voiceless,dental,e,anterior,mid,stressed,30.1
+IB,Southern Insular Spain,t,voiceless,dental,e,anterior,mid,stressed,30.9
+IB,Southern Insular Spain,t,voiceless,dental,e,anterior,mid,unstressed,26.3
+IB,Southern Insular Spain,t,voiceless,dental,e,anterior,mid,unstressed,19.7
+IB,Southern Insular Spain,t,voiceless,dental,i,anterior,high,stressed,27.4
+IB,Southern Insular Spain,t,voiceless,dental,i,anterior,high,stressed,25.7
+IB,Southern Insular Spain,t,voiceless,dental,i,anterior,high,unstressed,18.1
+IB,Southern Insular Spain,t,voiceless,dental,i,anterior,high,unstressed,18.7
+IB,Southern Insular Spain,t,voiceless,dental,o,posterior,mid,stressed,23.9
+IB,Southern Insular Spain,t,voiceless,dental,o,posterior,mid,stressed,20.6
+IB,Southern Insular Spain,t,voiceless,dental,o,posterior,mid,unstressed,18.7
+IB,Southern Insular Spain,t,voiceless,dental,o,posterior,mid,unstressed,20.7
+IB,Southern Insular Spain,t,voiceless,dental,u,posterior,high,stressed,27.1
+IB,Southern Insular Spain,t,voiceless,dental,u,posterior,high,stressed,25.8
+IB,Southern Insular Spain,t,voiceless,dental,u,posterior,high,unstressed,20
+IB,Southern Insular Spain,t,voiceless,dental,u,posterior,high,unstressed,20.3
+IC,Southern Insular Spain,b,voiced,bilabial,a,central,low,stressed,14
+IC,Southern Insular Spain,b,voiced,bilabial,a,central,low,stressed,19.6
+IC,Southern Insular Spain,b,voiced,bilabial,a,central,low,unstressed,8
+IC,Southern Insular Spain,b,voiced,bilabial,a,central,low,unstressed,11.6
+IC,Southern Insular Spain,b,voiced,bilabial,e,anterior,mid,stressed,14
+IC,Southern Insular Spain,b,voiced,bilabial,e,anterior,mid,stressed,20.4
+IC,Southern Insular Spain,b,voiced,bilabial,e,anterior,mid,unstressed,8.1
+IC,Southern Insular Spain,b,voiced,bilabial,e,anterior,mid,unstressed,10.5
+IC,Southern Insular Spain,b,voiced,bilabial,i,anterior,high,stressed,11.2
+IC,Southern Insular Spain,b,voiced,bilabial,i,anterior,high,stressed,13.9
+IC,Southern Insular Spain,b,voiced,bilabial,i,anterior,high,unstressed,16.7
+IC,Southern Insular Spain,b,voiced,bilabial,i,anterior,high,unstressed,11
+IC,Southern Insular Spain,b,voiced,bilabial,o,posterior,mid,stressed,17.3
+IC,Southern Insular Spain,b,voiced,bilabial,o,posterior,mid,stressed,24.9
+IC,Southern Insular Spain,b,voiced,bilabial,o,posterior,mid,unstressed,12.2
+IC,Southern Insular Spain,b,voiced,bilabial,o,posterior,mid,unstressed,11.6
+IC,Southern Insular Spain,b,voiced,bilabial,u,posterior,high,stressed,9.1
+IC,Southern Insular Spain,b,voiced,bilabial,u,posterior,high,stressed,23.7
+IC,Southern Insular Spain,b,voiced,bilabial,u,posterior,high,unstressed,10.3
+IC,Southern Insular Spain,b,voiced,bilabial,u,posterior,high,unstressed,10.5
+IC,Southern Insular Spain,k,voiceless,velar,a,central,low,stressed,25.2
+IC,Southern Insular Spain,k,voiceless,velar,a,central,low,stressed,18.2
+IC,Southern Insular Spain,k,voiceless,velar,a,central,low,unstressed,19.5
+IC,Southern Insular Spain,k,voiceless,velar,a,central,low,unstressed,14
+IC,Southern Insular Spain,k,voiceless,velar,o,posterior,mid,stressed,26.1
+IC,Southern Insular Spain,k,voiceless,velar,o,posterior,mid,stressed,25.1
+IC,Southern Insular Spain,k,voiceless,velar,o,posterior,mid,unstressed,19.9
+IC,Southern Insular Spain,k,voiceless,velar,o,posterior,mid,unstressed,22.4
+IC,Southern Insular Spain,k,voiceless,velar,u,posterior,high,stressed,22.6
+IC,Southern Insular Spain,k,voiceless,velar,u,posterior,high,stressed,22.3
+IC,Southern Insular Spain,k,voiceless,velar,u,posterior,high,unstressed,16.7
+IC,Southern Insular Spain,k,voiceless,velar,u,posterior,high,unstressed,17.8
+IC,Southern Insular Spain,d,voiced,dental,a,central,low,stressed,16.8
+IC,Southern Insular Spain,d,voiced,dental,a,central,low,stressed,9.9
+IC,Southern Insular Spain,d,voiced,dental,a,central,low,unstressed,2.6
+IC,Southern Insular Spain,d,voiced,dental,a,central,low,unstressed,7.2
+IC,Southern Insular Spain,d,voiced,dental,e,anterior,mid,stressed,17.3
+IC,Southern Insular Spain,d,voiced,dental,e,anterior,mid,stressed,16.3
+IC,Southern Insular Spain,d,voiced,dental,e,anterior,mid,unstressed,6
+IC,Southern Insular Spain,d,voiced,dental,e,anterior,mid,unstressed,10.8
+IC,Southern Insular Spain,d,voiced,dental,i,anterior,high,stressed,9.1
+IC,Southern Insular Spain,d,voiced,dental,i,anterior,high,stressed,9.7
+IC,Southern Insular Spain,d,voiced,dental,i,anterior,high,unstressed,8.4
+IC,Southern Insular Spain,d,voiced,dental,i,anterior,high,unstressed,11
+IC,Southern Insular Spain,d,voiced,dental,o,posterior,mid,stressed,21.2
+IC,Southern Insular Spain,d,voiced,dental,o,posterior,mid,stressed,17.2
+IC,Southern Insular Spain,d,voiced,dental,o,posterior,mid,unstressed,6.8
+IC,Southern Insular Spain,d,voiced,dental,o,posterior,mid,unstressed,12.2
+IC,Southern Insular Spain,d,voiced,dental,u,posterior,high,stressed,18.8
+IC,Southern Insular Spain,d,voiced,dental,u,posterior,high,stressed,21.4
+IC,Southern Insular Spain,d,voiced,dental,u,posterior,high,unstressed,4.2
+IC,Southern Insular Spain,d,voiced,dental,u,posterior,high,unstressed,8.6
+IC,Southern Insular Spain,g,voiced,velar,a,central,low,stressed,9.6
+IC,Southern Insular Spain,g,voiced,velar,a,central,low,stressed,17.2
+IC,Southern Insular Spain,g,voiced,velar,a,central,low,unstressed,11.2
+IC,Southern Insular Spain,g,voiced,velar,a,central,low,unstressed,12.1
+IC,Southern Insular Spain,g,voiced,velar,o,posterior,mid,stressed,17.3
+IC,Southern Insular Spain,g,voiced,velar,o,posterior,mid,stressed,25
+IC,Southern Insular Spain,g,voiced,velar,o,posterior,mid,unstressed,13.3
+IC,Southern Insular Spain,g,voiced,velar,o,posterior,mid,unstressed,7.4
+IC,Southern Insular Spain,g,voiced,velar,e,anterior,mid,stressed,14.4
+IC,Southern Insular Spain,g,voiced,velar,e,anterior,mid,stressed,14.4
+IC,Southern Insular Spain,g,voiced,velar,e,anterior,mid,unstressed,4
+IC,Southern Insular Spain,g,voiced,velar,e,anterior,mid,unstressed,7.6
+IC,Southern Insular Spain,g,voiced,velar,i,anterior,high,stressed,16.5
+IC,Southern Insular Spain,g,voiced,velar,i,anterior,high,stressed,10.9
+IC,Southern Insular Spain,g,voiced,velar,i,anterior,high,unstressed,11.1
+IC,Southern Insular Spain,g,voiced,velar,i,anterior,high,unstressed,7.3
+IC,Southern Insular Spain,g,voiced,velar,u,posterior,high,stressed,5.8
+IC,Southern Insular Spain,g,voiced,velar,u,posterior,high,stressed,14.8
+IC,Southern Insular Spain,g,voiced,velar,u,posterior,high,unstressed,0.5
+IC,Southern Insular Spain,g,voiced,velar,u,posterior,high,unstressed,3.3
+IC,Southern Insular Spain,p,voiceless,bilabial,a,central,low,stressed,22.2
+IC,Southern Insular Spain,p,voiceless,bilabial,a,central,low,stressed,24.7
+IC,Southern Insular Spain,p,voiceless,bilabial,a,central,low,unstressed,14
+IC,Southern Insular Spain,p,voiceless,bilabial,a,central,low,unstressed,13.4
+IC,Southern Insular Spain,p,voiceless,bilabial,e,anterior,mid,stressed,27.8
+IC,Southern Insular Spain,p,voiceless,bilabial,e,anterior,mid,stressed,31.3
+IC,Southern Insular Spain,p,voiceless,bilabial,e,anterior,mid,unstressed,22.4
+IC,Southern Insular Spain,p,voiceless,bilabial,e,anterior,mid,unstressed,17.4
+IC,Southern Insular Spain,p,voiceless,bilabial,i,anterior,high,stressed,24.7
+IC,Southern Insular Spain,p,voiceless,bilabial,i,anterior,high,stressed,21.1
+IC,Southern Insular Spain,p,voiceless,bilabial,i,anterior,high,unstressed,16.1
+IC,Southern Insular Spain,p,voiceless,bilabial,i,anterior,high,unstressed,13.5
+IC,Southern Insular Spain,p,voiceless,bilabial,o,posterior,mid,stressed,31
+IC,Southern Insular Spain,p,voiceless,bilabial,o,posterior,mid,stressed,35.6
+IC,Southern Insular Spain,p,voiceless,bilabial,o,posterior,mid,unstressed,21.8
+IC,Southern Insular Spain,p,voiceless,bilabial,o,posterior,mid,unstressed,17.1
+IC,Southern Insular Spain,p,voiceless,bilabial,u,posterior,high,stressed,25.1
+IC,Southern Insular Spain,p,voiceless,bilabial,u,posterior,high,stressed,22.6
+IC,Southern Insular Spain,p,voiceless,bilabial,u,posterior,high,unstressed,13.7
+IC,Southern Insular Spain,p,voiceless,bilabial,u,posterior,high,unstressed,21.8
+IC,Southern Insular Spain,k,voiceless,velar,e,anterior,mid,stressed,28.1
+IC,Southern Insular Spain,k,voiceless,velar,e,anterior,mid,stressed,18.6
+IC,Southern Insular Spain,k,voiceless,velar,e,anterior,mid,unstressed,15.3
+IC,Southern Insular Spain,k,voiceless,velar,e,anterior,mid,unstressed,17.9
+IC,Southern Insular Spain,k,voiceless,velar,i,anterior,high,stressed,27.4
+IC,Southern Insular Spain,k,voiceless,velar,i,anterior,high,stressed,27.8
+IC,Southern Insular Spain,k,voiceless,velar,i,anterior,high,unstressed,14.9
+IC,Southern Insular Spain,k,voiceless,velar,i,anterior,high,unstressed,10.8
+IC,Southern Insular Spain,t,voiceless,dental,a,central,low,stressed,30.8
+IC,Southern Insular Spain,t,voiceless,dental,a,central,low,stressed,23.8
+IC,Southern Insular Spain,t,voiceless,dental,a,central,low,unstressed,19.4
+IC,Southern Insular Spain,t,voiceless,dental,a,central,low,unstressed,15.4
+IC,Southern Insular Spain,t,voiceless,dental,e,anterior,mid,stressed,28.4
+IC,Southern Insular Spain,t,voiceless,dental,e,anterior,mid,stressed,31.3
+IC,Southern Insular Spain,t,voiceless,dental,e,anterior,mid,unstressed,23
+IC,Southern Insular Spain,t,voiceless,dental,e,anterior,mid,unstressed,17.3
+IC,Southern Insular Spain,t,voiceless,dental,i,anterior,high,stressed,24.6
+IC,Southern Insular Spain,t,voiceless,dental,i,anterior,high,stressed,21.4
+IC,Southern Insular Spain,t,voiceless,dental,i,anterior,high,unstressed,14.4
+IC,Southern Insular Spain,t,voiceless,dental,i,anterior,high,unstressed,15.2
+IC,Southern Insular Spain,t,voiceless,dental,o,posterior,mid,stressed,29.1
+IC,Southern Insular Spain,t,voiceless,dental,o,posterior,mid,stressed,26.8
+IC,Southern Insular Spain,t,voiceless,dental,o,posterior,mid,unstressed,19.4
+IC,Southern Insular Spain,t,voiceless,dental,o,posterior,mid,unstressed,16.2
+IC,Southern Insular Spain,t,voiceless,dental,u,posterior,high,stressed,25.6
+IC,Southern Insular Spain,t,voiceless,dental,u,posterior,high,stressed,23.5
+IC,Southern Insular Spain,t,voiceless,dental,u,posterior,high,unstressed,15.6
+IC,Southern Insular Spain,t,voiceless,dental,u,posterior,high,unstressed,17.7
+IA,Southern Insular Peninsular,b,voiced,bilabial,a,central,low,unstressed,14.3
+IA,Southern Insular Peninsular,b,voiced,bilabial,a,central,low,unstressed,14.4
+IA,Southern Insular Peninsular,b,voiced,bilabial,a,central,low,stressed,5
+IA,Southern Insular Peninsular,b,voiced,bilabial,a,central,low,stressed,8.4
+IA,Southern Insular Peninsular,b,voiced,bilabial,e,anterior,mid,unstressed,11.4
+IA,Southern Insular Peninsular,b,voiced,bilabial,e,anterior,mid,unstressed,7.7
+IA,Southern Insular Peninsular,b,voiced,bilabial,e,anterior,mid,stressed,8.7
+IA,Southern Insular Peninsular,b,voiced,bilabial,e,anterior,mid,stressed,11.8
+IA,Southern Insular Peninsular,b,voiced,bilabial,i,anterior,high,unstressed,10.5
+IA,Southern Insular Peninsular,b,voiced,bilabial,i,anterior,high,unstressed,17
+IA,Southern Insular Peninsular,b,voiced,bilabial,i,anterior,high,stressed,8.3
+IA,Southern Insular Peninsular,b,voiced,bilabial,i,anterior,high,stressed,5.7
+IA,Southern Insular Peninsular,b,voiced,bilabial,o,posterior,mid,unstressed,11.2
+IA,Southern Insular Peninsular,b,voiced,bilabial,o,posterior,mid,unstressed,17.2
+IA,Southern Insular Peninsular,b,voiced,bilabial,o,posterior,mid,stressed,3.2
+IA,Southern Insular Peninsular,b,voiced,bilabial,o,posterior,mid,stressed,10
+IA,Southern Insular Peninsular,b,voiced,bilabial,u,posterior,high,unstressed,7.2
+IA,Southern Insular Peninsular,b,voiced,bilabial,u,posterior,high,unstressed,6.9
+IA,Southern Insular Peninsular,b,voiced,bilabial,u,posterior,high,stressed,4.2
+IA,Southern Insular Peninsular,b,voiced,bilabial,u,posterior,high,stressed,3.6
+IA,Southern Insular Peninsular,k,voiceless,velar,a,central,low,unstressed,28.9
+IA,Southern Insular Peninsular,k,voiceless,velar,a,central,low,unstressed,28.7
+IA,Southern Insular Peninsular,k,voiceless,velar,a,central,low,stressed,22.2
+IA,Southern Insular Peninsular,k,voiceless,velar,a,central,low,stressed,23.3
+IA,Southern Insular Peninsular,k,voiceless,velar,o,posterior,mid,unstressed,24.5
+IA,Southern Insular Peninsular,k,voiceless,velar,o,posterior,mid,unstressed,28
+IA,Southern Insular Peninsular,k,voiceless,velar,o,posterior,mid,stressed,21.7
+IA,Southern Insular Peninsular,k,voiceless,velar,o,posterior,mid,stressed,22.8
+IA,Southern Insular Peninsular,k,voiceless,velar,u,posterior,high,unstressed,29.1
+IA,Southern Insular Peninsular,k,voiceless,velar,u,posterior,high,unstressed,26.4
+IA,Southern Insular Peninsular,k,voiceless,velar,u,posterior,high,stressed,25.8
+IA,Southern Insular Peninsular,k,voiceless,velar,u,posterior,high,stressed,25.3
+IA,Southern Insular Peninsular,d,voiced,dental,a,central,low,unstressed,17.9
+IA,Southern Insular Peninsular,d,voiced,dental,a,central,low,unstressed,12.2
+IA,Southern Insular Peninsular,d,voiced,dental,a,central,low,stressed,8.1
+IA,Southern Insular Peninsular,d,voiced,dental,a,central,low,stressed,6.6
+IA,Southern Insular Peninsular,d,voiced,dental,e,anterior,mid,unstressed,9.3
+IA,Southern Insular Peninsular,d,voiced,dental,e,anterior,mid,unstressed,8.9
+IA,Southern Insular Peninsular,d,voiced,dental,e,anterior,mid,stressed,5.2
+IA,Southern Insular Peninsular,d,voiced,dental,e,anterior,mid,stressed,2.7
+IA,Southern Insular Peninsular,d,voiced,dental,i,anterior,high,unstressed,3
+IA,Southern Insular Peninsular,d,voiced,dental,i,anterior,high,unstressed,9.1
+IA,Southern Insular Peninsular,d,voiced,dental,i,anterior,high,stressed,6
+IA,Southern Insular Peninsular,d,voiced,dental,i,anterior,high,stressed,1.9
+IA,Southern Insular Peninsular,d,voiced,dental,o,posterior,mid,unstressed,9.3
+IA,Southern Insular Peninsular,d,voiced,dental,o,posterior,mid,unstressed,12.5
+IA,Southern Insular Peninsular,d,voiced,dental,o,posterior,mid,stressed,7.9
+IA,Southern Insular Peninsular,d,voiced,dental,o,posterior,mid,stressed,12.7
+IA,Southern Insular Peninsular,d,voiced,dental,u,posterior,high,unstressed,3.8
+IA,Southern Insular Peninsular,d,voiced,dental,u,posterior,high,unstressed,14.2
+IA,Southern Insular Peninsular,d,voiced,dental,u,posterior,high,stressed,6.9
+IA,Southern Insular Peninsular,d,voiced,dental,u,posterior,high,stressed,6.9
+IA,Southern Insular Peninsular,g,voiced,velar,a,central,low,unstressed,8
+IA,Southern Insular Peninsular,g,voiced,velar,a,central,low,unstressed,12
+IA,Southern Insular Peninsular,g,voiced,velar,a,central,low,stressed,3.1
+IA,Southern Insular Peninsular,g,voiced,velar,a,central,low,stressed,6.9
+IA,Southern Insular Peninsular,g,voiced,velar,o,posterior,mid,unstressed,1.2
+IA,Southern Insular Peninsular,g,voiced,velar,o,posterior,mid,unstressed,6.4
+IA,Southern Insular Peninsular,g,voiced,velar,o,posterior,mid,stressed,0.3
+IA,Southern Insular Peninsular,g,voiced,velar,o,posterior,mid,stressed,7.7
+IA,Southern Insular Peninsular,g,voiced,velar,e,anterior,mid,unstressed,20.9
+IA,Southern Insular Peninsular,g,voiced,velar,e,anterior,mid,unstressed,7.8
+IA,Southern Insular Peninsular,g,voiced,velar,e,anterior,mid,stressed,8.5
+IA,Southern Insular Peninsular,g,voiced,velar,e,anterior,mid,stressed,16.3
+IA,Southern Insular Peninsular,g,voiced,velar,i,anterior,high,unstressed,4.3
+IA,Southern Insular Peninsular,g,voiced,velar,i,anterior,high,unstressed,2.8
+IA,Southern Insular Peninsular,g,voiced,velar,i,anterior,high,stressed,1.9
+IA,Southern Insular Peninsular,g,voiced,velar,i,anterior,high,stressed,1.4
+IA,Southern Insular Peninsular,g,voiced,velar,u,posterior,high,unstressed,2.5
+IA,Southern Insular Peninsular,g,voiced,velar,u,posterior,high,unstressed,16
+IA,Southern Insular Peninsular,g,voiced,velar,u,posterior,high,stressed,5.1
+IA,Southern Insular Peninsular,g,voiced,velar,u,posterior,high,stressed,4.6
+IA,Southern Insular Peninsular,p,voiceless,bilabial,a,central,low,unstressed,30.7
+IA,Southern Insular Peninsular,p,voiceless,bilabial,a,central,low,unstressed,30
+IA,Southern Insular Peninsular,p,voiceless,bilabial,a,central,low,stressed,25.4
+IA,Southern Insular Peninsular,p,voiceless,bilabial,a,central,low,stressed,22.8
+IA,Southern Insular Peninsular,p,voiceless,bilabial,e,anterior,mid,unstressed,26.7
+IA,Southern Insular Peninsular,p,voiceless,bilabial,e,anterior,mid,unstressed,29.6
+IA,Southern Insular Peninsular,p,voiceless,bilabial,e,anterior,mid,stressed,27.2
+IA,Southern Insular Peninsular,p,voiceless,bilabial,e,anterior,mid,stressed,22.2
+IA,Southern Insular Peninsular,p,voiceless,bilabial,i,anterior,high,unstressed,19.5
+IA,Southern Insular Peninsular,p,voiceless,bilabial,i,anterior,high,unstressed,24.7
+IA,Southern Insular Peninsular,p,voiceless,bilabial,i,anterior,high,stressed,13.7
+IA,Southern Insular Peninsular,p,voiceless,bilabial,i,anterior,high,stressed,17.3
+IA,Southern Insular Peninsular,p,voiceless,bilabial,o,posterior,mid,unstressed,27.6
+IA,Southern Insular Peninsular,p,voiceless,bilabial,o,posterior,mid,unstressed,30.6
+IA,Southern Insular Peninsular,p,voiceless,bilabial,o,posterior,mid,stressed,25.4
+IA,Southern Insular Peninsular,p,voiceless,bilabial,o,posterior,mid,stressed,24.7
+IA,Southern Insular Peninsular,p,voiceless,bilabial,u,posterior,high,unstressed,25.1
+IA,Southern Insular Peninsular,p,voiceless,bilabial,u,posterior,high,unstressed,25.1
+IA,Southern Insular Peninsular,p,voiceless,bilabial,u,posterior,high,stressed,11.2
+IA,Southern Insular Peninsular,p,voiceless,bilabial,u,posterior,high,stressed,23.6
+IA,Southern Insular Peninsular,k,voiceless,velar,e,anterior,mid,unstressed,20.5
+IA,Southern Insular Peninsular,k,voiceless,velar,e,anterior,mid,unstressed,27.3
+IA,Southern Insular Peninsular,k,voiceless,velar,e,anterior,mid,stressed,19.3
+IA,Southern Insular Peninsular,k,voiceless,velar,e,anterior,mid,stressed,20.9
+IA,Southern Insular Peninsular,k,voiceless,velar,i,anterior,high,unstressed,16
+IA,Southern Insular Peninsular,k,voiceless,velar,i,anterior,high,unstressed,14.8
+IA,Southern Insular Peninsular,k,voiceless,velar,i,anterior,high,stressed,18.6
+IA,Southern Insular Peninsular,k,voiceless,velar,i,anterior,high,stressed,11
+IA,Southern Insular Peninsular,t,voiceless,dental,a,central,low,unstressed,31.5
+IA,Southern Insular Peninsular,t,voiceless,dental,a,central,low,unstressed,33.4
+IA,Southern Insular Peninsular,t,voiceless,dental,a,central,low,stressed,27
+IA,Southern Insular Peninsular,t,voiceless,dental,a,central,low,stressed,26.5
+IA,Southern Insular Peninsular,t,voiceless,dental,e,anterior,mid,unstressed,26.9
+IA,Southern Insular Peninsular,t,voiceless,dental,e,anterior,mid,unstressed,27.5
+IA,Southern Insular Peninsular,t,voiceless,dental,e,anterior,mid,stressed,24.9
+IA,Southern Insular Peninsular,t,voiceless,dental,e,anterior,mid,stressed,22.7
+IA,Southern Insular Peninsular,t,voiceless,dental,i,anterior,high,unstressed,18.7
+IA,Southern Insular Peninsular,t,voiceless,dental,i,anterior,high,unstressed,23.6
+IA,Southern Insular Peninsular,t,voiceless,dental,i,anterior,high,stressed,20.2
+IA,Southern Insular Peninsular,t,voiceless,dental,i,anterior,high,stressed,19.9
+IA,Southern Insular Peninsular,t,voiceless,dental,o,posterior,mid,unstressed,27.8
+IA,Southern Insular Peninsular,t,voiceless,dental,o,posterior,mid,unstressed,28.1
+IA,Southern Insular Peninsular,t,voiceless,dental,o,posterior,mid,stressed,18
+IA,Southern Insular Peninsular,t,voiceless,dental,o,posterior,mid,stressed,22.8
+IA,Southern Insular Peninsular,t,voiceless,dental,u,posterior,high,unstressed,25.4
+IA,Southern Insular Peninsular,t,voiceless,dental,u,posterior,high,unstressed,23.9
+IA,Southern Insular Peninsular,t,voiceless,dental,u,posterior,high,stressed,14.8
+IA,Southern Insular Peninsular,t,voiceless,dental,u,posterior,high,stressed,22.5
+ID,Southern Insular Peninsular,b,voiced,bilabial,a,central,low,stressed,8.7
+ID,Southern Insular Peninsular,b,voiced,bilabial,a,central,low,stressed,8.3
+ID,Southern Insular Peninsular,b,voiced,bilabial,a,central,low,unstressed,6.8
+ID,Southern Insular Peninsular,b,voiced,bilabial,a,central,low,unstressed,5.9
+ID,Southern Insular Peninsular,b,voiced,bilabial,e,anterior,mid,stressed,13.1
+ID,Southern Insular Peninsular,b,voiced,bilabial,e,anterior,mid,stressed,6.4
+ID,Southern Insular Peninsular,b,voiced,bilabial,e,anterior,mid,unstressed,3
+ID,Southern Insular Peninsular,b,voiced,bilabial,e,anterior,mid,unstressed,1.7
+ID,Southern Insular Peninsular,b,voiced,bilabial,i,anterior,high,stressed,19.4
+ID,Southern Insular Peninsular,b,voiced,bilabial,i,anterior,high,stressed,17.5
+ID,Southern Insular Peninsular,b,voiced,bilabial,i,anterior,high,unstressed,10.2
+ID,Southern Insular Peninsular,b,voiced,bilabial,i,anterior,high,unstressed,8.1
+ID,Southern Insular Peninsular,b,voiced,bilabial,o,posterior,mid,stressed,10.1
+ID,Southern Insular Peninsular,b,voiced,bilabial,o,posterior,mid,stressed,10.1
+ID,Southern Insular Peninsular,b,voiced,bilabial,o,posterior,mid,unstressed,1.9
+ID,Southern Insular Peninsular,b,voiced,bilabial,o,posterior,mid,unstressed,1.5
+ID,Southern Insular Peninsular,b,voiced,bilabial,u,posterior,high,stressed,7
+ID,Southern Insular Peninsular,b,voiced,bilabial,u,posterior,high,stressed,14.2
+ID,Southern Insular Peninsular,b,voiced,bilabial,u,posterior,high,unstressed,3.5
+ID,Southern Insular Peninsular,b,voiced,bilabial,u,posterior,high,unstressed,0
+ID,Southern Insular Peninsular,k,voiceless,velar,a,central,low,stressed,21.7
+ID,Southern Insular Peninsular,k,voiceless,velar,a,central,low,stressed,16.8
+ID,Southern Insular Peninsular,k,voiceless,velar,a,central,low,unstressed,10.2
+ID,Southern Insular Peninsular,k,voiceless,velar,a,central,low,unstressed,7.1
+ID,Southern Insular Peninsular,k,voiceless,velar,o,posterior,mid,stressed,24.1
+ID,Southern Insular Peninsular,k,voiceless,velar,o,posterior,mid,stressed,20.8
+ID,Southern Insular Peninsular,k,voiceless,velar,o,posterior,mid,unstressed,15.9
+ID,Southern Insular Peninsular,k,voiceless,velar,o,posterior,mid,unstressed,8.6
+ID,Southern Insular Peninsular,k,voiceless,velar,u,posterior,high,stressed,19.6
+ID,Southern Insular Peninsular,k,voiceless,velar,u,posterior,high,stressed,25
+ID,Southern Insular Peninsular,k,voiceless,velar,u,posterior,high,unstressed,12.5
+ID,Southern Insular Peninsular,k,voiceless,velar,u,posterior,high,unstressed,7.5
+ID,Southern Insular Peninsular,d,voiced,dental,a,central,low,stressed,14.6
+ID,Southern Insular Peninsular,d,voiced,dental,a,central,low,stressed,12.8
+ID,Southern Insular Peninsular,d,voiced,dental,a,central,low,unstressed,4.8
+ID,Southern Insular Peninsular,d,voiced,dental,a,central,low,unstressed,7.4
+ID,Southern Insular Peninsular,d,voiced,dental,e,anterior,mid,stressed,6.2
+ID,Southern Insular Peninsular,d,voiced,dental,e,anterior,mid,stressed,12.1
+ID,Southern Insular Peninsular,d,voiced,dental,e,anterior,mid,unstressed,6.8
+ID,Southern Insular Peninsular,d,voiced,dental,e,anterior,mid,unstressed,7.1
+ID,Southern Insular Peninsular,d,voiced,dental,i,anterior,high,stressed,13.6
+ID,Southern Insular Peninsular,d,voiced,dental,i,anterior,high,stressed,15.4
+ID,Southern Insular Peninsular,d,voiced,dental,i,anterior,high,unstressed,5.5
+ID,Southern Insular Peninsular,d,voiced,dental,i,anterior,high,unstressed,0.7
+ID,Southern Insular Peninsular,d,voiced,dental,o,posterior,mid,stressed,9.7
+ID,Southern Insular Peninsular,d,voiced,dental,o,posterior,mid,stressed,12.4
+ID,Southern Insular Peninsular,d,voiced,dental,o,posterior,mid,unstressed,1.7
+ID,Southern Insular Peninsular,d,voiced,dental,o,posterior,mid,unstressed,3.7
+ID,Southern Insular Peninsular,d,voiced,dental,u,posterior,high,stressed,10.2
+ID,Southern Insular Peninsular,d,voiced,dental,u,posterior,high,stressed,12.8
+ID,Southern Insular Peninsular,d,voiced,dental,u,posterior,high,unstressed,5.1
+ID,Southern Insular Peninsular,d,voiced,dental,u,posterior,high,unstressed,9.3
+ID,Southern Insular Peninsular,g,voiced,velar,a,central,low,stressed,9.1
+ID,Southern Insular Peninsular,g,voiced,velar,a,central,low,stressed,6
+ID,Southern Insular Peninsular,g,voiced,velar,a,central,low,unstressed,3.4
+ID,Southern Insular Peninsular,g,voiced,velar,a,central,low,unstressed,2.3
+ID,Southern Insular Peninsular,g,voiced,velar,o,posterior,mid,stressed,1.9
+ID,Southern Insular Peninsular,g,voiced,velar,o,posterior,mid,stressed,17
+ID,Southern Insular Peninsular,g,voiced,velar,o,posterior,mid,unstressed,0
+ID,Southern Insular Peninsular,g,voiced,velar,o,posterior,mid,unstressed,0.2
+ID,Southern Insular Peninsular,g,voiced,velar,e,anterior,mid,stressed,14.3
+ID,Southern Insular Peninsular,g,voiced,velar,e,anterior,mid,stressed,14.7
+ID,Southern Insular Peninsular,g,voiced,velar,e,anterior,mid,unstressed,7
+ID,Southern Insular Peninsular,g,voiced,velar,e,anterior,mid,unstressed,6.1
+ID,Southern Insular Peninsular,g,voiced,velar,i,anterior,high,stressed,3.5
+ID,Southern Insular Peninsular,g,voiced,velar,i,anterior,high,stressed,4.8
+ID,Southern Insular Peninsular,g,voiced,velar,i,anterior,high,unstressed,10.1
+ID,Southern Insular Peninsular,g,voiced,velar,i,anterior,high,unstressed,1.3
+ID,Southern Insular Peninsular,g,voiced,velar,u,posterior,high,stressed,8.5
+ID,Southern Insular Peninsular,g,voiced,velar,u,posterior,high,stressed,10.2
+ID,Southern Insular Peninsular,g,voiced,velar,u,posterior,high,unstressed,2.1
+ID,Southern Insular Peninsular,g,voiced,velar,u,posterior,high,unstressed,0
+ID,Southern Insular Peninsular,p,voiceless,bilabial,a,central,low,stressed,20.5
+ID,Southern Insular Peninsular,p,voiceless,bilabial,a,central,low,stressed,8.7
+ID,Southern Insular Peninsular,p,voiceless,bilabial,a,central,low,unstressed,10.4
+ID,Southern Insular Peninsular,p,voiceless,bilabial,a,central,low,unstressed,10
+ID,Southern Insular Peninsular,p,voiceless,bilabial,e,anterior,mid,stressed,18.8
+ID,Southern Insular Peninsular,p,voiceless,bilabial,e,anterior,mid,stressed,11.5
+ID,Southern Insular Peninsular,p,voiceless,bilabial,e,anterior,mid,unstressed,10
+ID,Southern Insular Peninsular,p,voiceless,bilabial,e,anterior,mid,unstressed,7.9
+ID,Southern Insular Peninsular,p,voiceless,bilabial,i,anterior,high,stressed,16.8
+ID,Southern Insular Peninsular,p,voiceless,bilabial,i,anterior,high,stressed,19.5
+ID,Southern Insular Peninsular,p,voiceless,bilabial,i,anterior,high,unstressed,13.5
+ID,Southern Insular Peninsular,p,voiceless,bilabial,i,anterior,high,unstressed,8.7
+ID,Southern Insular Peninsular,p,voiceless,bilabial,o,posterior,mid,stressed,17.4
+ID,Southern Insular Peninsular,p,voiceless,bilabial,o,posterior,mid,stressed,19.8
+ID,Southern Insular Peninsular,p,voiceless,bilabial,o,posterior,mid,unstressed,11.4
+ID,Southern Insular Peninsular,p,voiceless,bilabial,o,posterior,mid,unstressed,10.9
+ID,Southern Insular Peninsular,p,voiceless,bilabial,u,posterior,high,stressed,17.1
+ID,Southern Insular Peninsular,p,voiceless,bilabial,u,posterior,high,stressed,10.9
+ID,Southern Insular Peninsular,p,voiceless,bilabial,u,posterior,high,unstressed,11.2
+ID,Southern Insular Peninsular,p,voiceless,bilabial,u,posterior,high,unstressed,7.8
+ID,Southern Insular Peninsular,k,voiceless,velar,e,anterior,mid,stressed,13.7
+ID,Southern Insular Peninsular,k,voiceless,velar,e,anterior,mid,stressed,15.8
+ID,Southern Insular Peninsular,k,voiceless,velar,e,anterior,mid,unstressed,13.3
+ID,Southern Insular Peninsular,k,voiceless,velar,e,anterior,mid,unstressed,18.5
+ID,Southern Insular Peninsular,k,voiceless,velar,i,anterior,high,stressed,17.5
+ID,Southern Insular Peninsular,k,voiceless,velar,i,anterior,high,stressed,15.4
+ID,Southern Insular Peninsular,k,voiceless,velar,i,anterior,high,unstressed,9.9
+ID,Southern Insular Peninsular,k,voiceless,velar,i,anterior,high,unstressed,13.2
+ID,Southern Insular Peninsular,t,voiceless,dental,a,central,low,stressed,29.1
+ID,Southern Insular Peninsular,t,voiceless,dental,a,central,low,stressed,20.6
+ID,Southern Insular Peninsular,t,voiceless,dental,a,central,low,unstressed,14.3
+ID,Southern Insular Peninsular,t,voiceless,dental,a,central,low,unstressed,8.7
+ID,Southern Insular Peninsular,t,voiceless,dental,e,anterior,mid,stressed,17.6
+ID,Southern Insular Peninsular,t,voiceless,dental,e,anterior,mid,stressed,15
+ID,Southern Insular Peninsular,t,voiceless,dental,e,anterior,mid,unstressed,11
+ID,Southern Insular Peninsular,t,voiceless,dental,e,anterior,mid,unstressed,8.1
+ID,Southern Insular Peninsular,t,voiceless,dental,i,anterior,high,stressed,21.1
+ID,Southern Insular Peninsular,t,voiceless,dental,i,anterior,high,stressed,19.1
+ID,Southern Insular Peninsular,t,voiceless,dental,i,anterior,high,unstressed,14.5
+ID,Southern Insular Peninsular,t,voiceless,dental,i,anterior,high,unstressed,14.3
+ID,Southern Insular Peninsular,t,voiceless,dental,o,posterior,mid,stressed,17.5
+ID,Southern Insular Peninsular,t,voiceless,dental,o,posterior,mid,stressed,10.7
+ID,Southern Insular Peninsular,t,voiceless,dental,o,posterior,mid,unstressed,15.5
+ID,Southern Insular Peninsular,t,voiceless,dental,o,posterior,mid,unstressed,18.8
+ID,Southern Insular Peninsular,t,voiceless,dental,u,posterior,high,stressed,15.5
+ID,Southern Insular Peninsular,t,voiceless,dental,u,posterior,high,stressed,18.8
+ID,Southern Insular Peninsular,t,voiceless,dental,u,posterior,high,unstressed,12.7
+ID,Southern Insular Peninsular,t,voiceless,dental,u,posterior,high,unstressed,4.5
+HB,Chile,b,voiced,bilabial,a,central,low,stressed,11.9
+HB,Chile,b,voiced,bilabial,a,central,low,stressed,14.4
+HB,Chile,b,voiced,bilabial,a,central,low,unstressed,12
+HB,Chile,b,voiced,bilabial,a,central,low,unstressed,13
+HB,Chile,b,voiced,bilabial,e,anterior,mid,stressed,12.3
+HB,Chile,b,voiced,bilabial,e,anterior,mid,stressed,27
+HB,Chile,b,voiced,bilabial,e,anterior,mid,unstressed,5.3
+HB,Chile,b,voiced,bilabial,e,anterior,mid,unstressed,5.8
+HB,Chile,b,voiced,bilabial,i,anterior,high,stressed,8.5
+HB,Chile,b,voiced,bilabial,i,anterior,high,stressed,15.5
+HB,Chile,b,voiced,bilabial,i,anterior,high,unstressed,10
+HB,Chile,b,voiced,bilabial,i,anterior,high,unstressed,7.8
+HB,Chile,b,voiced,bilabial,o,posterior,mid,stressed,18
+HB,Chile,b,voiced,bilabial,o,posterior,mid,stressed,13.6
+HB,Chile,b,voiced,bilabial,o,posterior,mid,unstressed,12.3
+HB,Chile,b,voiced,bilabial,o,posterior,mid,unstressed,8.6
+HB,Chile,b,voiced,bilabial,u,posterior,high,stressed,8.4
+HB,Chile,b,voiced,bilabial,u,posterior,high,stressed,9.7
+HB,Chile,b,voiced,bilabial,u,posterior,high,unstressed,9.5
+HB,Chile,b,voiced,bilabial,u,posterior,high,unstressed,7.1
+HB,Chile,k,voiceless,velar,a,central,low,stressed,25.2
+HB,Chile,k,voiceless,velar,a,central,low,stressed,25.7
+HB,Chile,k,voiceless,velar,a,central,low,unstressed,22.7
+HB,Chile,k,voiceless,velar,a,central,low,unstressed,21.8
+HB,Chile,k,voiceless,velar,o,posterior,mid,stressed,27.1
+HB,Chile,k,voiceless,velar,o,posterior,mid,stressed,26.4
+HB,Chile,k,voiceless,velar,o,posterior,mid,unstressed,17.1
+HB,Chile,k,voiceless,velar,o,posterior,mid,unstressed,20.3
+HB,Chile,k,voiceless,velar,u,posterior,high,stressed,25.1
+HB,Chile,k,voiceless,velar,u,posterior,high,stressed,24.7
+HB,Chile,k,voiceless,velar,u,posterior,high,unstressed,18.2
+HB,Chile,k,voiceless,velar,u,posterior,high,unstressed,21.8
+HB,Chile,d,voiced,dental,a,central,low,stressed,13.9
+HB,Chile,d,voiced,dental,a,central,low,stressed,9.8
+HB,Chile,d,voiced,dental,a,central,low,unstressed,12
+HB,Chile,d,voiced,dental,a,central,low,unstressed,29.5
+HB,Chile,d,voiced,dental,e,anterior,mid,stressed,13.4
+HB,Chile,d,voiced,dental,e,anterior,mid,stressed,14.9
+HB,Chile,d,voiced,dental,e,anterior,mid,unstressed,1.2
+HB,Chile,d,voiced,dental,e,anterior,mid,unstressed,7.6
+HB,Chile,d,voiced,dental,i,anterior,high,stressed,7.9
+HB,Chile,d,voiced,dental,i,anterior,high,stressed,7.9
+HB,Chile,d,voiced,dental,i,anterior,high,unstressed,3.9
+HB,Chile,d,voiced,dental,i,anterior,high,unstressed,25.5
+HB,Chile,d,voiced,dental,o,posterior,mid,stressed,10.4
+HB,Chile,d,voiced,dental,o,posterior,mid,stressed,12.5
+HB,Chile,d,voiced,dental,o,posterior,mid,unstressed,6.7
+HB,Chile,d,voiced,dental,o,posterior,mid,unstressed,7.1
+HB,Chile,d,voiced,dental,u,posterior,high,stressed,6.2
+HB,Chile,d,voiced,dental,u,posterior,high,stressed,25.4
+HB,Chile,d,voiced,dental,u,posterior,high,unstressed,3.7
+HB,Chile,d,voiced,dental,u,posterior,high,unstressed,6.3
+HB,Chile,g,voiced,velar,a,central,low,stressed,16.3
+HB,Chile,g,voiced,velar,a,central,low,stressed,13.1
+HB,Chile,g,voiced,velar,a,central,low,unstressed,20.1
+HB,Chile,g,voiced,velar,a,central,low,unstressed,30.8
+HB,Chile,g,voiced,velar,o,posterior,mid,stressed,12.9
+HB,Chile,g,voiced,velar,o,posterior,mid,stressed,13.4
+HB,Chile,g,voiced,velar,o,posterior,mid,unstressed,10.7
+HB,Chile,g,voiced,velar,o,posterior,mid,unstressed,7.3
+HB,Chile,g,voiced,velar,e,anterior,mid,stressed,12.5
+HB,Chile,g,voiced,velar,e,anterior,mid,stressed,14.6
+HB,Chile,g,voiced,velar,e,anterior,mid,unstressed,20.7
+HB,Chile,g,voiced,velar,e,anterior,mid,unstressed,7.8
+HB,Chile,g,voiced,velar,i,anterior,high,stressed,8.2
+HB,Chile,g,voiced,velar,i,anterior,high,stressed,9.6
+HB,Chile,g,voiced,velar,i,anterior,high,unstressed,3.9
+HB,Chile,g,voiced,velar,i,anterior,high,unstressed,19.1
+HB,Chile,g,voiced,velar,u,posterior,high,stressed,7
+HB,Chile,g,voiced,velar,u,posterior,high,stressed,18.1
+HB,Chile,g,voiced,velar,u,posterior,high,unstressed,4.7
+HB,Chile,g,voiced,velar,u,posterior,high,unstressed,1.4
+HB,Chile,p,voiceless,bilabial,a,central,low,stressed,22
+HB,Chile,p,voiceless,bilabial,a,central,low,stressed,16.9
+HB,Chile,p,voiceless,bilabial,a,central,low,unstressed,30.9
+HB,Chile,p,voiceless,bilabial,a,central,low,unstressed,10.7
+HB,Chile,p,voiceless,bilabial,e,anterior,mid,stressed,21.9
+HB,Chile,p,voiceless,bilabial,e,anterior,mid,stressed,25.1
+HB,Chile,p,voiceless,bilabial,e,anterior,mid,unstressed,26.2
+HB,Chile,p,voiceless,bilabial,e,anterior,mid,unstressed,32.3
+HB,Chile,p,voiceless,bilabial,i,anterior,high,stressed,22.1
+HB,Chile,p,voiceless,bilabial,i,anterior,high,stressed,25.4
+HB,Chile,p,voiceless,bilabial,i,anterior,high,unstressed,17.2
+HB,Chile,p,voiceless,bilabial,i,anterior,high,unstressed,15.4
+HB,Chile,p,voiceless,bilabial,o,posterior,mid,stressed,26.6
+HB,Chile,p,voiceless,bilabial,o,posterior,mid,stressed,12.5
+HB,Chile,p,voiceless,bilabial,o,posterior,mid,unstressed,25.8
+HB,Chile,p,voiceless,bilabial,o,posterior,mid,unstressed,37.2
+HB,Chile,p,voiceless,bilabial,u,posterior,high,stressed,22.1
+HB,Chile,p,voiceless,bilabial,u,posterior,high,stressed,29.3
+HB,Chile,p,voiceless,bilabial,u,posterior,high,unstressed,21
+HB,Chile,p,voiceless,bilabial,u,posterior,high,unstressed,12.3
+HB,Chile,k,voiceless,velar,e,anterior,mid,stressed,25.9
+HB,Chile,k,voiceless,velar,e,anterior,mid,stressed,19.9
+HB,Chile,k,voiceless,velar,e,anterior,mid,unstressed,18.6
+HB,Chile,k,voiceless,velar,e,anterior,mid,unstressed,17.6
+HB,Chile,k,voiceless,velar,i,anterior,high,stressed,18
+HB,Chile,k,voiceless,velar,i,anterior,high,stressed,16.6
+HB,Chile,k,voiceless,velar,i,anterior,high,unstressed,19.6
+HB,Chile,k,voiceless,velar,i,anterior,high,unstressed,23.5
+HB,Chile,t,voiceless,dental,a,central,low,stressed,22
+HB,Chile,t,voiceless,dental,a,central,low,stressed,28.5
+HB,Chile,t,voiceless,dental,a,central,low,unstressed,24.7
+HB,Chile,t,voiceless,dental,a,central,low,unstressed,4.4
+HB,Chile,t,voiceless,dental,e,anterior,mid,stressed,32.2
+HB,Chile,t,voiceless,dental,e,anterior,mid,stressed,28.3
+HB,Chile,t,voiceless,dental,e,anterior,mid,unstressed,13.5
+HB,Chile,t,voiceless,dental,e,anterior,mid,unstressed,23.2
+HB,Chile,t,voiceless,dental,i,anterior,high,stressed,20.4
+HB,Chile,t,voiceless,dental,i,anterior,high,stressed,16.3
+HB,Chile,t,voiceless,dental,i,anterior,high,unstressed,19.4
+HB,Chile,t,voiceless,dental,i,anterior,high,unstressed,13.4
+HB,Chile,t,voiceless,dental,o,posterior,mid,stressed,28.6
+HB,Chile,t,voiceless,dental,o,posterior,mid,stressed,28
+HB,Chile,t,voiceless,dental,o,posterior,mid,unstressed,20.4
+HB,Chile,t,voiceless,dental,o,posterior,mid,unstressed,21.3
+HB,Chile,t,voiceless,dental,u,posterior,high,stressed,14
+HB,Chile,t,voiceless,dental,u,posterior,high,stressed,18.6
+HB,Chile,t,voiceless,dental,u,posterior,high,unstressed,10.1
+HB,Chile,t,voiceless,dental,u,posterior,high,unstressed,16.5
+HA,Chile,b,voiced,bilabial,a,central,low,stressed,11
+HA,Chile,b,voiced,bilabial,a,central,low,stressed,10.9
+HA,Chile,b,voiced,bilabial,a,central,low,unstressed,5.3
+HA,Chile,b,voiced,bilabial,a,central,low,unstressed,2.3
+HA,Chile,b,voiced,bilabial,e,anterior,mid,stressed,5
+HA,Chile,b,voiced,bilabial,e,anterior,mid,stressed,8.9
+HA,Chile,b,voiced,bilabial,e,anterior,mid,unstressed,3.4
+HA,Chile,b,voiced,bilabial,e,anterior,mid,unstressed,3.9
+HA,Chile,b,voiced,bilabial,i,anterior,high,stressed,9.6
+HA,Chile,b,voiced,bilabial,i,anterior,high,stressed,15.1
+HA,Chile,b,voiced,bilabial,i,anterior,high,unstressed,9.6
+HA,Chile,b,voiced,bilabial,i,anterior,high,unstressed,7.5
+HA,Chile,b,voiced,bilabial,o,posterior,mid,stressed,17.5
+HA,Chile,b,voiced,bilabial,o,posterior,mid,stressed,10.3
+HA,Chile,b,voiced,bilabial,o,posterior,mid,unstressed,2.4
+HA,Chile,b,voiced,bilabial,o,posterior,mid,unstressed,1.8
+HA,Chile,b,voiced,bilabial,u,posterior,high,stressed,5.1
+HA,Chile,b,voiced,bilabial,u,posterior,high,stressed,8.2
+HA,Chile,b,voiced,bilabial,u,posterior,high,unstressed,2.2
+HA,Chile,b,voiced,bilabial,u,posterior,high,unstressed,1.3
+HA,Chile,k,voiceless,velar,a,central,low,stressed,17.6
+HA,Chile,k,voiceless,velar,a,central,low,stressed,17.9
+HA,Chile,k,voiceless,velar,a,central,low,unstressed,15.1
+HA,Chile,k,voiceless,velar,a,central,low,unstressed,15.4
+HA,Chile,k,voiceless,velar,o,posterior,mid,stressed,19.2
+HA,Chile,k,voiceless,velar,o,posterior,mid,stressed,19.8
+HA,Chile,k,voiceless,velar,o,posterior,mid,unstressed,19.9
+HA,Chile,k,voiceless,velar,o,posterior,mid,unstressed,19.3
+HA,Chile,k,voiceless,velar,u,posterior,high,stressed,23.5
+HA,Chile,k,voiceless,velar,u,posterior,high,stressed,23.6
+HA,Chile,k,voiceless,velar,u,posterior,high,unstressed,16.8
+HA,Chile,k,voiceless,velar,u,posterior,high,unstressed,19
+HA,Chile,d,voiced,dental,a,central,low,stressed,2.5
+HA,Chile,d,voiced,dental,a,central,low,stressed,8.1
+HA,Chile,d,voiced,dental,a,central,low,unstressed,2.3
+HA,Chile,d,voiced,dental,a,central,low,unstressed,1
+HA,Chile,d,voiced,dental,e,anterior,mid,stressed,0.8
+HA,Chile,d,voiced,dental,e,anterior,mid,stressed,4.8
+HA,Chile,d,voiced,dental,e,anterior,mid,unstressed,0.1
+HA,Chile,d,voiced,dental,e,anterior,mid,unstressed,0.4
+HA,Chile,d,voiced,dental,i,anterior,high,stressed,2.8
+HA,Chile,d,voiced,dental,i,anterior,high,stressed,13.8
+HA,Chile,d,voiced,dental,i,anterior,high,unstressed,1.3
+HA,Chile,d,voiced,dental,i,anterior,high,unstressed,0.9
+HA,Chile,d,voiced,dental,o,posterior,mid,stressed,3.6
+HA,Chile,d,voiced,dental,o,posterior,mid,stressed,11.4
+HA,Chile,d,voiced,dental,o,posterior,mid,unstressed,0.5
+HA,Chile,d,voiced,dental,o,posterior,mid,unstressed,0.6
+HA,Chile,d,voiced,dental,u,posterior,high,stressed,1.8
+HA,Chile,d,voiced,dental,u,posterior,high,stressed,9.8
+HA,Chile,d,voiced,dental,u,posterior,high,unstressed,0.6
+HA,Chile,d,voiced,dental,u,posterior,high,unstressed,7.4
+HA,Chile,g,voiced,velar,a,central,low,stressed,17.2
+HA,Chile,g,voiced,velar,a,central,low,stressed,13.9
+HA,Chile,g,voiced,velar,a,central,low,unstressed,0.8
+HA,Chile,g,voiced,velar,a,central,low,unstressed,0.5
+HA,Chile,g,voiced,velar,o,posterior,mid,stressed,9.1
+HA,Chile,g,voiced,velar,o,posterior,mid,stressed,4.4
+HA,Chile,g,voiced,velar,o,posterior,mid,unstressed,2.4
+HA,Chile,g,voiced,velar,o,posterior,mid,unstressed,0
+HA,Chile,g,voiced,velar,e,anterior,mid,stressed,8.2
+HA,Chile,g,voiced,velar,e,anterior,mid,stressed,24.2
+HA,Chile,g,voiced,velar,e,anterior,mid,unstressed,3.6
+HA,Chile,g,voiced,velar,e,anterior,mid,unstressed,0.4
+HA,Chile,g,voiced,velar,i,anterior,high,stressed,13.5
+HA,Chile,g,voiced,velar,i,anterior,high,stressed,9.4
+HA,Chile,g,voiced,velar,i,anterior,high,unstressed,0
+HA,Chile,g,voiced,velar,i,anterior,high,unstressed,0.2
+HA,Chile,g,voiced,velar,u,posterior,high,stressed,5.4
+HA,Chile,g,voiced,velar,u,posterior,high,stressed,7.2
+HA,Chile,g,voiced,velar,u,posterior,high,unstressed,3.7
+HA,Chile,g,voiced,velar,u,posterior,high,unstressed,1.9
+HA,Chile,p,voiceless,bilabial,a,central,low,stressed,21.2
+HA,Chile,p,voiceless,bilabial,a,central,low,stressed,19.7
+HA,Chile,p,voiceless,bilabial,a,central,low,unstressed,16.6
+HA,Chile,p,voiceless,bilabial,a,central,low,unstressed,16.9
+HA,Chile,p,voiceless,bilabial,e,anterior,mid,stressed,21.2
+HA,Chile,p,voiceless,bilabial,e,anterior,mid,stressed,22.8
+HA,Chile,p,voiceless,bilabial,e,anterior,mid,unstressed,16.2
+HA,Chile,p,voiceless,bilabial,e,anterior,mid,unstressed,18.6
+HA,Chile,p,voiceless,bilabial,i,anterior,high,stressed,24.4
+HA,Chile,p,voiceless,bilabial,i,anterior,high,stressed,28.3
+HA,Chile,p,voiceless,bilabial,i,anterior,high,unstressed,16.6
+HA,Chile,p,voiceless,bilabial,i,anterior,high,unstressed,17.2
+HA,Chile,p,voiceless,bilabial,o,posterior,mid,stressed,21.3
+HA,Chile,p,voiceless,bilabial,o,posterior,mid,stressed,22.8
+HA,Chile,p,voiceless,bilabial,o,posterior,mid,unstressed,18.9
+HA,Chile,p,voiceless,bilabial,o,posterior,mid,unstressed,19.7
+HA,Chile,p,voiceless,bilabial,u,posterior,high,stressed,26.1
+HA,Chile,p,voiceless,bilabial,u,posterior,high,stressed,25.3
+HA,Chile,p,voiceless,bilabial,u,posterior,high,unstressed,21.8
+HA,Chile,p,voiceless,bilabial,u,posterior,high,unstressed,19.1
+HA,Chile,k,voiceless,velar,e,anterior,mid,stressed,23.2
+HA,Chile,k,voiceless,velar,e,anterior,mid,stressed,26.1
+HA,Chile,k,voiceless,velar,e,anterior,mid,unstressed,16
+HA,Chile,k,voiceless,velar,e,anterior,mid,unstressed,20.2
+HA,Chile,k,voiceless,velar,i,anterior,high,stressed,24.7
+HA,Chile,k,voiceless,velar,i,anterior,high,stressed,23.4
+HA,Chile,k,voiceless,velar,i,anterior,high,unstressed,23.2
+HA,Chile,k,voiceless,velar,i,anterior,high,unstressed,21.3
+HA,Chile,t,voiceless,dental,a,central,low,stressed,26.1
+HA,Chile,t,voiceless,dental,a,central,low,stressed,23.5
+HA,Chile,t,voiceless,dental,a,central,low,unstressed,25.2
+HA,Chile,t,voiceless,dental,a,central,low,unstressed,21.2
+HA,Chile,t,voiceless,dental,e,anterior,mid,stressed,21.9
+HA,Chile,t,voiceless,dental,e,anterior,mid,stressed,24.5
+HA,Chile,t,voiceless,dental,e,anterior,mid,unstressed,15.4
+HA,Chile,t,voiceless,dental,e,anterior,mid,unstressed,17.6
+HA,Chile,t,voiceless,dental,i,anterior,high,stressed,25.3
+HA,Chile,t,voiceless,dental,i,anterior,high,stressed,19.7
+HA,Chile,t,voiceless,dental,i,anterior,high,unstressed,23.5
+HA,Chile,t,voiceless,dental,i,anterior,high,unstressed,23.5
+HA,Chile,t,voiceless,dental,o,posterior,mid,stressed,24.3
+HA,Chile,t,voiceless,dental,o,posterior,mid,stressed,25
+HA,Chile,t,voiceless,dental,o,posterior,mid,unstressed,19.4
+HA,Chile,t,voiceless,dental,o,posterior,mid,unstressed,16.8
+HA,Chile,t,voiceless,dental,u,posterior,high,stressed,10.3
+HA,Chile,t,voiceless,dental,u,posterior,high,stressed,21.9
+HA,Chile,t,voiceless,dental,u,posterior,high,unstressed,19
+HA,Chile,t,voiceless,dental,u,posterior,high,unstressed,13
+HC,Chile,b,voiced,bilabial,i,anterior,high,unstressed,5.8
+HC,Chile,b,voiced,bilabial,i,anterior,high,unstressed,5.8
+HC,Chile,b,voiced,bilabial,e,anterior,mid,unstressed,5.2
+HC,Chile,b,voiced,bilabial,e,anterior,mid,unstressed,3.2
+HC,Chile,b,voiced,bilabial,a,central,low,unstressed,0.4
+HC,Chile,b,voiced,bilabial,a,central,low,unstressed,0.1
+HC,Chile,b,voiced,bilabial,u,posterior,high,unstressed,2.6
+HC,Chile,b,voiced,bilabial,u,posterior,high,unstressed,0.1
+HC,Chile,b,voiced,bilabial,o,posterior,mid,unstressed,8.3
+HC,Chile,b,voiced,bilabial,o,posterior,mid,unstressed,1
+HC,Chile,d,voiced,dental,i,anterior,high,unstressed,1.5
+HC,Chile,d,voiced,dental,i,anterior,high,unstressed,1.5
+HC,Chile,d,voiced,dental,e,anterior,mid,unstressed,0.1
+HC,Chile,d,voiced,dental,e,anterior,mid,unstressed,0.6
+HC,Chile,d,voiced,dental,a,central,low,unstressed,4.1
+HC,Chile,d,voiced,dental,a,central,low,unstressed,8.1
+HC,Chile,d,voiced,dental,u,posterior,high,unstressed,1.3
+HC,Chile,d,voiced,dental,u,posterior,high,unstressed,2.2
+HC,Chile,d,voiced,dental,o,posterior,mid,unstressed,0.5
+HC,Chile,d,voiced,dental,o,posterior,mid,unstressed,0.2
+HC,Chile,g,voiced,velar,i,anterior,high,unstressed,0
+HC,Chile,g,voiced,velar,i,anterior,high,unstressed,0.1
+HC,Chile,g,voiced,velar,e,anterior,mid,unstressed,4.3
+HC,Chile,g,voiced,velar,e,anterior,mid,unstressed,3.1
+HC,Chile,g,voiced,velar,a,central,low,unstressed,3.7
+HC,Chile,g,voiced,velar,a,central,low,unstressed,5.4
+HC,Chile,g,voiced,velar,u,posterior,high,unstressed,0
+HC,Chile,g,voiced,velar,u,posterior,high,unstressed,1.3
+HC,Chile,g,voiced,velar,o,posterior,mid,unstressed,4.7
+HC,Chile,g,voiced,velar,o,posterior,mid,unstressed,3.4
+HC,Chile,k,voiceless,velar,i,anterior,high,unstressed,17.3
+HC,Chile,k,voiceless,velar,i,anterior,high,unstressed,11.5
+HC,Chile,k,voiceless,velar,e,anterior,mid,unstressed,19.7
+HC,Chile,k,voiceless,velar,e,anterior,mid,unstressed,20.4
+HC,Chile,k,voiceless,velar,a,central,low,unstressed,18.5
+HC,Chile,k,voiceless,velar,a,central,low,unstressed,17.6
+HC,Chile,k,voiceless,velar,u,posterior,high,unstressed,21.2
+HC,Chile,k,voiceless,velar,u,posterior,high,unstressed,19.3
+HC,Chile,k,voiceless,velar,o,posterior,mid,unstressed,13.5
+HC,Chile,k,voiceless,velar,o,posterior,mid,unstressed,20.8
+HC,Chile,p,voiceless,bilabial,i,anterior,high,unstressed,18.1
+HC,Chile,p,voiceless,bilabial,i,anterior,high,unstressed,15
+HC,Chile,p,voiceless,bilabial,e,anterior,mid,unstressed,18
+HC,Chile,p,voiceless,bilabial,e,anterior,mid,unstressed,15.5
+HC,Chile,p,voiceless,bilabial,a,central,low,unstressed,12.5
+HC,Chile,p,voiceless,bilabial,a,central,low,unstressed,14.3
+HC,Chile,p,voiceless,bilabial,u,posterior,high,unstressed,8
+HC,Chile,p,voiceless,bilabial,u,posterior,high,unstressed,9.6
+HC,Chile,p,voiceless,bilabial,o,posterior,mid,unstressed,20.9
+HC,Chile,p,voiceless,bilabial,o,posterior,mid,unstressed,21.8
+HC,Chile,t,voiceless,dental,i,anterior,high,unstressed,16.1
+HC,Chile,t,voiceless,dental,i,anterior,high,unstressed,15.7
+HC,Chile,t,voiceless,dental,e,anterior,mid,unstressed,15.1
+HC,Chile,t,voiceless,dental,e,anterior,mid,unstressed,18.1
+HC,Chile,t,voiceless,dental,a,central,low,unstressed,18.4
+HC,Chile,t,voiceless,dental,a,central,low,unstressed,20.8
+HC,Chile,t,voiceless,dental,u,posterior,high,unstressed,15.5
+HC,Chile,t,voiceless,dental,u,posterior,high,unstressed,15.4
+HC,Chile,t,voiceless,dental,o,posterior,mid,unstressed,15.1
+HC,Chile,t,voiceless,dental,o,posterior,mid,unstressed,16.2
+HC,Chile,b,voiced,bilabial,i,anterior,high,stressed,4.4
+HC,Chile,b,voiced,bilabial,i,anterior,high,stressed,5.7
+HC,Chile,b,voiced,bilabial,e,anterior,mid,stressed,9.3
+HC,Chile,b,voiced,bilabial,e,anterior,mid,stressed,6.7
+HC,Chile,b,voiced,bilabial,a,central,low,stressed,5.4
+HC,Chile,b,voiced,bilabial,a,central,low,stressed,5.3
+HC,Chile,b,voiced,bilabial,u,posterior,high,stressed,10.6
+HC,Chile,b,voiced,bilabial,u,posterior,high,stressed,15
+HC,Chile,b,voiced,bilabial,o,posterior,mid,stressed,13.3
+HC,Chile,b,voiced,bilabial,o,posterior,mid,stressed,14.3
+HC,Chile,d,voiced,dental,i,anterior,high,stressed,8.4
+HC,Chile,d,voiced,dental,i,anterior,high,stressed,5.3
+HC,Chile,d,voiced,dental,e,anterior,mid,stressed,4.4
+HC,Chile,d,voiced,dental,e,anterior,mid,stressed,4.2
+HC,Chile,d,voiced,dental,a,central,low,stressed,10.1
+HC,Chile,d,voiced,dental,a,central,low,stressed,5.7
+HC,Chile,d,voiced,dental,u,posterior,high,stressed,4.9
+HC,Chile,d,voiced,dental,u,posterior,high,stressed,5.4
+HC,Chile,d,voiced,dental,o,posterior,mid,stressed,2.6
+HC,Chile,d,voiced,dental,o,posterior,mid,stressed,6.8
+HC,Chile,g,voiced,velar,i,anterior,high,stressed,1.9
+HC,Chile,g,voiced,velar,i,anterior,high,stressed,2.7
+HC,Chile,g,voiced,velar,e,anterior,mid,stressed,4.9
+HC,Chile,g,voiced,velar,e,anterior,mid,stressed,5
+HC,Chile,g,voiced,velar,a,central,low,stressed,6.8
+HC,Chile,g,voiced,velar,a,central,low,stressed,5.8
+HC,Chile,g,voiced,velar,u,posterior,high,stressed,4.4
+HC,Chile,g,voiced,velar,u,posterior,high,stressed,7.9
+HC,Chile,g,voiced,velar,o,posterior,mid,stressed,10
+HC,Chile,g,voiced,velar,o,posterior,mid,stressed,8.4
+HC,Chile,k,voiceless,velar,i,anterior,high,stressed,18.8
+HC,Chile,k,voiceless,velar,i,anterior,high,stressed,20.3
+HC,Chile,k,voiceless,velar,e,anterior,mid,stressed,18.3
+HC,Chile,k,voiceless,velar,e,anterior,mid,stressed,10.3
+HC,Chile,k,voiceless,velar,a,central,low,stressed,19.7
+HC,Chile,k,voiceless,velar,a,central,low,stressed,19.9
+HC,Chile,k,voiceless,velar,u,posterior,high,stressed,21.8
+HC,Chile,k,voiceless,velar,u,posterior,high,stressed,25.2
+HC,Chile,k,voiceless,velar,o,posterior,mid,stressed,21.8
+HC,Chile,k,voiceless,velar,o,posterior,mid,stressed,23.6
+HC,Chile,p,voiceless,bilabial,i,anterior,high,stressed,16.1
+HC,Chile,p,voiceless,bilabial,i,anterior,high,stressed,17.6
+HC,Chile,p,voiceless,bilabial,e,anterior,mid,stressed,21.9
+HC,Chile,p,voiceless,bilabial,e,anterior,mid,stressed,21.2
+HC,Chile,p,voiceless,bilabial,a,central,low,stressed,24.4
+HC,Chile,p,voiceless,bilabial,a,central,low,stressed,21.6
+HC,Chile,p,voiceless,bilabial,u,posterior,high,stressed,18
+HC,Chile,p,voiceless,bilabial,u,posterior,high,stressed,23.9
+HC,Chile,p,voiceless,bilabial,o,posterior,mid,stressed,21.89
+HC,Chile,p,voiceless,bilabial,o,posterior,mid,stressed,22.3
+HC,Chile,t,voiceless,dental,i,anterior,high,stressed,16.8
+HC,Chile,t,voiceless,dental,i,anterior,high,stressed,16.2
+HC,Chile,t,voiceless,dental,e,anterior,mid,stressed,17.3
+HC,Chile,t,voiceless,dental,e,anterior,mid,stressed,19
+HC,Chile,t,voiceless,dental,a,central,low,stressed,22.9
+HC,Chile,t,voiceless,dental,a,central,low,stressed,21.6
+HC,Chile,t,voiceless,dental,u,posterior,high,stressed,21.6
+HC,Chile,t,voiceless,dental,u,posterior,high,stressed,19.5
+HC,Chile,t,voiceless,dental,o,posterior,mid,stressed,20.1
+HC,Chile,t,voiceless,dental,o,posterior,mid,stressed,18.2

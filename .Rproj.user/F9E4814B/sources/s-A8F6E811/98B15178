@@ -1,0 +1,27 @@
+{
+    "id": "98B15178",
+    "path": "~/Documents/GitHub/butera_consult/scripts/01_analysis_nmc.R",
+    "project_path": "scripts/01_analysis_nmc.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1644104004818.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "12,0",
+        "scrollLine": "7"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1644104061,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1644104061129,
+    "read_only": false,
+    "read_only_alternatives": []
+}
