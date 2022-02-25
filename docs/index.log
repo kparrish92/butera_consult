@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.9.8)  5 FEB 2022 19:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.9.8)  25 FEB 2022 08:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -619,25 +619,25 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-13.
+19.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-<index_files/figure-latex/unnamed-chunk-2-1.pdf, id=4, 457.71pt x 316.18124pt>
+) [1
+
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<index_files/figure-latex/unnamed-chunk-2-1.pdf, id=22, 457.71pt x 316.18124pt>
+
 File: index_files/figure-latex/unnamed-chunk-2-1.pdf Graphic file (type pdf)
 <use index_files/figure-latex/unnamed-chunk-2-1.pdf>
 Package pdftex.def Info: index_files/figure-latex/unnamed-chunk-2-1.pdf  used o
-n input line 145.
+n input line 179.
 (pdftex.def)             Requested size: 457.72984pt x 316.19493pt.
-[1
-
-{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 <index_files/figure-latex/unnamed-chunk-3-1.pdf, id=23, 457.71pt x 316.18124pt>
 
 File: index_files/figure-latex/unnamed-chunk-3-1.pdf Graphic file (type pdf)
 <use index_files/figure-latex/unnamed-chunk-3-1.pdf>
 Package pdftex.def Info: index_files/figure-latex/unnamed-chunk-3-1.pdf  used o
-n input line 149.
+n input line 183.
 (pdftex.def)             Requested size: 457.72984pt x 316.19493pt.
 [2 <./index_files/figure-latex/unnamed-chunk-2-1.pdf>]
 <index_files/figure-latex/unnamed-chunk-4-1.pdf, id=35, 457.71pt x 316.18124pt>
@@ -645,7 +645,7 @@ n input line 149.
 File: index_files/figure-latex/unnamed-chunk-4-1.pdf Graphic file (type pdf)
 <use index_files/figure-latex/unnamed-chunk-4-1.pdf>
 Package pdftex.def Info: index_files/figure-latex/unnamed-chunk-4-1.pdf  used o
-n input line 153.
+n input line 187.
 (pdftex.def)             Requested size: 457.72984pt x 316.19493pt.
 [3 <./index_files/figure-latex/unnamed-chunk-3-1.pdf>]
 <index_files/figure-latex/unnamed-chunk-5-1.pdf, id=47, 457.71pt x 316.18124pt>
@@ -653,26 +653,26 @@ n input line 153.
 File: index_files/figure-latex/unnamed-chunk-5-1.pdf Graphic file (type pdf)
 <use index_files/figure-latex/unnamed-chunk-5-1.pdf>
 Package pdftex.def Info: index_files/figure-latex/unnamed-chunk-5-1.pdf  used o
-n input line 157.
+n input line 191.
 (pdftex.def)             Requested size: 457.72984pt x 316.19493pt.
 [4 <./index_files/figure-latex/unnamed-chunk-4-1.pdf>]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 164.
+(Font)              <10> on input line 198.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 164.
+(Font)              <7> on input line 198.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 164.
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-77.
+(Font)              <5> on input line 198.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 2
+11.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Overfull \hbox (62.6058pt too wide) in paragraph at lines 184--279
+Overfull \hbox (40.99467pt too wide) in paragraph at lines 218--301
  [] 
  []
 
 
-LaTeX Warning: Float too large for page by 308.4766pt on input line 279.
+LaTeX Warning: Float too large for page by 178.4766pt on input line 301.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -685,11 +685,11 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [5 <./index_files/figure-latex/unnamed-chunk-5-1.pdf>] [6] [7] (./index.aux) ) 
 Here is how much of TeX's memory you used:
- 14063 strings out of 478994
- 209327 string characters out of 5858185
- 603487 words of memory out of 5000000
+ 14073 strings out of 478994
+ 209435 string characters out of 5858185
+ 594925 words of memory out of 5000000
  31175 multiletter control sequences out of 15000+600000
- 455456 words of font info for 104 fonts, out of 8000000 for 9000
+ 455904 words of font info for 109 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  85i,11n,88p,510b,340s stack positions out of 5000i,500n,10000p,200000b,80000s
 {
@@ -699,7 +699,7 @@ mf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2021/texmf-dist/fo
 nts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/
 public/lm/lmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/l
 mr17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on index.pdf (7 pages, 167388 bytes).
+Output written on index.pdf (7 pages, 168502 bytes).
 PDF statistics:
  124 PDF objects out of 1000 (max. 8388607)
  97 compressed objects within 1 object stream

@@ -15,6 +15,7 @@ library(tidyverse)
 library(lme4)
 library(lmerTest)
 library(jtools)
+library(xtable)
 
 # Load data 
 nmc <- read.csv(here("data", "tidy", "nmc.csv")) %>% 
@@ -29,7 +30,7 @@ The actual values are very small and the I specified rounding function used to o
 
 # Statistical Analysis 
 
-The data were analyzed using generalized mixed effects models in which the outcome variable Relative Intensity (RI) in decibels was predicted by Region (7 regions total), point of articulation (velar, bilabial or dental), sonority (voiced or voiceless), stress (stressed or unstressed), horizontal position (anterior, central or posterior), vertical position (high, mid or low).
+The data were analyzed using generalized mixed effects models in which the outcome variable Relative Intensity (RI) in decibels was predicted by Region (6 regions total), point of articulation (velar, bilabial or dental), sonority (voiced or voiceless), stress (stressed or unstressed), horizontal position (anterior, central or posterior), vertical position (high, mid or low).
 Several interactions were also assessed.
 Three total 2-way interactions included a region by point of articulation, region by sonority, and a stress by region.
 Four total 3-way interactions were assessed: region by place of articulation and sonority, stress by region and sonority, region by sonority by horizontal vowel and finally region by sonority by vertical position. 
@@ -106,3 +107,4 @@ emmip(model, Region ~ Stress ~ Sonority)
 ```{r}
 summ(model)
 ```
+
