@@ -30,9 +30,9 @@ The actual values are very small and the I specified rounding function used to o
 
 # Statistical Analysis 
 
-The data were analyzed using generalized mixed effects models in which the outcome variable Relative Intensity (RI) in decibels was predicted by Region (6 regions total), point of articulation (velar, bilabial or dental), sonority (voiced or voiceless), stress (stressed or unstressed), horizontal position (anterior, central or posterior), vertical position (high, mid or low).
+The data were analyzed using generalized linear mixed effects models in which the outcome variable Relative Intensity (RI) was predicted by Region (6 regions total), point of articulation (velar, bilabial or dental), sonority (voiced or voiceless), stress (stressed or unstressed), horizontal position (anterior, central or posterior), vertical position (high, mid or low).
 Several interactions were also assessed.
-Three total 2-way interactions included a region by point of articulation, region by sonority, and a stress by region.
+Five total 2-way interactions included 1.) region by point of articulation, 2.) region by sonority, 3.) stress by region, 4.) vertical vowel position by region and 5.) horizontal vowel position by region.
 Four total 3-way interactions were assessed: region by place of articulation and sonority, stress by region and sonority, region by sonority by horizontal vowel and finally region by sonority by vertical position. 
 Random intercepts by participant were included to take into account the nested structure of the data.
 The normality of residuals were determined by visual inspections of a Q-Q and residual versus fitted plots. 
