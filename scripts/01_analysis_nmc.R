@@ -13,6 +13,14 @@ library(lmerTest)
 
 raw_data <- read.csv(here("data", "raw_data.csv"))
 
+# Replace instances of "Southern Insular Peninsular" with "Southern Insular Spain"
+# after consult
+raw_data$Region = replace(raw_data$Region, raw_data$Region=="Southern Insular Peninsular", "Southern Insular Spain")
+
+# verify it worked 
+raw_data %>% 
+  group_by(Region) %>% 
+  summarize(n = n())
 # Carry out nested model comparisons starting with a null model
 
 mod0 = lmer(Relative.intensity ~ 1 + (1 | Speaker), data = raw_data)
@@ -115,7 +123,8 @@ ver_region = lmer(Relative.intensity ~ 1 + Region + Point.of.articulation +
                     (1 | Speaker), data = raw_data)
 
 nmc_df <- anova(mod0, region, poa, sonority, stress, horizontal, vertical, region_poa, 
-      region_son, region_stress_son, region_poa_son, hor_region, ver_region)
+      region_son, region_stress, 
+      region_stress_son, region_poa_son, hor_region, ver_region)
 
 
 
@@ -125,11 +134,4 @@ nmc_df %>%
 ver_region %>% 
   write_rds(here("data", "tidy", "model.rmd"))
 
-
-
-library(emmeans)
-emmip(int_4, Horizontal.position ~ Region ~ Sonority)
-
-
-emmip(int_3, Region ~ Point.of.articulation ~ Stress)
 

@@ -23,6 +23,10 @@ nmc <- read.csv(here("data", "tidy", "nmc.csv")) %>%
 model <- readRDS(here("data", "tidy", "model.rmd"))
 ```
 
+**Note:** Wherever p > 0, the reporting standard may vary. I would recommend simply putting p > .005 (as opposed to .05).
+The actual values are very small and the I specified rounding function used to only give a few digits for space reasons. (Some of the values have 15+ zeroes).
+
+
 # Statistical Analysis 
 
 The data were analyzed using generalized mixed effects models in which the outcome variable Relative Intensity (RI) in decibels was predicted by Region (7 regions total), point of articulation (velar, bilabial or dental), sonority (voiced or voiceless), stress (stressed or unstressed), horizontal position (anterior, central or posterior), vertical position (high, mid or low).
@@ -55,11 +59,18 @@ Main effects and interactions were determined by carrying out nested model compa
 
 `Region*sonority` - 2-way interaction (X(`r nmc$Df[9]`) = `r nmc$Chisq[9] %>% round(digits = 2)`; p < `r nmc$p_val [9] %>% round(digits = 3)`) - The effect of sonority (the difference in RI between voiced and voiceless consonants) depended on/differed by Region. 
 
-`Region*poa` - 2-way interaction (X(`r nmc$Df[8]`) = `r nmc$Chisq[8] %>% round(digits = 2)`; p < `r nmc$p_val [8] %>% round(digits = 3)`) - The effect of Point of Articulation (the difference in RI in dental, bilibial and velar points of articulation) depended on/differed by Region. 
+`Region*poa` - 2-way interaction (X(`r nmc$Df[8]`) = `r nmc$Chisq[8] %>% round(digits = 2)`; p < `r nmc$p_val [8] %>% round(digits = 3)`) - The effect of Point of Articulation (the difference in RI in dental, bilabial and velar points of articulation) depended on/differed by Region. 
 
-`Region*stress*sonority` - 3-way interaction (X(`r nmc$Df[10]`) = `r nmc$Chisq[10] %>% round(digits = 2)`; p < `r nmc$p_val [10] %>% round(digits = 3)`) - The difference in RI between stressed and unstressed positions varied by whether the consonant was voiced or voiceless and by Region.  
+`Region*stress` - **No** 2-way interaction (X(`r nmc$Df[10]`) = `r nmc$Chisq[10] %>% round(digits = 2)`; p < `r nmc$p_val [10] %>% round(digits = 3)`) - The effect of stress on RI depended on/differed by Region. 
 
-`Region*poa*sonority` - 3-way interaction (X(`r nmc$Df[11]`) = `r nmc$Chisq[11] %>% round(digits = 2)`; p < `r nmc$p_val [11] %>% round(digits = 3)`) - The difference in the effect of RI between each point of articulation depended upon whether the consonant was voiced or voiceless and by Region.  
+`Region*poa*sonority` - 3-way interaction (X(`r nmc$Df[12]`) = `r nmc$Chisq[12] %>% round(digits = 2)`; p < `r nmc$p_val [12] %>% round(digits = 3)`) - The difference in RI between stressed and unstressed positions varied by whether the consonant was voiced or voiceless and by Region. 
+
+`Region*stress*sonority` - **No** 3-way interaction (X(`r nmc$Df[11]`) = `r nmc$Chisq[11] %>% round(digits = 2)`; p < `r nmc$p_val [11] %>% round(digits = 3)`) - The difference in RI between stressed and unstressed positions varied by whether the consonant was voiced or voiceless and by Region. 
+
+`Region*horizontal position` - **No** 2-way interaction (X(`r nmc$Df[13]`) = `r nmc$Chisq[13] %>% round(digits = 2)`; p < `r nmc$p_val [13] %>% round(digits = 3)`) - The model could not detect differences in horizontal position per region
+
+`Region*vertical postion` - **No** 2-way interaction (X(`r nmc$Df[14]`) = `r nmc$Chisq[14] %>% round(digits = 2)`; p < `r nmc$p_val [14] %>% round(digits = 3)`) - The model could not detect differences in vertical position per region
+
 
 **2-way Region x Sonority interaction**
 
@@ -88,7 +99,6 @@ emmip(model, Region ~ Sonority ~ Point.of.articulation)
 ```{r}
 library(emmeans)
 emmip(model, Region ~ Stress ~ Sonority)
-
 ```
 
 # Full model 
