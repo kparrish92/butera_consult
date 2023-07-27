@@ -10,9 +10,9 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 ```{r, include=FALSE}
 # Libraries 
 
-cbPalette <- c("#000000","#004949","#009292","#ff6db6","#ffb6db",
+cbPalette <- c("#000000","#ffff6d","#009292","#ff6db6",
  "#490092","#006ddb","#b66dff","#6db6ff","#b6dbff",
- "#920000","#924900","#db6d00","#24ff24","#ffff6d")
+ "#920000","#db6d00","#24ff24")
 
 library(here)
 library(tidyverse)
