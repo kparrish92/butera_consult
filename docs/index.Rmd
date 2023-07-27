@@ -10,6 +10,10 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 ```{r, include=FALSE}
 # Libraries 
 
+cbPalette <- c("#000000","#004949","#009292","#ff6db6","#ffb6db",
+ "#490092","#006ddb","#b66dff","#6db6ff","#b6dbff",
+ "#920000","#924900","#db6d00","#24ff24","#ffff6d")
+
 library(here)
 library(tidyverse)
 library(lme4)
@@ -77,7 +81,8 @@ Main effects and interactions were determined by carrying out nested model compa
 
 ```{r}
 library(emmeans)
-emmip(model, Region ~ Sonority)
+emmip(model, Region ~ Sonority) +
+  scale_colour_manual(values = c(cbPalette))
 ```
 
 
@@ -85,21 +90,25 @@ emmip(model, Region ~ Sonority)
 
 ```{r}
 library(emmeans)
-emmip(model, Region ~ Point.of.articulation)
+emmip(model, Region ~ Point.of.articulation) +
+  scale_colour_manual(values = c(cbPalette))
 ```
 
 **3-way Region x PoA x Sonority interaction**
 
 ```{r}
 library(emmeans)
-emmip(model, Region ~ Sonority ~ Point.of.articulation)
+emmip(model, Region ~ Sonority ~ Point.of.articulation) +
+  scale_colour_manual(values = c(cbPalette))
+```
 ```
 
 **3-way Region x Stress x Sonority interaction**
 
 ```{r}
 library(emmeans)
-emmip(model, Region ~ Stress ~ Sonority)
+emmip(model, Region ~ Stress ~ Sonority) +
+  scale_colour_manual(values = c(cbPalette))
 ```
 
 # Full model 
