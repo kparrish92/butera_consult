@@ -86,6 +86,7 @@ emmip(model, Region ~ Sonority) +
 ```
 
 
+
 **2-way Region x PoA interaction**
 
 ```{r}
@@ -101,6 +102,12 @@ library(emmeans)
 emmip(model, Region ~ Sonority ~ Point.of.articulation) +
   scale_colour_manual(values = c(cbPalette))
 ```
+
+**NEW: 3-way Region x PoA x Sonority interaction**
+
+```{r}
+emmip(model, Region ~ Sonority ~ Point.of.articulation)[["data"]] %>% 
+  ggplot(aes(x = Point.of.articulation, y = yvar, color = Sonority, group = Sonority)) + geom_point() + geom_line() + ylab("Linear Prediction") + scale_colour_manual(values = c(cbPalette)) + facet_wrap(~Region)
 ```
 
 **3-way Region x Stress x Sonority interaction**
@@ -111,6 +118,12 @@ emmip(model, Region ~ Stress ~ Sonority) +
   scale_colour_manual(values = c(cbPalette))
 ```
 
+**NEW: 3-way Region x Stress x Sonority interaction**
+
+```{r}
+emmip(model, Region ~ Stress ~ Sonority)[["data"]] %>% 
+  ggplot(aes(x = Sonority, y = yvar, color = Stress, group = Stress)) + geom_point() + geom_line() + ylab("Relative Intensity") + scale_colour_manual(values = c(cbPalette)) + facet_wrap(~Region)
+```
 # Full model 
 
 ```{r}
